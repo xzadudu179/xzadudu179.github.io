@@ -2,11 +2,11 @@
 <search>
   <entry>
     <title>测试用文章</title>
-    <url>/2024/09/03/World/</url>
+    <url>/xzadudu179.github.io/2024/09/03/World/</url>
     <content><![CDATA[<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/2024/09/03/World/rainworld1.jpg"
+                     data-src="/xzadudu179.github.io/2024/09/03/World/rainworld1.jpg"
                       alt="雨世界"
                 ><figcaption>雨世界</figcaption></figure></p>
 <p><strong>只是一篇测试用文章~</strong></p>
@@ -64,6 +64,8 @@
             </details>
 
 <h3 id="选项卡测试"><a href="#选项卡测试" class="headerlink" title="选项卡测试"></a>选项卡测试</h3><div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">第一选项</a></li><li class="tab"><a class="#testunique-2">第二选项</a></li><li class="tab"><a class="#testunique-3">第三选项</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p><strong>选项 1.</strong><br>awa</p></div><div class="tab-pane" id="testunique-2"><p><strong>选项 2.</strong><br>xwx</p></div><div class="tab-pane" id="testunique-3"><p><strong>选项 3.</strong><br>qwq</p></div></div></div>
+
+
 
 <a class="button  regular" href='https://github.com/xzadudu179' title='按钮测试'><i class='fa-mug-hot'></i> 按钮测试</a>
 <a class="button  center large" href='https://github.com/xzadudu179' title='大按钮测试'><i class='fa-mug-hot'></i> 大按钮测试</a>]]></content>
