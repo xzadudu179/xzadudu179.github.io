@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>测试 (Hello World)</title>
+    <title>测试用文章</title>
     <url>/2024/09/03/World/</url>
     <content><![CDATA[<p><figure class="image-caption"><img  
                      lazyload
@@ -10,6 +10,65 @@
                       alt="雨世界"
                 ><figcaption>雨世界</figcaption></figure></p>
 <p><strong>只是一篇测试用文章~</strong></p>
-<div class="highlight-container" data-rel="Javascript"><figure class="iseeu highlight javascript"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    <span class="string">&quot;test&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="string">&quot;style&quot;</span>: <span class="string">&quot;javascript&quot;</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>]]></content>
+<div class="highlight-container" data-rel="Javascript"><figure class="iseeu highlight javascript"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    <span class="string">&quot;test&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="string">&quot;style&quot;</span>: <span class="string">&quot;javascript&quot;</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>owo</p>
+<h2 id="二级标题2"><a href="#二级标题2" class="headerlink" title="二级标题2"></a>二级标题2</h2><p>awa</p>
+<h1 id="一级标题2"><a href="#一级标题2" class="headerlink" title="一级标题2"></a>一级标题2</h1><p>xwx</p>
+
+  <div class="note-large default">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-info"></i><p>信息提示块测试</p>
+
+    </div>
+    <div class="notel-content">
+      <p>line<br>line</p>
+
+    </div>
+  </div>
+
+
+  <div class="note-large blue">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>蓝色提示块测试</p>
+
+    </div>
+    <div class="notel-content">
+      <p>line<br>line</p>
+
+    </div>
+  </div>
+
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-xmark"></i><p>红色提示块测试</p>
+
+    </div>
+    <div class="notel-content">
+      <p>line<br>line</p>
+
+    </div>
+  </div>
+
+
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-exclamation"></i><p>小提示块测试</p>
+
+  </div>
+
+<details class="green" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>折叠块测试 </summary>
+              <div class='content'>
+              <p>owo<br>owo<br>owo</p>  <div class="note p-4 mb-4 rounded-small danger">    <p>danger</p>  </div>
+              </div>
+            </details>
+
+<h3 id="选项卡测试"><a href="#选项卡测试" class="headerlink" title="选项卡测试"></a>选项卡测试</h3><div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">第一选项</a></li><li class="tab"><a class="#testunique-2">第二选项</a></li><li class="tab"><a class="#testunique-3">第三选项</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p><strong>选项 1.</strong><br>awa</p></div><div class="tab-pane" id="testunique-2"><p><strong>选项 2.</strong><br>xwx</p></div><div class="tab-pane" id="testunique-3"><p><strong>选项 3.</strong><br>qwq</p></div></div></div>
+
+<a class="button  regular" href='https://github.com/xzadudu179' title='按钮测试'><i class='fa-mug-hot'></i> 按钮测试</a>
+<a class="button  center large" href='https://github.com/xzadudu179' title='大按钮测试'><i class='fa-mug-hot'></i> 大按钮测试</a>]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
   </entry>
 </search>
