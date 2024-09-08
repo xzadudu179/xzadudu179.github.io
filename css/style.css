@@ -4051,13 +4051,13 @@ html.is-animating .transition-fade {
 }
 .wl-reaction-img {
   position: relative;
-  width: 42px;
-  height: 42px;
+  width: 84px;
+  height: 84px;
 }
 @media (max-width: 580px) {
   .wl-reaction-img {
-    width: 32px;
-    height: 32px;
+    width: 64px;
+    height: 64px;
   }
 }
 .wl-reaction-loading {
