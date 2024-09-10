@@ -195,7 +195,7 @@
 
   </div>
 
-<details class="yellow" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>输入 npm -v 出现了无法加载文件 url，因为在此系统上禁止运行脚本的解决方法 </summary>
+<details class="yellow" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>输入 npm -v 出现了无法加载文件 [url]，因为在此系统上禁止运行脚本的解决方法 </summary>
               <div class='content'>
               <ol><li>使用管理员身份运行 PowerShell</li><li>在 PowerShell 终端输入以下命令：<div class="highlight-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Set-ExecutionPolicy</span> <span class="literal">-ExecutionPolicy</span> RemoteSigned</span><br></pre></td></tr></table></figure></div></li><li>确定。</li><li>再次输入 <code>npm -v</code>，此时应该输出 npm 的版本。<br><strong>如果还是不可以的话，可以去网上搜一搜解决方法。</strong></li></ol>
               </div>
@@ -334,7 +334,7 @@
 <p>等待 0 ~ 10 分钟后访问你填写的域名地址，如果成功访问并且出现你的网页内容，说明部署成功。</p>
 <p>如果出现了 404 的问题，可以看看上一栏 Github Pages 出现 404 问题的折叠块。</p>
 <h2 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h2><p>现在你应该搭建好了一个个人博客了！可以添加新文章&#x2F;新功能啦~</p>
-<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#116;&#x65;&#x72;&#114;&#x61;&#49;&#x37;&#x39;&#64;&#x31;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d;" >&#116;&#x65;&#x72;&#114;&#x61;&#49;&#x37;&#x39;&#64;&#x31;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="mailto:&#109;&#x65;&#x40;&#120;&#122;&#97;&#100;&#x75;&#100;&#117;&#49;&#55;&#x39;&#x2e;&#x74;&#111;&#112;" >&#109;&#x65;&#x40;&#120;&#122;&#97;&#100;&#x75;&#100;&#117;&#49;&#55;&#x39;&#x2e;&#x74;&#111;&#112; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 哦。</p>
+<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#116;&#x65;&#114;&#x72;&#97;&#49;&#55;&#57;&#x40;&#49;&#54;&#51;&#46;&#x63;&#111;&#109;" >&#116;&#x65;&#114;&#x72;&#97;&#49;&#55;&#57;&#x40;&#49;&#54;&#51;&#46;&#x63;&#111;&#109; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="mailto:&#109;&#x65;&#64;&#x78;&#x7a;&#97;&#x64;&#x75;&#100;&#x75;&#49;&#x37;&#x39;&#46;&#116;&#x6f;&#x70;" >&#109;&#x65;&#64;&#x78;&#x7a;&#97;&#x64;&#x75;&#100;&#x75;&#49;&#x37;&#x39;&#46;&#116;&#x6f;&#x70; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 哦。</p>
 ]]></content>
       <categories>
         <category>软件</category>
@@ -342,7 +342,7 @@
       </categories>
       <tags>
         <tag>教程</tag>
-        <tag>hexo</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
