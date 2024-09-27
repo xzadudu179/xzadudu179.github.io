@@ -10526,7 +10526,7 @@ div.tabs .tab-content .tab-pane .note:last-child {
 .rec-timeline {
   width: 96%;
   height: 90%;
-  padding: 40px 0 50px 25px;
+  padding: 0px 0 50px 25px;
   border-left: 3px solid;
   border-image: linear-gradient(rgba(0,0,0,0) 0%, var(--border-color) 100px, var(--border-color) 90%, rgba(0,0,0,0) 100%) 1;
 }
