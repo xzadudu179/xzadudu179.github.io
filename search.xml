@@ -159,9 +159,9 @@
   </div>
 <p><strong>以下是不同方法安装 Node.js 的教程：</strong></p>
 <div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">包管理器</a></li><li class="tab"><a class="#testunique-2">安装程序</a></li><li class="tab"><a class="#testunique-3">二进制文件</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p>按 <code>win</code> + <code>r</code> 键打开运行窗口，输入 <code>powershell</code> 打开 Powershell 终端，并将如下代码复制，粘贴进 Powershell 输入框。<br>也可以一行一行的输入而非复制。<br><strong>注意：以 <code>#</code> 开头的行是注释行，不需要输入。</strong></p>
-<div class="highlight-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># layouts.download.codeBox.installsFnm</span></span><br><span class="line">winget install Schniz.fnm</span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.fnmEnvSetup</span></span><br><span class="line">fnm env <span class="literal">--use-on-cd</span> | <span class="built_in">Out-String</span> | <span class="built_in">Invoke-Expression</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.downloadAndInstallNodejs</span></span><br><span class="line"><span class="comment">#                             ↓ 大版本号，2024年9月10日最新版本为 v22.8.0</span></span><br><span class="line">fnm use <span class="literal">--install-if-missing</span> <span class="number">22</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNodejsVersion</span></span><br><span class="line">node <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNpmVersion</span></span><br><span class="line">npm <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><p><a class="button  regular" href='https://nodejs.org/dist/v22.8.0/node-v22.8.0-x64.msi' title='Node.js 安装程序'><i class='fa-regular fa-hexagon-check'></i> Node.js 安装程序</a></p>
+<div class="highlight-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># layouts.download.codeBox.installsFnm</span></span><br><span class="line">winget install Schniz.fnm</span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.fnmEnvSetup</span></span><br><span class="line">fnm env <span class="literal">--use-on-cd</span> | <span class="built_in">Out-String</span> | <span class="built_in">Invoke-Expression</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.downloadAndInstallNodejs</span></span><br><span class="line"><span class="comment">#                             ↓ 大版本号，2024年9月10日最新版本为 v22.8.0</span></span><br><span class="line">fnm use <span class="literal">--install-if-missing</span> <span class="number">22</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNodejsVersion</span></span><br><span class="line">node <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNpmVersion</span></span><br><span class="line">npm <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-x64.msi' title='Node.js 安装程序'><i class='fa-regular fa-hexagon-check'></i> Node.js 安装程序</a></p>
 <ol>
-<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-installer" >访问官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>下载当前（2024年9月10日）最新版本的 Node.js（v22.8.0）</li>
+<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-installer" >访问官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
 <li>双击打开刚刚下载的安装程序，此时你应该看到如下窗口：<figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
@@ -171,9 +171,9 @@
 <li>点击 <code>Next</code> 按钮继续，接下来会让你接受安装协议，勾选 <code>I accept the terms in the License Agreement</code> 并且点击 <code>Next</code> 继续。</li>
 <li>安装程序让你选择程序安装路径，可以随便找一个路径安装。</li>
 <li>接下来一路按 <code>Next</code> 安装就行。</li>
-</ol></div><div class="tab-pane" id="testunique-3"><p><a class="button  regular" href='https://nodejs.org/dist/v22.8.0/node-v22.8.0-win-x64.zip' title='Node.js 二进制文件'><i class='fa-regular fa-hexagon-check'></i> Node.js 二进制文件</a></p>
+</ol></div><div class="tab-pane" id="testunique-3"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-win-x64.zip' title='Node.js 二进制文件'><i class='fa-regular fa-hexagon-check'></i> Node.js 二进制文件</a></p>
 <ol>
-<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-binaries" >访问官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>下载当前（2024年9月10日）最新版本的 Node.js（v22.8.0）</li>
+<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-binaries" >访问官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
 <li>将下载到的 .zip 文件解压到一个合适的路径。</li>
 <li>按 <code>win</code> + <code>r</code> 键，输入 <code>sysdm.cpl</code> 打开系统属性设置，选择 <code>高级</code> &gt; <code>环境变量</code>。</li>
 <li>在 <code>系统变量</code> 栏的 <code>Path</code> 环境变量下点击 <code>编辑</code>，在列表下添加一个新项，值为你的<strong>Node.js 二进制文件路径</strong>。<br><figure class="image-caption"><img  
@@ -203,8 +203,8 @@
             </details>
 
 <h4 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h4><p>在 <a class="link"   href="https://git-scm.com/" >Git 官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>可以安装到最新版的 Git.</p>
-<a class="button  regular" href='https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/Git-2.46.0-64-bit.exe' title='64x Git 安装包'><i class='fa-regular fa-hexagon-check'></i> 64x Git 安装包</a>
-<p>点击上方按钮下载当前（2024年9月10日）最新版本的 Git.</p>
+<a class="button  regular" href='https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/Git-2.46.2-64-bit.exe' title='64x Git 安装包'><i class='fa-regular fa-hexagon-check'></i> 64x Git 安装包</a>
+<p>点击上方按钮下载当前（2024年10月4日）最新版本的 Git.</p>
 <p>Git 的安装方式类似 Node.js，如果不清楚可以去网上搜教程。我就先不写啦（溜走）</p>
 <hr>
 <h3 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h3><p>在终端输入以下命令安装 Hexo。</p>
@@ -335,7 +335,7 @@
 <p>等待 0 ~ 10 分钟后访问你填写的域名地址，如果成功访问并且出现你的网页内容，说明部署成功。</p>
 <p>如果出现了 404 的问题，可以看看上一栏 Github Pages 出现 404 问题的折叠块。</p>
 <h2 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h2><p>现在你应该搭建好了一个个人博客了！可以添加新文章&#x2F;新功能啦~</p>
-<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#116;&#101;&#114;&#114;&#97;&#49;&#x37;&#57;&#x40;&#49;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d;" >&#116;&#101;&#114;&#114;&#97;&#49;&#x37;&#57;&#x40;&#49;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="mailto:&#109;&#101;&#64;&#x78;&#122;&#97;&#x64;&#117;&#x64;&#117;&#49;&#55;&#x39;&#46;&#x74;&#111;&#112;" >&#109;&#101;&#64;&#x78;&#122;&#97;&#x64;&#117;&#x64;&#117;&#49;&#55;&#x39;&#46;&#x74;&#111;&#112; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 哦。</p>
+<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#116;&#x65;&#114;&#114;&#97;&#x31;&#x37;&#x39;&#64;&#49;&#x36;&#51;&#46;&#99;&#x6f;&#x6d;" >&#116;&#x65;&#114;&#114;&#97;&#x31;&#x37;&#x39;&#64;&#49;&#x36;&#51;&#46;&#99;&#x6f;&#x6d; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="mailto:&#x6d;&#101;&#x40;&#120;&#x7a;&#x61;&#x64;&#x75;&#100;&#117;&#49;&#x37;&#57;&#x2e;&#116;&#x6f;&#112;" >&#x6d;&#101;&#x40;&#120;&#x7a;&#x61;&#x64;&#x75;&#100;&#117;&#49;&#x37;&#57;&#x2e;&#116;&#x6f;&#112; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 哦。</p>
 ]]></content>
       <categories>
         <category>软件</category>
@@ -381,7 +381,7 @@
 <p>不过也不是什么功能都要整出来，肯定还是得做筛选的，不然可能感觉太乱了 xwx。</p>
 <p>现在想的功能大多数也是群友想出来的，说实话，我还是不太确定到底要不要公开让别人随意拉 BOT 到其他群聊…不过哪怕要做，我也得做一下违禁词 &#x2F; 图片处理什么的（钱包 呜呜）</p>
 <h3 id="XME-Bot-文档"><a href="#XME-Bot-文档" class="headerlink" title="XME-Bot 文档"></a>XME-Bot 文档</h3><p>我给 XME-Bot 单独写了一个文档在 <a class="link"   href="https://docs.xme.xzadudu179.top/" >https://docs.xme.xzadudu179.top <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 里面，大概方便合作开发也方便群友看帮助什么的~</p>
-<p>顺便，这是我第一次写这种技术文档（？）用了一个可能不是很火的 <a class="link"   href="https://github.com/docsifyjs" >Docisfy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 框架（里面一大堆 CSS 被我自己改了一下 hhh）</p>
+<p>顺便，这是我第一次写这种技术文档（？）用了一个可能不是很火的 <a class="link"   href="https://github.com/docsifyjs" >Docsify <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 框架（里面一大堆 CSS 被我自己改了一下 hhh）</p>
 <h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><h3 id="XME-Bot-的未来"><a href="#XME-Bot-的未来" class="headerlink" title="XME-Bot 的未来"></a>XME-Bot 的未来</h3><p>我希望未来 XME-Bot 可以变成一个大家都喜欢用的工具+娱乐类机器人，也能找到有意愿的人和我一起合作开发 XME-Bot，顺便接入很多功能，让它变成群里不可或缺的便携性工具 &#x2F; 朋友。</p>
 <p>或许以后会让 XME-Bot 和其他的服务联动，亦或是变成连我自己都需要的工具？到时候再说吧…</p>
 <p>我能想到我以后<strong>一定</strong>会重写 XME-Bot，因为我知道我现在的技术力并不好，也没有参与过任何实际项目的制作，大概也是让我攒攒经验吧…</p>
