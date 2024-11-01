@@ -435,11 +435,7 @@
 <p>响应式页面是我做的最头疼的一项，本来以为自己适配的很好，结果一开移动端设备模拟就爆炸了…</p>
 <p>花了好长时间调调调，加了一大堆的 css 代码（我都想把 app.vue 的 css 单独转移到文件里了，到时候看看吧）最终也是勉强适配上了 chrome 设备模拟提供的所有设备的横屏和竖屏效果，至少不会出现各种奇怪的爆炸情况了（呼）</p>
 <p>这下自己也是会做响应式前端页面的人啦（？）或者说，真正实际制作了一次响应式？</p>
-<h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><h3 id="标准页面"><a href="#标准页面" class="headerlink" title="标准页面"></a>标准页面</h3><iframe src="https://www.xzadudu179.top" style="width: 100%; height: 450px"></iframe>
-
-<h3 id="竖屏"><a href="#竖屏" class="headerlink" title="竖屏"></a>竖屏</h3><iframe src="https://www.xzadudu179.top" style="width: 400px; height: 650px; margin: auto"></iframe>
-
-<h3 id="小屏幕"><a href="#小屏幕" class="headerlink" title="小屏幕"></a>小屏幕</h3><iframe src="https://www.xzadudu179.top" style="width: 650px; height: 540px; margin: auto"></iframe>
+<h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><a class="button  center large" href='https://www.xzadudu179.top/' title='个人主页'><i class='fa-regular fa-sparkles'></i> 个人主页</a>
 
 <h2 id="owo"><a href="#owo" class="headerlink" title="owo"></a>owo</h2><p>还想再写点东西的——<br>但是好晚了 xwx。<br>睡觉啦，晚安！</p>
 ]]></content>
