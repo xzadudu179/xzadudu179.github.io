@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>共享域名 179.life</title>
+    <url>/posts/16749/</url>
+    <content><![CDATA[<h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><p>感觉现在很多东西都需要一个域名来使用？</p>
+<p>为了符合域名简短好记的特点，找了个时间在<strong>阿里云</strong>买了个域名 <code>179.life</code>。或许以后我的一些服务都可以放到这个域名而不是原本的 <code>xzadudu179.top</code> 上。</p>
+<p><del>毕竟最多人记住的关于我的信息似乎是 <strong>179</strong></del>。</p>
+<p>顺便为了让这个域名可以更多地得到应用，有点想把它半公开化，让大家都可以申请一个三级域名 <code>xxx.179.life</code> ？虽然这种东西似乎更适合让我给自己朋友或者熟悉的人做 hhh。</p>
+<p>毕竟这样子省去了买域名的麻烦步骤，也不需要实名之类的？</p>
+<h2 id="关于申请"><a href="#关于申请" class="headerlink" title="关于申请"></a>关于申请</h2>
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-triangle-exclamation"></i><p>我可能没有那么多精力处理很多人的域名，毕竟我只是想在能力范围内提供一些简单的帮助</p>
+
+  </div>
+
+<p>想要申请三级域名的可以联系我~</p>
+<h3 id="申请子域名相关"><a href="#申请子域名相关" class="headerlink" title="申请子域名相关"></a>申请子域名相关</h3><p>接下来是给想使用我的子域名的人看的~</p>
+
+  <div class="note-large yellow">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>要求</p>
+
+    </div>
+    <div class="notel-content">
+      <ul>
+<li>域名服务内容合法</li>
+<li>域名服务内容非商业</li>
+<li>请不要批量申请子域名</li>
+</ul>
+
+    </div>
+  </div>
+
+<h4 id="申请格式"><a href="#申请格式" class="headerlink" title="申请格式"></a>申请格式</h4><h5 id="子域名"><a href="#子域名" class="headerlink" title="子域名"></a>子域名</h5><p>如果想要申请子域名，可以用以下格式向我申请哦：</p>
+<ul>
+<li>申请 179.life 子域名</li>
+<li>名称: <strong>三级域名名称</strong>或<strong>四级+三级域名名称</strong> （建议由<strong>英文</strong>、<strong>数字</strong>和<code>-</code>组成，不建议使用 me 等不明显代表个人的名称）</li>
+<li>作用: 该域名作用 （比如 mc 服务器，个人网站之类的）</li>
+<li>DNS 解析:<br>类型:<code>记录类型</code><br>来源: <code>请求来源</code>（选填）<br>值: <code>记录值</code><br>TTL: <code>时间</code>（选填）</li>
+<li>联系方式：联系方式（QQ 或 邮箱）<br>示例：<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">三级域名</a></li><li class="tab"><a class="#testunique-2">四级+三级域名</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><div class="highlight-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请 179.life 子域名</span><br><span class="line">名称: test</span><br><span class="line">作用: 个人网站</span><br><span class="line">DNS 解析:</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br><span class="line">联系方式: terra179@163.com</span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><div class="highlight-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请 179.life 子域名</span><br><span class="line">名称: example.test</span><br><span class="line">作用: 个人网站</span><br><span class="line">DNS 解析:</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br><span class="line">联系方式: terra179@163.com</span><br></pre></td></tr></table></figure></div></div></div></div></li>
+</ul>
+<hr>
+<h5 id="子域名功能"><a href="#子域名功能" class="headerlink" title="子域名功能"></a>子域名功能</h5><p>如果想要给申请的域名增加功能，可以用以下格式向我申请哦：</p>
+<ul>
+<li>申请为域名 <code>子域名</code>.179.life 添加功能</li>
+<li>功能类型：功能类型（如 DNS 解析）</li>
+<li>功能介绍：若为 DNS 解析，可以写为：<br>类型:<code>记录类型</code><br>来源: <code>请求来源</code>（选填）<br>值: <code>记录值</code><br>TTL: <code>时间</code>（选填）</li>
+<li>备注（可选）</li>
+</ul>
+<p>示例：</p>
+<div class="highlight-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请为域名 test.179.life 添加功能</span><br><span class="line">功能类型：DNS 解析</span><br><span class="line">功能介绍：</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="提交"><a href="#提交" class="headerlink" title="提交"></a>提交</h4><p>写好后将<strong>请求文本</strong>发送到我的 qq(假如有好友) 或者邮箱 <a class="link"   href="mailto:&#x74;&#x65;&#114;&#x72;&#x61;&#x31;&#55;&#57;&#64;&#49;&#54;&#51;&#46;&#99;&#111;&#x6d;" >&#x74;&#x65;&#114;&#x72;&#x61;&#x31;&#55;&#57;&#64;&#49;&#54;&#51;&#46;&#99;&#111;&#x6d; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，也可以是本文评论区。随后等待我的回信就好啦~</p>
+<p>希望这个域名可以帮上别人 owo！</p>
+]]></content>
+      <categories>
+        <category>网络</category>
+        <category>服务</category>
+      </categories>
+      <tags>
+        <tag>想法</tag>
+        <tag>域名</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>测试用文章</title>
     <url>/posts/24071/</url>
     <content><![CDATA[<p><figure class="image-caption"><img lazyload="" src="/images/loading.svg" data-src="https://image.179.life/images/rainworld.jpg" alt="Rain World"><figcaption>Rain World</figcaption></figure></p>
@@ -64,69 +127,6 @@
 <a class="button  center large" href="https://github.com/xzadudu179" title="大按钮测试"><i class="fa-regular fa-mug-hot"></i> 大按钮测试</a>]]></content>
       <tags>
         <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>共享域名 179.life</title>
-    <url>/posts/16749/</url>
-    <content><![CDATA[<h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><p>感觉现在很多东西都需要一个域名来使用？</p>
-<p>为了符合域名简短好记的特点，找了个时间在<strong>阿里云</strong>买了个域名 <code>179.life</code>。或许以后我的一些服务都可以放到这个域名而不是原本的 <code>xzadudu179.top</code> 上。</p>
-<p><del>毕竟最多人记住的关于我的信息似乎是 <strong>179</strong></del>。</p>
-<p>顺便为了让这个域名可以更多地得到应用，有点想把它半公开化，让大家都可以申请一个三级域名 <code>xxx.179.life</code> ？虽然这种东西似乎更适合让我给自己朋友或者熟悉的人做 hhh。</p>
-<p>毕竟这样子省去了买域名的麻烦步骤，也不需要实名之类的？</p>
-<h2 id="关于申请"><a href="#关于申请" class="headerlink" title="关于申请"></a>关于申请</h2>
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-triangle-exclamation"></i><p>我可能没有那么多精力处理很多人的域名，毕竟我只是想在能力范围内提供一些简单的帮助</p>
-
-  </div>
-
-<p>想要申请三级域名的可以联系我~</p>
-<h3 id="申请子域名相关"><a href="#申请子域名相关" class="headerlink" title="申请子域名相关"></a>申请子域名相关</h3><p>接下来是给想使用我的子域名的人看的~</p>
-
-  <div class="note-large yellow">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>要求</p>
-
-    </div>
-    <div class="notel-content">
-      <ul>
-<li>域名服务内容合法</li>
-<li>域名服务内容非商业</li>
-<li>请不要批量申请子域名</li>
-</ul>
-
-    </div>
-  </div>
-
-<h4 id="申请格式"><a href="#申请格式" class="headerlink" title="申请格式"></a>申请格式</h4><h5 id="子域名"><a href="#子域名" class="headerlink" title="子域名"></a>子域名</h5><p>如果想要申请子域名，可以用以下格式向我申请哦：</p>
-<ul>
-<li>申请 179.life 子域名</li>
-<li>名称: <strong>三级域名名称</strong>或<strong>四级+三级域名名称</strong> （建议由<strong>英文</strong>、<strong>数字</strong>和<code>-</code>组成，不建议使用 me 等不明显代表个人的名称）</li>
-<li>作用: 该域名作用 （比如 mc 服务器，个人网站之类的）</li>
-<li>DNS 解析:<br>类型:<code>记录类型</code><br>来源: <code>请求来源</code>（选填）<br>值: <code>记录值</code><br>TTL: <code>时间</code>（选填）</li>
-<li>联系方式：联系方式（QQ 或 邮箱）<br>示例：<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">三级域名</a></li><li class="tab"><a class="#testunique-2">四级+三级域名</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><div class="highlight-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请 179.life 子域名</span><br><span class="line">名称: test</span><br><span class="line">作用: 个人网站</span><br><span class="line">DNS 解析:</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br><span class="line">联系方式: terra179@163.com</span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><div class="highlight-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请 179.life 子域名</span><br><span class="line">名称: example.test</span><br><span class="line">作用: 个人网站</span><br><span class="line">DNS 解析:</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br><span class="line">联系方式: terra179@163.com</span><br></pre></td></tr></table></figure></div></div></div></div></li>
-</ul>
-<hr>
-<h5 id="子域名功能"><a href="#子域名功能" class="headerlink" title="子域名功能"></a>子域名功能</h5><p>如果想要给申请的域名增加功能，可以用以下格式向我申请哦：</p>
-<ul>
-<li>申请为域名 <code>子域名</code>.179.life 添加功能</li>
-<li>功能类型：功能类型（如 DNS 解析）</li>
-<li>功能介绍：若为 DNS 解析，可以写为：<br>类型:<code>记录类型</code><br>来源: <code>请求来源</code>（选填）<br>值: <code>记录值</code><br>TTL: <code>时间</code>（选填）</li>
-<li>备注（可选）</li>
-</ul>
-<p>示例：</p>
-<div class="highlight-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请为域名 test.179.life 添加功能</span><br><span class="line">功能类型：DNS 解析</span><br><span class="line">功能介绍：</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="提交"><a href="#提交" class="headerlink" title="提交"></a>提交</h4><p>写好后将<strong>请求文本</strong>发送到我的 qq(假如有好友) 或者邮箱 <a class="link"   href="mailto:&#x74;&#101;&#114;&#x72;&#x61;&#x31;&#55;&#x39;&#x40;&#x31;&#x36;&#51;&#x2e;&#x63;&#x6f;&#109;" >&#x74;&#101;&#114;&#x72;&#x61;&#x31;&#55;&#x39;&#x40;&#x31;&#x36;&#51;&#x2e;&#x63;&#x6f;&#109; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，也可以是本文评论区。随后等待我的回信就好啦~</p>
-<p>希望这个域名可以帮上别人 owo！</p>
-]]></content>
-      <categories>
-        <category>网络</category>
-        <category>服务</category>
-      </categories>
-      <tags>
-        <tag>想法</tag>
-        <tag>域名</tag>
       </tags>
   </entry>
   <entry>
@@ -335,7 +335,7 @@
 <p>等待 0 ~ 10 分钟后访问你填写的域名地址，如果成功访问并且出现你的网页内容，说明部署成功。</p>
 <p>如果出现了 404 的问题，可以看看上一栏 Github Pages 出现 404 问题的折叠块。</p>
 <h2 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h2><p>现在你应该搭建好了一个个人博客了！可以添加新文章&#x2F;新功能啦~</p>
-<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#x74;&#x65;&#x72;&#x72;&#x61;&#49;&#x37;&#x39;&#x40;&#x31;&#54;&#51;&#x2e;&#x63;&#111;&#x6d;" >&#x74;&#x65;&#x72;&#x72;&#x61;&#49;&#x37;&#x39;&#x40;&#x31;&#54;&#51;&#x2e;&#x63;&#111;&#x6d; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="mailto:&#x6d;&#101;&#64;&#120;&#122;&#97;&#x64;&#x75;&#100;&#117;&#49;&#x37;&#x39;&#46;&#116;&#111;&#x70;" >&#x6d;&#101;&#64;&#120;&#122;&#97;&#x64;&#x75;&#100;&#117;&#49;&#x37;&#x39;&#46;&#116;&#111;&#x70; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 哦。</p>
+<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#116;&#x65;&#114;&#x72;&#97;&#x31;&#55;&#x39;&#x40;&#49;&#54;&#x33;&#x2e;&#x63;&#111;&#109;" >&#116;&#x65;&#114;&#x72;&#97;&#x31;&#55;&#x39;&#x40;&#49;&#54;&#x33;&#x2e;&#x63;&#111;&#109; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="mailto:&#x6d;&#x65;&#x40;&#120;&#122;&#97;&#x64;&#x75;&#100;&#117;&#49;&#55;&#x39;&#46;&#x74;&#111;&#112;" >&#x6d;&#x65;&#x40;&#120;&#122;&#97;&#x64;&#x75;&#100;&#117;&#49;&#55;&#x39;&#46;&#x74;&#111;&#112; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 哦。</p>
 ]]></content>
       <categories>
         <category>软件</category>
@@ -344,6 +344,54 @@
       <tags>
         <tag>教程</tag>
         <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我也有个人主页啦！</title>
+    <url>/posts/31834/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么我快要凌晨四点了，下一天还要去出远门的情况下还要写这篇文章？因为现在真的好激动 owo——</p>
+<p>最近羡慕周围朋友们都有一个个人主页，而我只有一个个人博客（？）再加上自己对前端一直都很好奇，很想学点什么东西，遂在前天学习了 Vue3 然后打算用它搭建一个个人主页！</p>
+<p>于是在我产生做出个人主页想法的四天后，我的一级域名 xzadudu179.top 成功被我替换成了自己的主页啦！</p>
+<p>这是我第一次做响应式页面、第一次做前端项目、第一次实际使用 Vue、第一次运用自己学到的各种前端知识（写 hexo 除外，其实我觉得写 hexo 和手搓前端区别还挺大x）不得不说看到我做好并且发布的那一刻心情真的很激动了 owo，以后可能就不会有太多这样的时刻了（？</p>
+<p>于是让我说说关于我做这个个人主页的经历吧 owo （虽然也就短短几天）</p>
+<h2 id="第零天"><a href="#第零天" class="headerlink" title="第零天"></a>第零天</h2><h3 id="思考要怎么做呢"><a href="#思考要怎么做呢" class="headerlink" title="思考要怎么做呢"></a>思考要怎么做呢</h3><p><del>程序员从 0 开始数数很正常吧</del></p>
+<p>羡慕朋友有自己的个人主页，于是在脑袋里构想了一下要做出什么样的效果，在上面可以记录自己的什么东西之类的~</p>
+<p>但是我还不知道要怎么去写，以及用什么方法写（？）不过至少认为不应该纯手搓 html css js，效率太慢了（）</p>
+<h2 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h2><h3 id="好像想出来了？"><a href="#好像想出来了？" class="headerlink" title="好像想出来了？"></a>好像想出来了？</h3><p>想到了一个可以拿来写这个东西的框架。</p>
+<p>因为学校在教 Vue，而我一直对 Vue 都有点兴趣，而且我其他朋友好像也都是用 Vue 写的个人主页，于是考虑我自己也可以尝试用 Vue3 做出这个项目，正好也是一种真正的（？）实践了 owo。</p>
+<p>可惜我想到这些东西的时候已经很晚了，所以第一天其实没做出什么（？）不过进了 Vue 的官方文档页面。</p>
+<h2 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h2><h3 id="既然想出来了就试试吧"><a href="#既然想出来了就试试吧" class="headerlink" title="既然想出来了就试试吧~"></a>既然想出来了就试试吧~</h3><p>打算正式尝试用 Vue 做这个东西，毕竟我学了学校教的一点 Vue 之后就开始觉得 Javascript 自己本身啰嗦多了（bushi）</p>
+<p>于是我跟着 <a class="link"   href="https://cn.vuejs.org/" >Vue 官方文档 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的教程创建项目、查看 API 语法还有修改（以及参考？） Vue3 模板生成的页面</p>
+<p>花了大概几个小时，通过模仿官方模板的格式以及查询 API 的写法写出了简单的页面和一些样式，但是我还没有想好自己的个人主页具体长什么样（？）</p>
+<p>我还用了一些没怎么试过的 css 技巧，比如半透明元素渐变边框，多层阴影增加层次感和高级感之类的（？）</p>
+
+  <div class="note p-4 mb-4 rounded-small blue icon-padding">
+    <i class="note-icon fa-solid fa-stars"></i><p>感觉越写 css 越觉得 css 这个东西好神奇（？）前端和后端思路果然完全不同 owo</p>
+
+  </div>
+
+<h2 id="第三天"><a href="#第三天" class="headerlink" title="第三天"></a>第三天</h2><blockquote>
+<p><em>说实话，我在写的时候总觉得之前写这个东西的速度好慢，但实际速度这么一看比我想象的快多了（？）从开始写到写完也就花了两天的时间 ovo。</em></p>
+</blockquote>
+<h3 id="写写写！"><a href="#写写写！" class="headerlink" title="写写写！"></a>写写写！</h3><p>这一天打算把自己的个人主页写好！虽然目前的页面 <strong>看起来</strong> 完成度已经很高了，但是还有很多事情没做 ovo。比如主题切换，响应式页面，还有各种细节调整之类的（？）</p>
+<p>一开始用的白色为主色写，加了模糊图片背景什么的，结果写完之后总感觉有些怪怪的，好像还是用更简单的背景更好点（？）以及，我好像确实更喜欢深色一些 hhhh。</p>
+<p>于是修改了颜色，与此同时，个人主页里打算有的内容都差不多做出来了~ （其实也没什么内容，就是个自我介绍之类的啦，以后或许会多点东西，也可能就一直这样子了）</p>
+<p>大致的页面做好后想发挥一些 Vue 的特色（？）而且想让页面看起来更有意思点，做了个背景的手电筒效果，不过刻意调得不怎么明显，作为一种小装饰感觉挺好玩的 owo。</p>
+<h3 id="增加细节-完成度"><a href="#增加细节-完成度" class="headerlink" title="增加细节 &#x2F; 完成度"></a>增加细节 &#x2F; 完成度</h3><p>关于主题切换，本来我还不太想做按钮主题切换，只想做加载的，但是看其他朋友做主题切换按钮好像也不是很难，而且有 Vue 做什么都方便（雾）正好时间充足，就尝试着去做了一个~</p>
+<p>最后的效果很好，但是又是让我的响应式页面设计难度更上一层 xwx。</p>
+<p>响应式页面是我做的最头疼的一项，本来以为自己适配的很好，结果一开移动端设备模拟就爆炸了…</p>
+<p>花了好长时间调调调，加了一大堆的 css 代码（我都想把 app.vue 的 css 单独转移到文件里了，到时候看看吧）最终也是勉强适配上了 chrome 设备模拟提供的所有设备的横屏和竖屏效果，至少不会出现各种奇怪的爆炸情况了（呼）</p>
+<p>这下自己也是会做响应式前端页面的人啦（？）或者说，真正实际制作了一次响应式？</p>
+<h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><a class="button  center large" href='https://www.xzadudu179.top/' title='个人主页'><i class='fa-regular fa-sparkles'></i> 个人主页</a>
+
+<h2 id="owo"><a href="#owo" class="headerlink" title="owo"></a>owo</h2><p>还想再写点东西的——<br>但是好晚了 xwx。<br>睡觉啦，晚安！</p>
+]]></content>
+      <categories>
+        <category>前端</category>
+        <category>记录</category>
+      </categories>
+      <tags>
+        <tag>作品</tag>
       </tags>
   </entry>
   <entry>
@@ -397,54 +445,6 @@
         <tag>想法</tag>
         <tag>工具</tag>
         <tag>小作文</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我也有个人主页啦！</title>
-    <url>/posts/31834/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么我快要凌晨四点了，下一天还要去出远门的情况下还要写这篇文章？因为现在真的好激动 owo——</p>
-<p>最近羡慕周围朋友们都有一个个人主页，而我只有一个个人博客（？）再加上自己对前端一直都很好奇，很想学点什么东西，遂在前天学习了 Vue3 然后打算用它搭建一个个人主页！</p>
-<p>于是在我产生做出个人主页想法的四天后，我的一级域名 xzadudu179.top 成功被我替换成了自己的主页啦！</p>
-<p>这是我第一次做响应式页面、第一次做前端项目、第一次实际使用 Vue、第一次运用自己学到的各种前端知识（写 hexo 除外，其实我觉得写 hexo 和手搓前端区别还挺大x）不得不说看到我做好并且发布的那一刻心情真的很激动了 owo，以后可能就不会有太多这样的时刻了（？</p>
-<p>于是让我说说关于我做这个个人主页的经历吧 owo （虽然也就短短几天）</p>
-<h2 id="第零天"><a href="#第零天" class="headerlink" title="第零天"></a>第零天</h2><h3 id="思考要怎么做呢"><a href="#思考要怎么做呢" class="headerlink" title="思考要怎么做呢"></a>思考要怎么做呢</h3><p><del>程序员从 0 开始数数很正常吧</del></p>
-<p>羡慕朋友有自己的个人主页，于是在脑袋里构想了一下要做出什么样的效果，在上面可以记录自己的什么东西之类的~</p>
-<p>但是我还不知道要怎么去写，以及用什么方法写（？）不过至少认为不应该纯手搓 html css js，效率太慢了（）</p>
-<h2 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h2><h3 id="好像想出来了？"><a href="#好像想出来了？" class="headerlink" title="好像想出来了？"></a>好像想出来了？</h3><p>想到了一个可以拿来写这个东西的框架。</p>
-<p>因为学校在教 Vue，而我一直对 Vue 都有点兴趣，而且我其他朋友好像也都是用 Vue 写的个人主页，于是考虑我自己也可以尝试用 Vue3 做出这个项目，正好也是一种真正的（？）实践了 owo。</p>
-<p>可惜我想到这些东西的时候已经很晚了，所以第一天其实没做出什么（？）不过进了 Vue 的官方文档页面。</p>
-<h2 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h2><h3 id="既然想出来了就试试吧"><a href="#既然想出来了就试试吧" class="headerlink" title="既然想出来了就试试吧~"></a>既然想出来了就试试吧~</h3><p>打算正式尝试用 Vue 做这个东西，毕竟我学了学校教的一点 Vue 之后就开始觉得 Javascript 自己本身啰嗦多了（bushi）</p>
-<p>于是我跟着 <a class="link"   href="https://cn.vuejs.org/" >Vue 官方文档 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的教程创建项目、查看 API 语法还有修改（以及参考？） Vue3 模板生成的页面</p>
-<p>花了大概几个小时，通过模仿官方模板的格式以及查询 API 的写法写出了简单的页面和一些样式，但是我还没有想好自己的个人主页具体长什么样（？）</p>
-<p>我还用了一些没怎么试过的 css 技巧，比如半透明元素渐变边框，多层阴影增加层次感和高级感之类的（？）</p>
-
-  <div class="note p-4 mb-4 rounded-small blue icon-padding">
-    <i class="note-icon fa-solid fa-stars"></i><p>感觉越写 css 越觉得 css 这个东西好神奇（？）前端和后端思路果然完全不同 owo</p>
-
-  </div>
-
-<h2 id="第三天"><a href="#第三天" class="headerlink" title="第三天"></a>第三天</h2><blockquote>
-<p><em>说实话，我在写的时候总觉得之前写这个东西的速度好慢，但实际速度这么一看比我想象的快多了（？）从开始写到写完也就花了两天的时间 ovo。</em></p>
-</blockquote>
-<h3 id="写写写！"><a href="#写写写！" class="headerlink" title="写写写！"></a>写写写！</h3><p>这一天打算把自己的个人主页写好！虽然目前的页面 <strong>看起来</strong> 完成度已经很高了，但是还有很多事情没做 ovo。比如主题切换，响应式页面，还有各种细节调整之类的（？）</p>
-<p>一开始用的白色为主色写，加了模糊图片背景什么的，结果写完之后总感觉有些怪怪的，好像还是用更简单的背景更好点（？）以及，我好像确实更喜欢深色一些 hhhh。</p>
-<p>于是修改了颜色，与此同时，个人主页里打算有的内容都差不多做出来了~ （其实也没什么内容，就是个自我介绍之类的啦，以后或许会多点东西，也可能就一直这样子了）</p>
-<p>大致的页面做好后想发挥一些 Vue 的特色（？）而且想让页面看起来更有意思点，做了个背景的手电筒效果，不过刻意调得不怎么明显，作为一种小装饰感觉挺好玩的 owo。</p>
-<h3 id="增加细节-完成度"><a href="#增加细节-完成度" class="headerlink" title="增加细节 &#x2F; 完成度"></a>增加细节 &#x2F; 完成度</h3><p>关于主题切换，本来我还不太想做按钮主题切换，只想做加载的，但是看其他朋友做主题切换按钮好像也不是很难，而且有 Vue 做什么都方便（雾）正好时间充足，就尝试着去做了一个~</p>
-<p>最后的效果很好，但是又是让我的响应式页面设计难度更上一层 xwx。</p>
-<p>响应式页面是我做的最头疼的一项，本来以为自己适配的很好，结果一开移动端设备模拟就爆炸了…</p>
-<p>花了好长时间调调调，加了一大堆的 css 代码（我都想把 app.vue 的 css 单独转移到文件里了，到时候看看吧）最终也是勉强适配上了 chrome 设备模拟提供的所有设备的横屏和竖屏效果，至少不会出现各种奇怪的爆炸情况了（呼）</p>
-<p>这下自己也是会做响应式前端页面的人啦（？）或者说，真正实际制作了一次响应式？</p>
-<h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><a class="button  center large" href='https://www.xzadudu179.top/' title='个人主页'><i class='fa-regular fa-sparkles'></i> 个人主页</a>
-
-<h2 id="owo"><a href="#owo" class="headerlink" title="owo"></a>owo</h2><p>还想再写点东西的——<br>但是好晚了 xwx。<br>睡觉啦，晚安！</p>
-]]></content>
-      <categories>
-        <category>前端</category>
-        <category>记录</category>
-      </categories>
-      <tags>
-        <tag>作品</tag>
       </tags>
   </entry>
 </search>
