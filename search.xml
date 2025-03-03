@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>共享域名 179.life</title>
+    <url>/posts/16749/</url>
+    <content><![CDATA[<h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><p>感觉现在很多东西都需要一个域名来使用？</p>
+<p>为了符合域名简短好记的特点，找了个时间在<strong>阿里云</strong>买了个域名 <code>179.life</code>。或许以后我的一些服务都可以放到这个域名而不是原本的 <code>xzadudu179.top</code> 上。</p>
+<p><del>毕竟最多人记住的关于我的信息似乎是 <strong>179</strong></del>。</p>
+<p>顺便为了让这个域名可以更多地得到应用，有点想把它半公开化，让大家都可以申请一个三级域名 <code>xxx.179.life</code> ？虽然这种东西似乎更适合让我给自己朋友或者熟悉的人做 hhh。</p>
+<p>毕竟这样子省去了买域名的麻烦步骤，也不需要实名之类的？</p>
+<h2 id="关于申请"><a href="#关于申请" class="headerlink" title="关于申请"></a>关于申请</h2>
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-triangle-exclamation"></i><p>我可能没有那么多精力处理很多人的域名，毕竟我只是想在能力范围内提供一些简单的帮助</p>
+
+  </div>
+
+<p>想要申请三级域名的可以联系我~</p>
+<h3 id="申请子域名相关"><a href="#申请子域名相关" class="headerlink" title="申请子域名相关"></a>申请子域名相关</h3><p>接下来是给想使用我的子域名的人看的~</p>
+
+  <div class="note-large yellow">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>要求</p>
+
+    </div>
+    <div class="notel-content">
+      <ul>
+<li>域名服务内容合法</li>
+<li>域名服务内容非商业</li>
+<li>请不要批量申请子域名</li>
+</ul>
+
+    </div>
+  </div>
+
+<h4 id="申请格式"><a href="#申请格式" class="headerlink" title="申请格式"></a>申请格式</h4><h5 id="子域名"><a href="#子域名" class="headerlink" title="子域名"></a>子域名</h5><p>如果想要申请子域名，可以用以下格式向我申请哦：</p>
+<ul>
+<li>申请 179.life 子域名</li>
+<li>名称: <strong>三级域名名称</strong>或<strong>四级+三级域名名称</strong> （建议由<strong>英文</strong>、<strong>数字</strong>和<code>-</code>组成，不建议使用 me 等不明显代表个人的名称）</li>
+<li>作用: 该域名作用 （比如 mc 服务器，个人网站之类的）</li>
+<li>DNS 解析:<br>类型:<code>记录类型</code><br>来源: <code>请求来源</code>（选填）<br>值: <code>记录值</code><br>TTL: <code>时间</code>（选填）</li>
+<li>联系方式：联系方式（QQ 或 邮箱）<br>示例：<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">三级域名</a></li><li class="tab"><a class="#testunique-2">四级+三级域名</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><div class="code-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请 179.life 子域名</span><br><span class="line">名称: test</span><br><span class="line">作用: 个人网站</span><br><span class="line">DNS 解析:</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br><span class="line">联系方式: terra179@163.com</span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><div class="code-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请 179.life 子域名</span><br><span class="line">名称: example.test</span><br><span class="line">作用: 个人网站</span><br><span class="line">DNS 解析:</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br><span class="line">联系方式: terra179@163.com</span><br></pre></td></tr></table></figure></div></div></div></div></li>
+</ul>
+<hr>
+<h5 id="子域名功能"><a href="#子域名功能" class="headerlink" title="子域名功能"></a>子域名功能</h5><p>如果想要给申请的域名增加功能，可以用以下格式向我申请哦：</p>
+<ul>
+<li>申请为域名 <code>子域名</code>.179.life 添加功能</li>
+<li>功能类型：功能类型（如 DNS 解析）</li>
+<li>功能介绍：若为 DNS 解析，可以写为：<br>类型:<code>记录类型</code><br>来源: <code>请求来源</code>（选填）<br>值: <code>记录值</code><br>TTL: <code>时间</code>（选填）</li>
+<li>备注（可选）</li>
+</ul>
+<p>示例：</p>
+<div class="code-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请为域名 test.179.life 添加功能</span><br><span class="line">功能类型：DNS 解析</span><br><span class="line">功能介绍：</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="提交"><a href="#提交" class="headerlink" title="提交"></a>提交</h4><p>写好后将<strong>请求文本</strong>发送到我的 qq(假如有好友) 或者邮箱 <a class="link"   href="mailto:&#116;&#101;&#x72;&#x72;&#x61;&#49;&#55;&#57;&#64;&#49;&#x36;&#51;&#46;&#99;&#x6f;&#109;" >&#116;&#101;&#x72;&#x72;&#x61;&#49;&#55;&#57;&#64;&#49;&#x36;&#51;&#46;&#99;&#x6f;&#109;<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，也可以是本文评论区。随后等待我的回信就好啦~</p>
+<p>希望这个域名可以帮上别人 owo！</p>
+]]></content>
+      <categories>
+        <category>网络</category>
+        <category>服务</category>
+      </categories>
+      <tags>
+        <tag>想法</tag>
+        <tag>域名</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>测试用文章</title>
     <url>/posts/24071/</url>
     <content><![CDATA[<p><img lazyload="" src="/images/loading.svg" data-src="https://image.179.life/images/rainworld.jpg" alt="Rain World"></p>
@@ -67,66 +130,220 @@
       </tags>
   </entry>
   <entry>
-    <title>共享域名 179.life</title>
-    <url>/posts/16749/</url>
-    <content><![CDATA[<h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><p>感觉现在很多东西都需要一个域名来使用？</p>
-<p>为了符合域名简短好记的特点，找了个时间在<strong>阿里云</strong>买了个域名 <code>179.life</code>。或许以后我的一些服务都可以放到这个域名而不是原本的 <code>xzadudu179.top</code> 上。</p>
-<p><del>毕竟最多人记住的关于我的信息似乎是 <strong>179</strong></del>。</p>
-<p>顺便为了让这个域名可以更多地得到应用，有点想把它半公开化，让大家都可以申请一个三级域名 <code>xxx.179.life</code> ？虽然这种东西似乎更适合让我给自己朋友或者熟悉的人做 hhh。</p>
-<p>毕竟这样子省去了买域名的麻烦步骤，也不需要实名之类的？</p>
-<h2 id="关于申请"><a href="#关于申请" class="headerlink" title="关于申请"></a>关于申请</h2>
+    <title>从零开始：使用 Hexo 搭建个人博客</title>
+    <url>/posts/18015/</url>
+    <content><![CDATA[
   <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-triangle-exclamation"></i><p>我可能没有那么多精力处理很多人的域名，毕竟我只是想在能力范围内提供一些简单的帮助</p>
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>注意：本教程仅适用于 Windows 系统</p>
 
   </div>
 
-<p>想要申请三级域名的可以联系我~</p>
-<h3 id="申请子域名相关"><a href="#申请子域名相关" class="headerlink" title="申请子域名相关"></a>申请子域名相关</h3><p>接下来是给想使用我的子域名的人看的~</p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>可能不少人都想搭建一个个人博客，但是经常可能不知道用什么框架&#x2F;方法，或者遇到一些踩坑 &#x2F; 对于一些步骤不知道怎么做的情况。我就打算做一个整合的教程，用于方便大家从零开始搭建个人博客~（Hexo）</p>
+<p>因为我自己使用了 Hexo 搭建个人博客，所以把搭建的教程分享一下吧~</p>
+<p>本教程参考<a class="link"   href="https://blog.csdn.net/yaorongke/article/details/119089190" >这里<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
+<h3 id="什么是-Hexo？"><a href="#什么是-Hexo？" class="headerlink" title="什么是 Hexo？"></a>什么是 Hexo？</h3><p>以下使用 <a class="link"   href="https://hexo.io/" >Hexo 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>的介绍：<br>Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p>
+<h3 id="为什么使用-Hexo-？"><a href="#为什么使用-Hexo-？" class="headerlink" title="为什么使用 Hexo ？"></a>为什么使用 Hexo ？</h3><p>使用 Hexo 的博客配置简单，自带主题丰富，而且甚至可以不需要服务器或者个人域名就能够让大家访问。对于个人来讲简单方便，也比较省钱（？）<br>如果你想的话也可以随意修改 Hexo 源代码或自定义自己的主题。</p>
+<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><p>使用 Hexo 搭建个人博客首先需要一个 Github 账号，以及 Node.js 环境。</p>
+<h4 id="注册-Github-账号"><a href="#注册-Github-账号" class="headerlink" title="注册 Github 账号"></a>注册 Github 账号</h4><p>如果你没有自己的 Github 账号的话，可以访问 <a class="link"   href="https://github.com/" >Github 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>并注册一个账号。</p>
 
-  <div class="note-large yellow">
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>Github 官网在国内有软墙，部分情况可能需要 VPN 才能登上。</p>
+
+  </div>
+<h4 id="下载安装-Node-js"><a href="#下载安装-Node-js" class="headerlink" title="下载安装 Node.js"></a>下载安装 Node.js</h4><p>你可以在终端使用如下指令来查看是否安装了 Node.js 以及版本：</p>
+<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure></div>
+
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>Node.js 版本需要至少高于 10.13, 推荐使用 Node.js 12.0 以上版本</p>
+
+  </div>
+<p><strong>以下是不同方法安装 Node.js 的教程：</strong></p>
+<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">包管理器</a></li><li class="tab"><a class="#testunique-2">安装程序</a></li><li class="tab"><a class="#testunique-3">二进制文件</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p>按 <code>win</code> + <code>r</code> 键打开运行窗口，输入 <code>powershell</code> 打开 Powershell 终端，并将如下代码复制，粘贴进 Powershell 输入框。<br>也可以一行一行的输入而非复制。<br><strong>注意：以 <code>#</code> 开头的行是注释行，不需要输入。</strong></p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># layouts.download.codeBox.installsFnm</span></span><br><span class="line">winget install Schniz.fnm</span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.fnmEnvSetup</span></span><br><span class="line">fnm env <span class="literal">--use-on-cd</span> | <span class="built_in">Out-String</span> | <span class="built_in">Invoke-Expression</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.downloadAndInstallNodejs</span></span><br><span class="line"><span class="comment">#                             ↓ 大版本号，2024年9月10日最新版本为 v22.8.0</span></span><br><span class="line">fnm use <span class="literal">--install-if-missing</span> <span class="number">22</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNodejsVersion</span></span><br><span class="line">node <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNpmVersion</span></span><br><span class="line">npm <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-x64.msi' title='Node.js 安装程序'><i class='fa-regular fa-hexagon-check'></i> Node.js 安装程序</a></p>
+<ol>
+<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-installer" >访问官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
+<li>双击打开刚刚下载的安装程序，此时你应该看到如下窗口：<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/nodejs-install1.webp"
+                      alt="Node.js 安装窗口"
+                ></li>
+<li>点击 <code>Next</code> 按钮继续，接下来会让你接受安装协议，勾选 <code>I accept the terms in the License Agreement</code> 并且点击 <code>Next</code> 继续。</li>
+<li>安装程序让你选择程序安装路径，可以随便找一个路径安装。</li>
+<li>接下来一路按 <code>Next</code> 安装就行。</li>
+</ol></div><div class="tab-pane" id="testunique-3"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-win-x64.zip' title='Node.js 二进制文件'><i class='fa-regular fa-hexagon-check'></i> Node.js 二进制文件</a></p>
+<ol>
+<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-binaries" >访问官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
+<li>将下载到的 .zip 文件解压到一个合适的路径。</li>
+<li>按 <code>win</code> + <code>r</code> 键，输入 <code>sysdm.cpl</code> 打开系统属性设置，选择 <code>高级</code> &gt; <code>环境变量</code>。</li>
+<li>在 <code>系统变量</code> 栏的 <code>Path</code> 环境变量下点击 <code>编辑</code>，在列表下添加一个新项，值为你的<strong>Node.js 二进制文件路径</strong>。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/nodejs-install2.webp"
+                      alt="编辑环境变量 Path"
+                ></li>
+</ol>
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>如果你的 <code>Path</code> 变量编辑设置不长这样，而是一个输入框的话，在 <code>变量值</code> 的最后输入一个<strong>英文分号</strong>，然后复制你的<strong>Node.js 二进制文件路径</strong>。</p>
+
+  </div></div></div></div>
+<h5 id="完成安装"><a href="#完成安装" class="headerlink" title="完成安装"></a>完成安装</h5><p>在终端里使用如下代码查看安装情况：</p>
+<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure></div>
+<p>如果运行没有错误并且输出了 Node.js 和 npm 的版本，说明 Node.js 已经安装成功啦。</p>
+
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>注意：在刚安装好程序后需要新开一个终端窗口才可以正常执行命令，在安装 Node.js 之前的终端窗口执行命令会提示错误。</p>
+
+  </div>
+
+<details class="yellow" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>输入 npm -v 出现了无法加载文件 [url]，因为在此系统上禁止运行脚本的解决方法 </summary>
+              <div class='content'>
+              <ol><li>使用管理员身份运行 PowerShell</li><li>在 PowerShell 终端输入以下命令：<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Set-ExecutionPolicy</span> <span class="literal">-ExecutionPolicy</span> RemoteSigned</span><br></pre></td></tr></table></figure></div></li><li>确定。</li><li>再次输入 <code>npm -v</code>，此时应该输出 npm 的版本。<br><strong>如果还是不可以的话，可以去网上搜一搜解决方法。</strong></li></ol>
+              </div>
+            </details>
+
+<h4 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h4><p>在 <a class="link"   href="https://git-scm.com/" >Git 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>可以安装到最新版的 Git.</p>
+<a class="button  regular" href='https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/Git-2.46.2-64-bit.exe' title='64x Git 安装包'><i class='fa-regular fa-hexagon-check'></i> 64x Git 安装包</a>
+<p>点击上方按钮下载当前（2024年10月4日）最新版本的 Git.</p>
+<p>Git 的安装方式类似 Node.js，如果不清楚可以去网上搜教程。我就先不写啦（溜走）</p>
+<hr>
+<h3 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h3><p>在终端输入以下命令安装 Hexo。</p>
+<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure></div>
+
+<p>在文件资源管理器选择一个合适的路径后，右键选择 <code>在终端中打开</code> 或者点击路径框，输入 cmd 打开终端窗口，输入以下指令创建一个新项目 <code>new_project</code> 并且初始化:</p>
+<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">hexo init new_project</span><br><span class="line"><span class="built_in">cd</span> new_project</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure></div>
+<p>注：<code>npm install</code> 用于安装 hexo 所需的基本模块。</p>
+<h3 id="本地启动-Hexo-服务"><a href="#本地启动-Hexo-服务" class="headerlink" title="本地启动 Hexo 服务"></a>本地启动 Hexo 服务</h3><p>在 Hexo 项目文件夹使用以下命令启动 Hexo 服务</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 生成网页页面</span></span><br><span class="line">hexo g</span><br><span class="line"><span class="comment"># 启动本地服务器</span></span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
+
+<p>此时访问 <a class="link"   href="https://localhost:4000/" >https://localhost:4000<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 应该能够看到如下画面：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/hexo-hello.webp"
+                      alt="Hexo 初始页面"
+                ></p>
+<p>那么恭喜你已经成功搭建好了 Hexo 个人服务端并且可以在本地访问了！</p>
+<h2 id="配置-发布"><a href="#配置-发布" class="headerlink" title="配置 &amp; 发布"></a>配置 &amp; 发布</h2><h3 id="配置-Hexo"><a href="#配置-Hexo" class="headerlink" title="配置 Hexo"></a>配置 Hexo</h3><p>对于 Hexo 的配置。可以查看 <a class="link"   href="https://hexo.io/zh-cn/docs/setup" >Hexo 官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 的 <code>配置</code> 页面。</p>
+<h3 id="创建文章"><a href="#创建文章" class="headerlink" title="创建文章"></a>创建文章</h3><p>输入以下命令来创建一个 Hexo 文章：</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># hexo new 页面模板 页面标题</span></span><br><span class="line"><span class="comment"># post 意思是发布的文章</span></span><br><span class="line">hexo new post 文章标题</span><br></pre></td></tr></table></figure></div>
+<p>此时会在 Hexo 项目文件夹下的 <code>source/_pages</code> 目录生成一个名为 <code>测试文章.md</code> 的文件，且里面有如下内容：</p>
+<div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章标题</span><br><span class="line">date: 2024-09-10 21:49:35</span><br><span class="line"><span class="section">tags:</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure></div>
+<p>你可以在第二个 <code>---</code> 外写上文章的主要内容，格式为 <a class="link"   href="https://markdown.com.cn/cheat-sheet.html" >markdown<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
+<p>在两个 <code>---</code> 中间的内容是文章的 <code>Front-matter</code>，可以访问<a class="link"   href="https://hexo.io/zh-cn/docs/front-matter" >官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>以及你的主题文档来进行设置。</p>
+<p>此时访问 <a class="link"   href="https://localhost:4000/" >https://localhost:4000<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> ，应该能够看到你的文章已经显示出来了。</p>
+<h3 id="切换主题"><a href="#切换主题" class="headerlink" title="切换主题"></a>切换主题</h3><p>访问 <a class="link"   href="https://hexo.io/themes/" >Hexo Themes<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 来选择想要的主题，并且在主题网页里进行安装。</p>
+<p>当选择好主题后，进入你 Hexo 项目文件夹的 <code>_config.yml</code> 调整配置</p>
+<div class="code-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">theme</span> <span class="comment"># 你选择的主题名称</span></span><br></pre></td></tr></table></figure></div>
+<p>将 <code>theme</code> 的值修改为你选择的主题的名称。</p>
+<h3 id="将个人博客发布至-Github-Pages"><a href="#将个人博客发布至-Github-Pages" class="headerlink" title="将个人博客发布至 Github Pages"></a>将个人博客发布至 Github Pages</h3><h4 id="添加你的-github-io-仓库"><a href="#添加你的-github-io-仓库" class="headerlink" title="添加你的 github.io 仓库"></a>添加你的 github.io 仓库</h4><p>登录你的 Github 账号，在个人资料页面的 <code>Respositories</code> 里点击 <code>New</code> 按钮<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio1.webp"
+                      alt="新建一个仓库"
+                ><br>填写 <code>Repository name</code> 项为 <code>你的用户名.github.io</code><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio2.webp"
+                      alt="填写 Repository name 项"
+                ></p>
+
+  <div class="note-large warning">
     <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>要求</p>
+      <i class="notel-icon fa-solid fa-circle-exclamation"></i><p>注意</p>
 
     </div>
     <div class="notel-content">
-      <ul>
-<li>域名服务内容合法</li>
-<li>域名服务内容非商业</li>
-<li>请不要批量申请子域名</li>
-</ul>
+      <p>仓库需要是 public 才可被访问 github pages，除非你是 pro 用户。</p>
 
     </div>
   </div>
 
-<h4 id="申请格式"><a href="#申请格式" class="headerlink" title="申请格式"></a>申请格式</h4><h5 id="子域名"><a href="#子域名" class="headerlink" title="子域名"></a>子域名</h5><p>如果想要申请子域名，可以用以下格式向我申请哦：</p>
-<ul>
-<li>申请 179.life 子域名</li>
-<li>名称: <strong>三级域名名称</strong>或<strong>四级+三级域名名称</strong> （建议由<strong>英文</strong>、<strong>数字</strong>和<code>-</code>组成，不建议使用 me 等不明显代表个人的名称）</li>
-<li>作用: 该域名作用 （比如 mc 服务器，个人网站之类的）</li>
-<li>DNS 解析:<br>类型:<code>记录类型</code><br>来源: <code>请求来源</code>（选填）<br>值: <code>记录值</code><br>TTL: <code>时间</code>（选填）</li>
-<li>联系方式：联系方式（QQ 或 邮箱）<br>示例：<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">三级域名</a></li><li class="tab"><a class="#testunique-2">四级+三级域名</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><div class="code-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请 179.life 子域名</span><br><span class="line">名称: test</span><br><span class="line">作用: 个人网站</span><br><span class="line">DNS 解析:</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br><span class="line">联系方式: terra179@163.com</span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><div class="code-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请 179.life 子域名</span><br><span class="line">名称: example.test</span><br><span class="line">作用: 个人网站</span><br><span class="line">DNS 解析:</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br><span class="line">联系方式: terra179@163.com</span><br></pre></td></tr></table></figure></div></div></div></div></li>
-</ul>
-<hr>
-<h5 id="子域名功能"><a href="#子域名功能" class="headerlink" title="子域名功能"></a>子域名功能</h5><p>如果想要给申请的域名增加功能，可以用以下格式向我申请哦：</p>
-<ul>
-<li>申请为域名 <code>子域名</code>.179.life 添加功能</li>
-<li>功能类型：功能类型（如 DNS 解析）</li>
-<li>功能介绍：若为 DNS 解析，可以写为：<br>类型:<code>记录类型</code><br>来源: <code>请求来源</code>（选填）<br>值: <code>记录值</code><br>TTL: <code>时间</code>（选填）</li>
-<li>备注（可选）</li>
-</ul>
-<p>示例：</p>
-<div class="code-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请为域名 test.179.life 添加功能</span><br><span class="line">功能类型：DNS 解析</span><br><span class="line">功能介绍：</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br></pre></td></tr></table></figure></div>
+<p>此时你应该可以看到如下画面：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio4.webp"
+                      alt="空仓库界面"
+                ><br>选择红框框起来的 <code>HTTPS</code>，在箭头指向的位置点击复制按钮，可以将你的 github.io 项目的地址复制到剪切板。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio3.webp"
+                      alt="复制仓库地址"
+                ></p>
+<h4 id="发布博客至你的-github-io-仓库"><a href="#发布博客至你的-github-io-仓库" class="headerlink" title="发布博客至你的 github.io 仓库"></a>发布博客至你的 github.io 仓库</h4><p>在命令行安装 <code>hexo-deployer-git</code>:</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line">npm install hexo<span class="literal">-deployer-git</span> <span class="literal">--save</span></span><br></pre></td></tr></table></figure></div>
+<p>如果需要让 Hexo 使用你的 github 项目，需要获取个人 token：</p>
+<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>获取个人 token 方法 </summary>
+              <div class='content'>
+              <p>点击右上角的头像，选择 <code>Settings</code>。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio5.webp"
+                      alt="设置"
+                ><br>在设置下方找到 <code>Developer settings</code>。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio6.webp"
+                      alt="找到 Developer settings"
+                ><br>根据图内框选处选择生成新的 token。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio7.webp"
+                      alt="找到 Developer settings"
+                ><br>设置 token 的名字、期限和适用范围。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio8.webp"
+                      alt="找到 Developer settings"
+                ><br>点击复制按钮复制 token 的值 （注意： token 只会显示一次）<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio9.webp"
+                      alt="复制 token 内容"
+                ></p>  <div class="note p-4 mb-4 rounded-small warning icon-padding">    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>我用的是旧版 token 生成方法，如果你了解新版 token 的生成，也可以去使用新版。</p>  </div>
+              </div>
+            </details>
 
-<h4 id="提交"><a href="#提交" class="headerlink" title="提交"></a>提交</h4><p>写好后将<strong>请求文本</strong>发送到我的 qq(假如有好友) 或者邮箱 <a class="link"   href="mailto:&#116;&#x65;&#114;&#114;&#97;&#x31;&#55;&#x39;&#x40;&#x31;&#x36;&#51;&#46;&#x63;&#x6f;&#109;" >&#116;&#x65;&#114;&#114;&#97;&#x31;&#55;&#x39;&#x40;&#x31;&#x36;&#51;&#46;&#x63;&#x6f;&#109;<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，也可以是本文评论区。随后等待我的回信就好啦~</p>
-<p>希望这个域名可以帮上别人 owo！</p>
+<p>在 Hexo 项目文件夹下的 <code>_config.yml</code> 配置项里替换或增加如下内容：</p>
+<div class="code-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">你的</span> <span class="string">github.io</span> <span class="string">项目地址</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br><span class="line">  <span class="attr">token:</span> <span class="string">你的</span> <span class="string">github</span> <span class="string">token</span></span><br></pre></td></tr></table></figure></div>
+
+<p>此时执行以下代码将 Hexo 内容发布</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 清除 public 文件夹缓存</span></span><br><span class="line">hexo clean</span><br><span class="line"><span class="comment"># 生成 hexo 文件</span></span><br><span class="line">hexo g</span><br><span class="line"><span class="comment"># 推送内容至 github.io</span></span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
+
+<p>等待 0 ~ 10 分钟 Github pages 加载，访问 https:&#x2F;&#x2F;你的用户名.github.io&#x2F;，若出现你的网页内容，说明部署成功。<br>如果等待了 10 分钟还是无法访问，可以看看下面的内容：</p>
+<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>Github Pages 出现 404 </summary>
+              <div class='content'>
+              <p>假如你等待了 10 分钟后再访问你的页面依然提示 404 的话，可能是以下原因导致的：</p><p class='h5' id="仓库不为-public"><a href="#仓库不为-public" class="headerlink" title="仓库不为 public"></a>仓库不为 public</h5><p>可以检查一下你的仓库可见性是否为 Public，也就是中间上方显示的仓库名称右边小框里的内容。</p><h5 id="Github-pages-分支不为-main"><a href="#Github-pages-分支不为-main" class="headerlink" title="Github pages 分支不为 main"></a>Github pages 分支不为 main</h5><p>前往你 github.io 仓库里的 <code>Settings</code> &gt; <code>Pages</code> 设置查看 <code>Build and deployment</code> 栏位中的 <code>Branch</code> 是否为 <code>main</code>，如果是 <code>None</code>，就调整为 <code>main</code>。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio10.webp"
+                      alt="调整分支设置"
+                ><br>之后再次等待一段时间看看可不可以访问。<br>如果还是不行的话，可以看看上方图片写的站点文件夹是否为 <code>/</code> 或是你在 Hexo 项目文件夹下的 <code>_config</code> 设置的 <code>root</code> 项值。</p><p>还是不行的话，只好建议把详细内容放到网上搜索尝试解决了 xwx。（或者也可以发到评论区里）</p>
+              </div>
+            </details>
+
+<h3 id="绑定个人域名"><a href="#绑定个人域名" class="headerlink" title="绑定个人域名"></a>绑定个人域名</h3><p>如果你想把你部署在 Github Pages 的 Hexo 个人博客放到自己的域名下，可以看看如下内容：</p>
+<p>前往你 github.io 仓库里的 <code>Settings</code> &gt; <code>Pages</code> 设置查看 <code>Custom domain</code> 栏位，填写自定义域名为你的域名并且勾选 <code>Enforce HTTPS</code> 用来强制使用 HTTPS 协议。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://image.179.life/images/blog/githubio11.webp"
+                      alt="修改自定义域名"
+                ></p>
+<p>在你的 Hexo 项目文件夹下的 <code>source</code> 文件夹下创建一个名为 <code>CNAME</code> 的文件（注意，完整文件名就是 <code>CNAME</code>），然后在第一行写下你的域名，例如：</p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">blog.xzadudu179.top</span><br></pre></td></tr></table></figure></div>
+<p>注意 <code>CNAME</code> 里只能写一个域名哦。<br>之后执行以下代码将新增的内容发布：</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
+<p>等待 0 ~ 10 分钟后访问你填写的域名地址，如果成功访问并且出现你的网页内容，说明部署成功。</p>
+<p>如果出现了 404 的问题，可以看看上一栏 Github Pages 出现 404 问题的折叠块。</p>
+<h2 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h2><p>现在你应该搭建好了一个个人博客了！可以添加新文章&#x2F;新功能啦~</p>
+<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#116;&#x65;&#x72;&#x72;&#97;&#49;&#55;&#57;&#x40;&#49;&#x36;&#x33;&#46;&#x63;&#x6f;&#x6d;" >&#116;&#x65;&#x72;&#x72;&#97;&#49;&#55;&#57;&#x40;&#49;&#x36;&#x33;&#46;&#x63;&#x6f;&#x6d;<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> &#x2F; <a class="link"   href="mailto:&#x6d;&#101;&#x40;&#120;&#122;&#x61;&#x64;&#x75;&#100;&#117;&#49;&#55;&#x39;&#x2e;&#x74;&#x6f;&#x70;" >&#x6d;&#101;&#x40;&#120;&#122;&#x61;&#x64;&#x75;&#100;&#117;&#49;&#55;&#x39;&#x2e;&#x74;&#x6f;&#x70;<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 哦。</p>
 ]]></content>
       <categories>
-        <category>网络</category>
-        <category>服务</category>
+        <category>软件</category>
+        <category>记录</category>
       </categories>
       <tags>
-        <tag>想法</tag>
-        <tag>域名</tag>
+        <tag>教程</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -196,223 +413,6 @@
       <tags>
         <tag>想法</tag>
         <tag>小作文</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>从零开始：使用 Hexo 搭建个人博客</title>
-    <url>/posts/18015/</url>
-    <content><![CDATA[
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>注意：本教程仅适用于 Windows 系统</p>
-
-  </div>
-
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>可能不少人都想搭建一个个人博客，但是经常可能不知道用什么框架&#x2F;方法，或者遇到一些踩坑 &#x2F; 对于一些步骤不知道怎么做的情况。我就打算做一个整合的教程，用于方便大家从零开始搭建个人博客~（Hexo）</p>
-<p>因为我自己使用了 Hexo 搭建个人博客，所以把搭建的教程分享一下吧~</p>
-<p>本教程参考<a class="link"   href="https://blog.csdn.net/yaorongke/article/details/119089190" >这里<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
-<h3 id="什么是-Hexo？"><a href="#什么是-Hexo？" class="headerlink" title="什么是 Hexo？"></a>什么是 Hexo？</h3><p>以下使用 <a class="link"   href="https://hexo.io/" >Hexo 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>的介绍：<br>Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p>
-<h3 id="为什么使用-Hexo-？"><a href="#为什么使用-Hexo-？" class="headerlink" title="为什么使用 Hexo ？"></a>为什么使用 Hexo ？</h3><p>使用 Hexo 的博客配置简单，自带主题丰富，而且甚至可以不需要服务器或者个人域名就能够让大家访问。对于个人来讲简单方便，也比较省钱（？）<br>如果你想的话也可以随意修改 Hexo 源代码或自定义自己的主题。</p>
-<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><p>使用 Hexo 搭建个人博客首先需要一个 Github 账号，以及 Node.js 环境。</p>
-<h4 id="注册-Github-账号"><a href="#注册-Github-账号" class="headerlink" title="注册 Github 账号"></a>注册 Github 账号</h4><p>如果你没有自己的 Github 账号的话，可以访问 <a class="link"   href="https://github.com/" >Github 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>并注册一个账号。</p>
-
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>Github 官网在国内有软墙，部分情况可能需要 VPN 才能登上。</p>
-
-  </div>
-<h4 id="下载安装-Node-js"><a href="#下载安装-Node-js" class="headerlink" title="下载安装 Node.js"></a>下载安装 Node.js</h4><p>你可以在终端使用如下指令来查看是否安装了 Node.js 以及版本：</p>
-<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure></div>
-
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>Node.js 版本需要至少高于 10.13, 推荐使用 Node.js 12.0 以上版本</p>
-
-  </div>
-<p><strong>以下是不同方法安装 Node.js 的教程：</strong></p>
-<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">包管理器</a></li><li class="tab"><a class="#testunique-2">安装程序</a></li><li class="tab"><a class="#testunique-3">二进制文件</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p>按 <code>win</code> + <code>r</code> 键打开运行窗口，输入 <code>powershell</code> 打开 Powershell 终端，并将如下代码复制，粘贴进 Powershell 输入框。<br>也可以一行一行的输入而非复制。<br><strong>注意：以 <code>#</code> 开头的行是注释行，不需要输入。</strong></p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># layouts.download.codeBox.installsFnm</span></span><br><span class="line">winget install Schniz.fnm</span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.fnmEnvSetup</span></span><br><span class="line">fnm env <span class="literal">--use-on-cd</span> | <span class="built_in">Out-String</span> | <span class="built_in">Invoke-Expression</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.downloadAndInstallNodejs</span></span><br><span class="line"><span class="comment">#                             ↓ 大版本号，2024年9月10日最新版本为 v22.8.0</span></span><br><span class="line">fnm use <span class="literal">--install-if-missing</span> <span class="number">22</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNodejsVersion</span></span><br><span class="line">node <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNpmVersion</span></span><br><span class="line">npm <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-x64.msi' title='Node.js 安装程序'><i class='fa-regular fa-hexagon-check'></i> Node.js 安装程序</a></p>
-<ol>
-<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-installer" >访问官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
-<li>双击打开刚刚下载的安装程序，此时你应该看到如下窗口：<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/nodejs-install1.png"
-                      alt="Node.js 安装窗口"
-                ></li>
-<li>点击 <code>Next</code> 按钮继续，接下来会让你接受安装协议，勾选 <code>I accept the terms in the License Agreement</code> 并且点击 <code>Next</code> 继续。</li>
-<li>安装程序让你选择程序安装路径，可以随便找一个路径安装。</li>
-<li>接下来一路按 <code>Next</code> 安装就行。</li>
-</ol></div><div class="tab-pane" id="testunique-3"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-win-x64.zip' title='Node.js 二进制文件'><i class='fa-regular fa-hexagon-check'></i> Node.js 二进制文件</a></p>
-<ol>
-<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-binaries" >访问官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
-<li>将下载到的 .zip 文件解压到一个合适的路径。</li>
-<li>按 <code>win</code> + <code>r</code> 键，输入 <code>sysdm.cpl</code> 打开系统属性设置，选择 <code>高级</code> &gt; <code>环境变量</code>。</li>
-<li>在 <code>系统变量</code> 栏的 <code>Path</code> 环境变量下点击 <code>编辑</code>，在列表下添加一个新项，值为你的<strong>Node.js 二进制文件路径</strong>。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/nodejs-install2.png"
-                      alt="编辑环境变量 Path"
-                ></li>
-</ol>
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>如果你的 <code>Path</code> 变量编辑设置不长这样，而是一个输入框的话，在 <code>变量值</code> 的最后输入一个<strong>英文分号</strong>，然后复制你的<strong>Node.js 二进制文件路径</strong>。</p>
-
-  </div></div></div></div>
-<h5 id="完成安装"><a href="#完成安装" class="headerlink" title="完成安装"></a>完成安装</h5><p>在终端里使用如下代码查看安装情况：</p>
-<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure></div>
-<p>如果运行没有错误并且输出了 Node.js 和 npm 的版本，说明 Node.js 已经安装成功啦。</p>
-
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>注意：在刚安装好程序后需要新开一个终端窗口才可以正常执行命令，在安装 Node.js 之前的终端窗口执行命令会提示错误。</p>
-
-  </div>
-
-<details class="yellow" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>输入 npm -v 出现了无法加载文件 [url]，因为在此系统上禁止运行脚本的解决方法 </summary>
-              <div class='content'>
-              <ol><li>使用管理员身份运行 PowerShell</li><li>在 PowerShell 终端输入以下命令：<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Set-ExecutionPolicy</span> <span class="literal">-ExecutionPolicy</span> RemoteSigned</span><br></pre></td></tr></table></figure></div></li><li>确定。</li><li>再次输入 <code>npm -v</code>，此时应该输出 npm 的版本。<br><strong>如果还是不可以的话，可以去网上搜一搜解决方法。</strong></li></ol>
-              </div>
-            </details>
-
-<h4 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h4><p>在 <a class="link"   href="https://git-scm.com/" >Git 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>可以安装到最新版的 Git.</p>
-<a class="button  regular" href='https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/Git-2.46.2-64-bit.exe' title='64x Git 安装包'><i class='fa-regular fa-hexagon-check'></i> 64x Git 安装包</a>
-<p>点击上方按钮下载当前（2024年10月4日）最新版本的 Git.</p>
-<p>Git 的安装方式类似 Node.js，如果不清楚可以去网上搜教程。我就先不写啦（溜走）</p>
-<hr>
-<h3 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h3><p>在终端输入以下命令安装 Hexo。</p>
-<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure></div>
-
-<p>在文件资源管理器选择一个合适的路径后，右键选择 <code>在终端中打开</code> 或者点击路径框，输入 cmd 打开终端窗口，输入以下指令创建一个新项目 <code>new_project</code> 并且初始化:</p>
-<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">hexo init new_project</span><br><span class="line"><span class="built_in">cd</span> new_project</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure></div>
-<p>注：<code>npm install</code> 用于安装 hexo 所需的基本模块。</p>
-<h3 id="本地启动-Hexo-服务"><a href="#本地启动-Hexo-服务" class="headerlink" title="本地启动 Hexo 服务"></a>本地启动 Hexo 服务</h3><p>在 Hexo 项目文件夹使用以下命令启动 Hexo 服务</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 生成网页页面</span></span><br><span class="line">hexo g</span><br><span class="line"><span class="comment"># 启动本地服务器</span></span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
-
-<p>此时访问 <a class="link"   href="https://localhost:4000/" >https://localhost:4000<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 应该能够看到如下画面：<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/hexo-hello.png"
-                      alt="Hexo 初始页面"
-                ></p>
-<p>那么恭喜你已经成功搭建好了 Hexo 个人服务端并且可以在本地访问了！</p>
-<h2 id="配置-发布"><a href="#配置-发布" class="headerlink" title="配置 &amp; 发布"></a>配置 &amp; 发布</h2><h3 id="配置-Hexo"><a href="#配置-Hexo" class="headerlink" title="配置 Hexo"></a>配置 Hexo</h3><p>对于 Hexo 的配置。可以查看 <a class="link"   href="https://hexo.io/zh-cn/docs/setup" >Hexo 官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 的 <code>配置</code> 页面。</p>
-<h3 id="创建文章"><a href="#创建文章" class="headerlink" title="创建文章"></a>创建文章</h3><p>输入以下命令来创建一个 Hexo 文章：</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># hexo new 页面模板 页面标题</span></span><br><span class="line"><span class="comment"># post 意思是发布的文章</span></span><br><span class="line">hexo new post 文章标题</span><br></pre></td></tr></table></figure></div>
-<p>此时会在 Hexo 项目文件夹下的 <code>source/_pages</code> 目录生成一个名为 <code>测试文章.md</code> 的文件，且里面有如下内容：</p>
-<div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章标题</span><br><span class="line">date: 2024-09-10 21:49:35</span><br><span class="line"><span class="section">tags:</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure></div>
-<p>你可以在第二个 <code>---</code> 外写上文章的主要内容，格式为 <a class="link"   href="https://markdown.com.cn/cheat-sheet.html" >markdown<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
-<p>在两个 <code>---</code> 中间的内容是文章的 <code>Front-matter</code>，可以访问<a class="link"   href="https://hexo.io/zh-cn/docs/front-matter" >官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>以及你的主题文档来进行设置。</p>
-<p>此时访问 <a class="link"   href="https://localhost:4000/" >https://localhost:4000<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> ，应该能够看到你的文章已经显示出来了。</p>
-<h3 id="切换主题"><a href="#切换主题" class="headerlink" title="切换主题"></a>切换主题</h3><p>访问 <a class="link"   href="https://hexo.io/themes/" >Hexo Themes<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 来选择想要的主题，并且在主题网页里进行安装。</p>
-<p>当选择好主题后，进入你 Hexo 项目文件夹的 <code>_config.yml</code> 调整配置</p>
-<div class="code-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">theme</span> <span class="comment"># 你选择的主题名称</span></span><br></pre></td></tr></table></figure></div>
-<p>将 <code>theme</code> 的值修改为你选择的主题的名称。</p>
-<h3 id="将个人博客发布至-Github-Pages"><a href="#将个人博客发布至-Github-Pages" class="headerlink" title="将个人博客发布至 Github Pages"></a>将个人博客发布至 Github Pages</h3><h4 id="添加你的-github-io-仓库"><a href="#添加你的-github-io-仓库" class="headerlink" title="添加你的 github.io 仓库"></a>添加你的 github.io 仓库</h4><p>登录你的 Github 账号，在个人资料页面的 <code>Respositories</code> 里点击 <code>New</code> 按钮<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio1.jpg"
-                      alt="新建一个仓库"
-                ><br>填写 <code>Repository name</code> 项为 <code>你的用户名.github.io</code><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio2.jpg"
-                      alt="填写 Repository name 项"
-                ></p>
-
-  <div class="note-large warning">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <i class="notel-icon fa-solid fa-circle-exclamation"></i><p>注意</p>
-
-    </div>
-    <div class="notel-content">
-      <p>仓库需要是 public 才可被访问 github pages，除非你是 pro 用户。</p>
-
-    </div>
-  </div>
-
-<p>此时你应该可以看到如下画面：<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio4.jpg"
-                      alt="空仓库界面"
-                ><br>选择红框框起来的 <code>HTTPS</code>，在箭头指向的位置点击复制按钮，可以将你的 github.io 项目的地址复制到剪切板。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio3.png"
-                      alt="复制仓库地址"
-                ></p>
-<h4 id="发布博客至你的-github-io-仓库"><a href="#发布博客至你的-github-io-仓库" class="headerlink" title="发布博客至你的 github.io 仓库"></a>发布博客至你的 github.io 仓库</h4><p>在命令行安装 <code>hexo-deployer-git</code>:</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line">npm install hexo<span class="literal">-deployer-git</span> <span class="literal">--save</span></span><br></pre></td></tr></table></figure></div>
-<p>如果需要让 Hexo 使用你的 github 项目，需要获取个人 token：</p>
-<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>获取个人 token 方法 </summary>
-              <div class='content'>
-              <p>点击右上角的头像，选择 <code>Settings</code>。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio5.jpg"
-                      alt="设置"
-                ><br>在设置下方找到 <code>Developer settings</code>。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio6.jpg"
-                      alt="找到 Developer settings"
-                ><br>根据图内框选处选择生成新的 token。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio7.jpg"
-                      alt="找到 Developer settings"
-                ><br>设置 token 的名字、期限和适用范围。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio8.jpg"
-                      alt="找到 Developer settings"
-                ><br>点击复制按钮复制 token 的值 （注意： token 只会显示一次）<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio9.jpg"
-                      alt="复制 token 内容"
-                ></p>  <div class="note p-4 mb-4 rounded-small warning icon-padding">    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>我用的是旧版 token 生成方法，如果你了解新版 token 的生成，也可以去使用新版。</p>  </div>
-              </div>
-            </details>
-
-<p>在 Hexo 项目文件夹下的 <code>_config.yml</code> 配置项里替换或增加如下内容：</p>
-<div class="code-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">你的</span> <span class="string">github.io</span> <span class="string">项目地址</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br><span class="line">  <span class="attr">token:</span> <span class="string">你的</span> <span class="string">github</span> <span class="string">token</span></span><br></pre></td></tr></table></figure></div>
-
-<p>此时执行以下代码将 Hexo 内容发布</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 清除 public 文件夹缓存</span></span><br><span class="line">hexo clean</span><br><span class="line"><span class="comment"># 生成 hexo 文件</span></span><br><span class="line">hexo g</span><br><span class="line"><span class="comment"># 推送内容至 github.io</span></span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
-
-<p>等待 0 ~ 10 分钟 Github pages 加载，访问 https:&#x2F;&#x2F;你的用户名.github.io&#x2F;，若出现你的网页内容，说明部署成功。<br>如果等待了 10 分钟还是无法访问，可以看看下面的内容：</p>
-<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>Github Pages 出现 404 </summary>
-              <div class='content'>
-              <p>假如你等待了 10 分钟后再访问你的页面依然提示 404 的话，可能是以下原因导致的：</p><p class='h5' id="仓库不为-public"><a href="#仓库不为-public" class="headerlink" title="仓库不为 public"></a>仓库不为 public</h5><p>可以检查一下你的仓库可见性是否为 Public，也就是中间上方显示的仓库名称右边小框里的内容。</p><h5 id="Github-pages-分支不为-main"><a href="#Github-pages-分支不为-main" class="headerlink" title="Github pages 分支不为 main"></a>Github pages 分支不为 main</h5><p>前往你 github.io 仓库里的 <code>Settings</code> &gt; <code>Pages</code> 设置查看 <code>Build and deployment</code> 栏位中的 <code>Branch</code> 是否为 <code>main</code>，如果是 <code>None</code>，就调整为 <code>main</code>。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio10.jpg"
-                      alt="调整分支设置"
-                ><br>之后再次等待一段时间看看可不可以访问。<br>如果还是不行的话，可以看看上方图片写的站点文件夹是否为 <code>/</code> 或是你在 Hexo 项目文件夹下的 <code>_config</code> 设置的 <code>root</code> 项值。</p><p>还是不行的话，只好建议把详细内容放到网上搜索尝试解决了 xwx。（或者也可以发到评论区里）</p>
-              </div>
-            </details>
-
-<h3 id="绑定个人域名"><a href="#绑定个人域名" class="headerlink" title="绑定个人域名"></a>绑定个人域名</h3><p>如果你想把你部署在 Github Pages 的 Hexo 个人博客放到自己的域名下，可以看看如下内容：</p>
-<p>前往你 github.io 仓库里的 <code>Settings</code> &gt; <code>Pages</code> 设置查看 <code>Custom domain</code> 栏位，填写自定义域名为你的域名并且勾选 <code>Enforce HTTPS</code> 用来强制使用 HTTPS 协议。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://image.179.life/images/blog/githubio11.jpg"
-                      alt="修改自定义域名"
-                ></p>
-<p>在你的 Hexo 项目文件夹下的 <code>source</code> 文件夹下创建一个名为 <code>CNAME</code> 的文件（注意，完整文件名就是 <code>CNAME</code>），然后在第一行写下你的域名，例如：</p>
-<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">blog.xzadudu179.top</span><br></pre></td></tr></table></figure></div>
-<p>注意 <code>CNAME</code> 里只能写一个域名哦。<br>之后执行以下代码将新增的内容发布：</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
-<p>等待 0 ~ 10 分钟后访问你填写的域名地址，如果成功访问并且出现你的网页内容，说明部署成功。</p>
-<p>如果出现了 404 的问题，可以看看上一栏 Github Pages 出现 404 问题的折叠块。</p>
-<h2 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h2><p>现在你应该搭建好了一个个人博客了！可以添加新文章&#x2F;新功能啦~</p>
-<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#116;&#101;&#114;&#114;&#x61;&#49;&#x37;&#57;&#64;&#x31;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d;" >&#116;&#101;&#114;&#114;&#x61;&#49;&#x37;&#57;&#64;&#x31;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d;<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> &#x2F; <a class="link"   href="mailto:&#x6d;&#x65;&#64;&#120;&#122;&#97;&#x64;&#x75;&#x64;&#x75;&#x31;&#x37;&#57;&#x2e;&#x74;&#111;&#x70;" >&#x6d;&#x65;&#64;&#120;&#122;&#97;&#x64;&#x75;&#x64;&#x75;&#x31;&#x37;&#57;&#x2e;&#x74;&#111;&#x70;<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 哦。</p>
-]]></content>
-      <categories>
-        <category>软件</category>
-        <category>记录</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
