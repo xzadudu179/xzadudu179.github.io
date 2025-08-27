@@ -7,6 +7,20 @@ import initScrollTopBottom from "./tools/scrollTopBottom.js";
 import initLocalSearch from "./tools/localSearch.js";
 import initCopyCode from "./tools/codeBlock.js";
 import initBookmarkNav from "./layouts/bookmarkNav.js";
+import Lenis from '@studio-freight/lenis';
+
+const lenis = new Lenis({
+  // duration: 1.2,       // 滚动持续时间，值越大滚动越缓
+  // easing: (t) => t,
+  smooth: true,
+  direction: 'vertical'
+});
+
+function raf(time) {
+  lenis.raf(time);
+  requestAnimationFrame(raf);
+}
+requestAnimationFrame(raf);
 
 export const main = {
   themeInfo: {
@@ -49,7 +63,7 @@ export const main = {
     initModeToggle();
     initScrollTopBottom();
     initBookmarkNav();
-    
+
     if (
       theme.home_banner.subtitle.text.length !== 0 &&
       location.pathname === config.root
@@ -82,4 +96,4 @@ try {
   swup.hooks.on("page:view", () => {
     main.refresh();
   });
-} catch (e) {}
+} catch (e) { }
