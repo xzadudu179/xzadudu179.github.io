@@ -480,7 +480,7 @@
 <p>于是在我产生做出个人主页想法的四天后，我的一级域名 xzadudu179.top 成功被我替换成了自己的主页啦！</p>
 <p>这是我第一次做响应式页面、第一次做前端项目、第一次实际使用 Vue、第一次运用自己学到的各种前端知识（写 hexo 除外，其实我觉得写 hexo 和手搓前端区别还挺大x）不得不说看到我做好并且发布的那一刻心情真的很激动了 owo，以后可能就不会有太多这样的时刻了（？</p>
 <p>于是让我说说关于我做这个个人主页的经历吧 owo （虽然也就短短几天）</p>
-<h2 id="第零天"><a href="#第零天" class="headerlink" title="第零天"></a>第零天</h2><h3 id="思考要怎么做呢"><a href="#思考要怎么做呢" class="headerlink" title="思考要怎么做呢"></a>思考要怎么做呢</h3><p><del>程序员从 0 开始数数很正常吧</del></p>
+<h2 id="第零天"><a href="#第零天" class="headerlink" title="第零天"></a>第零天</h2><h3 id="思考要怎么做呢"><a href="#思考要怎么做呢" class="headerlink" title="思考要怎么做呢"></a>思考要怎么做呢</h3><p><del class="mask">程序员从 0 开始数数很正常吧</del></p>
 <p>羡慕朋友有自己的个人主页，于是在脑袋里构想了一下要做出什么样的效果，在上面可以记录自己的什么东西之类的~</p>
 <p>但是我还不知道要怎么去写，以及用什么方法写（？）不过至少认为不应该纯手搓 html css js，效率太慢了（）</p>
 <h2 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h2><h3 id="好像想出来了？"><a href="#好像想出来了？" class="headerlink" title="好像想出来了？"></a>好像想出来了？</h3><p>想到了一个可以拿来写这个东西的框架。</p>
@@ -508,7 +508,7 @@
 <p>响应式页面是我做的最头疼的一项，本来以为自己适配的很好，结果一开移动端设备模拟就爆炸了…</p>
 <p>花了好长时间调调调，加了一大堆的 css 代码（我都想把 app.vue 的 css 单独转移到文件里了，到时候看看吧）最终也是勉强适配上了 chrome 设备模拟提供的所有设备的横屏和竖屏效果，至少不会出现各种奇怪的爆炸情况了（呼）</p>
 <p>这下自己也是会做响应式前端页面的人啦（？）或者说，真正实际制作了一次响应式？</p>
-<h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><a class="button  center large" href='https://www.xzadudu179.top/' title='个人主页'><i class='fa-regular fa-sparkles'></i> 个人主页</a>
+<h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><a class="button  center large" href='https://archive.www.xzadudu179.top/' title='个人主页'><i class='fa-regular fa-sparkles'></i> 个人主页</a>
 
 <h2 id="owo"><a href="#owo" class="headerlink" title="owo"></a>owo</h2><p>还想再写点东西的——<br>但是好晚了 xwx。<br>睡觉啦，晚安！</p>
 ]]></content>
@@ -906,6 +906,43 @@
       </categories>
       <tags>
         <tag>日记</tag>
+        <tag>随记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新个人主页 &amp; 博客/个人网站的未来</title>
+    <url>/posts/63157/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这段时间做了一个新的个人主页，也是在花比平时更多的时间学习前端和 Vue 之类的，还接触了一些动画库和别的库，浏览了一些动效很漂亮的网页等等…除了对前端技术的更多探索，还看了很多别人的博客…</p>
+<p>因为总觉得自己的博客文章更新速度太慢了，加上最近发生 &#x2F; 在做的事情，就想着写一篇文章来决定自己之后的文章 &#x2F; 博客发展方向</p>
+<h2 id="新的个人主页"><a href="#新的个人主页" class="headerlink" title="新的个人主页"></a>新的个人主页</h2><h3 id="为什么这么快就更新了"><a href="#为什么这么快就更新了" class="headerlink" title="为什么这么快就更新了"></a>为什么这么快就更新了</h3><p>除了感觉自己原来的个人主页不够漂亮之外，还看到了很多大佬炫酷的个人主页，也有很多有关自己内容，于是想着把自己的个人主页升级一下？（说实话…一开始做自己的个人主页（赛博名片）的时候也是看好多人都有自己的赛博名片 hhh，或许是跟风吧）</p>
+<p>所以了解了一下前端的东西~ 看到了一些有意思的工具，开始构想新的个人主页…</p>
+<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p>这个主页相比于之前的工程量会大一些~ 做的时间也会更久<del class="mask">（还包括我摸鱼）</del>，就不好像之前那样按照每天每天的来介绍了。不过仍然是用 Vue 写的（与之前不同的是，还增加了 <a class="link"   href="https://tailwindcss.com/" >Tailwind CSS<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>）</p>
+<p>能写出这个新主页我还是挺开心的~ 因为自己怎么说还是很喜欢去设计东西的，特别是展现自己脑中的世界。</p>
+<p>相比于之前的赛博名片，新的个人主页更偏向于介绍自己，还充当有我自己（和自己项目）内容的网站的作用，所以从适用范围就原来比个人主页多了很多？</p>
+<p>原先的赛博名片扔到了 <a class="link"   href="https://archive.www.xzadudu179.top/" >archive.www.xzadudu179.top<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 啦。</p>
+<p>现在的个人主页只有介绍自己的内容…以后或许会把我的 bot 管理页面，或是其他自己项目的介绍页面也扔进来，毕竟已经算正经的网站啦。</p>
+<h3 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h3><p>很明显，新的个人主页风格与之前的区别还挺大的，更倾向于我自己认为的太空与科幻主题了，也是在往我世界观靠？</p>
+<p>或许以后要做游戏 or 介绍游戏的网页时也可以参考这个风格~ 甚至可能之后的博客都会变成这个样子（也可能会被我整合进个人主页）</p>
+<h2 id="博客的未来？"><a href="#博客的未来？" class="headerlink" title="博客的未来？"></a>博客的未来？</h2><h3 id="关于文章风格"><a href="#关于文章风格" class="headerlink" title="关于文章风格"></a>关于文章风格</h3><p>前段时间一直喜欢用一种比较亲切，比较个人感觉的风格来写文章？不过最近忽然就感觉这种写法好像不是那么的正经，或许会给人一种略微有点奇怪的感觉，<del class="mask">不过是什么我也说不上来（）</del>。</p>
+<p>现在的话有点想尝试更偏向正经，或者说，更类似于平常记录的感觉，感觉这样子会让自己的文章更偏向大众化一点（也许？）</p>
+<p>其实也不知道你们更喜欢很亲切的日记风格，还是正常记录的样子呢。</p>
+<h3 id="博客内容"><a href="#博客内容" class="headerlink" title="博客内容"></a>博客内容</h3><p>我还不太确定我这种生活类博客是否可以夹杂一些技术类主题，感觉可以靠分类区分，但是感觉还是有点让我的博客内容变杂，有点不那么纯粹的感觉 hhh。</p>
+<p>毕竟这个博客的主题是存放我记忆与随记的小地方，那肯定是生活为主啦。不过我还是很想去写一些技术类博客或者是教程什么的来分享一些自己开发时遇到的有趣的东西，又或是踩到的坑，或者单纯只是想分享一些技术…</p>
+<p>如果我以后还想弄技术博客的话，或许会在我的个人主页里单开一个 blog 页面，又或者是在做 hexo 新主题的时候把两种博客内容区分开？不过都是以后的事情啦。</p>
+<p>总结来讲，大概还是生活内容偏多，技术方面的…等我之后再考虑吧~ 不过教程一类的应该是会继续写写的。</p>
+<p>而对于我的新主页嘛，从风格来看就不一样，要是以后还增加 blog 板块的话，那大概肯定是分享技术内容为主了~ 和这里分开。（不过可能大家并不会很喜欢到处切换网页，所以这个也看情况考虑吧）</p>
+<h3 id="博客样式"><a href="#博客样式" class="headerlink" title="博客样式"></a>博客样式</h3><p>写了新的个人主页后，算是发现了一种自己很喜欢的设计样式？一种太空、科幻、工业的风格<del class="mask">（说实话有点像星际公民的感觉 hhh）</del>，如果我以后有时间的话，或许会单独写一个 Hexo 主题用来给自己以及大家使用~</p>
+<p>如果你逛我的博客的时候发现样式风格和我的<a class="link"   href="https://www.xzadudu179.top/" >个人主页<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>非常相似的话…那说明我做出来了！</p>
+<h2 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h2><p>新个人主页在这里~</p>
+<a class="button  large" href='https://www.xzadudu179.top/' title='太空基地'><i class='fa-regular fa-satellite'></i> 太空基地</a>
+<p>(2025-09-19) 很开心于大家都觉得我的博客好看！感谢 <a class="link"   href="https://github.com/EvanNotFound" >EvanNotFound<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 做的<a class="link"   href="https://github.com/EvanNotFound/hexo-theme-redefine" >主题<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>~</p>
+]]></content>
+      <categories>
+        <category>计算机</category>
+        <category>网站</category>
+      </categories>
+      <tags>
+        <tag>想法</tag>
         <tag>随记</tag>
       </tags>
   </entry>

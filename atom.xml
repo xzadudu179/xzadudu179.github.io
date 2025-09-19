@@ -6,7 +6,7 @@
   <link href="https://blog.xzadudu179.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xzadudu179.top/"/>
-  <updated>2025-04-20T13:31:40.190Z</updated>
+  <updated>2025-09-19T09:59:21.184Z</updated>
   <id>https://blog.xzadudu179.top/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新个人主页 &amp; 博客/个人网站的未来</title>
+    <link href="https://blog.xzadudu179.top/posts/63157/"/>
+    <id>https://blog.xzadudu179.top/posts/63157/</id>
+    <published>2025-08-31T19:57:16.000Z</published>
+    <updated>2025-09-19T09:59:21.184Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这段时间做了一个新的个人主页，也是在花比平时更多的时间学习前端和 Vue 之类的，还接触了一些动画库和别的库，浏览了一些动效很漂亮的网页等等…除了对前端技术的更多探索，还看了很多别人的博客…</p><p>因为总觉得自己的博客文章更新速度太慢了，加上最近发生 &#x2F; 在做的事情，就想着写一篇文章来决定自己之后的文章 &#x2F; 博客发展方向</p><h2 id="新的个人主页"><a href="#新的个人主页" class="headerlink" title="新的个人主页"></a>新的个人主页</h2><h3 id="为什么这么快就更新了"><a href="#为什么这么快就更新了" class="headerlink" title="为什么这么快就更新了"></a>为什么这么快就更新了</h3><p>除了感觉自己原来的个人主页不够漂亮之外，还看到了很多大佬炫酷的个人主页，也有很多有关自己内容，于是想着把自己的个人主页升级一下？（说实话…一开始做自己的个人主页（赛博名片）的时候也是看好多人都有自己的赛博名片 hhh，或许是跟风吧）</p><p>所以了解了一下前端的东西~ 看到了一些有意思的工具，开始构想新的个人主页…</p><h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p>这个主页相比于之前的工程量会大一些~ 做的时间也会更久<del class="mask">（还包括我摸鱼）</del>，就不好像之前那样按照每天每天的来介绍了。不过仍然是用 Vue 写的（与之前不同的是，还增加了 <a class="link"   href="https://tailwindcss.com/" >Tailwind CSS<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>）</p><p>能写出这个新主页我还是挺开心的~ 因为自己怎么说还是很喜欢去设计东西的，特别是展现自己脑中的世界。</p><p>相比于之前的赛博名片，新的个人主页更偏向于介绍自己，还充当有我自己（和自己项目）内容的网站的作用，所以从适用范围就原来比个人主页多了很多？</p><p>原先的赛博名片扔到了 <a class="link"   href="https://archive.www.xzadudu179.top/" >archive.www.xzadudu179.top<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 啦。</p><p>现在的个人主页只有介绍自己的内容…以后或许会把我的 bot 管理页面，或是其他自己项目的介绍页面也扔进来，毕竟已经算正经的网站啦。</p><h3 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h3><p>很明显，新的个人主页风格与之前的区别还挺大的，更倾向于我自己认为的太空与科幻主题了，也是在往我世界观靠？</p><p>或许以后要做游戏 or 介绍游戏的网页时也可以参考这个风格~ 甚至可能之后的博客都会变成这个样子（也可能会被我整合进个人主页）</p><h2 id="博客的未来？"><a href="#博客的未来？" class="headerlink" title="博客的未来？"></a>博客的未来？</h2><h3 id="关于文章风格"><a href="#关于文章风格" class="headerlink" title="关于文章风格"></a>关于文章风格</h3><p>前段时间一直喜欢用一种比较亲切，比较个人感觉的风格来写文章？不过最近忽然就感觉这种写法好像不是那么的正经，或许会给人一种略微有点奇怪的感觉，<del class="mask">不过是什么我也说不上来（）</del>。</p><p>现在的话有点想尝试更偏向正经，或者说，更类似于平常记录的感觉，感觉这样子会让自己的文章更偏向大众化一点（也许？）</p><p>其实也不知道你们更喜欢很亲切的日记风格，还是正常记录的样子呢。</p><h3 id="博客内容"><a href="#博客内容" class="headerlink" title="博客内容"></a>博客内容</h3><p>我还不太确定我这种生活类博客是否可以夹杂一些技术类主题，感觉可以靠分类区分，但是感觉还是有点让我的博客内容变杂，有点不那么纯粹的感觉 hhh。</p><p>毕竟这个博客的主题是存放我记忆与随记的小地方，那肯定是生活为主啦。不过我还是很想去写一些技术类博客或者是教程什么的来分享一些自己开发时遇到的有趣的东西，又或是踩到的坑，或者单纯只是想分享一些技术…</p><p>如果我以后还想弄技术博客的话，或许会在我的个人主页里单开一个 blog 页面，又或者是在做 hexo 新主题的时候把两种博客内容区分开？不过都是以后的事情啦。</p><p>总结来讲，大概还是生活内容偏多，技术方面的…等我之后再考虑吧~ 不过教程一类的应该是会继续写写的。</p><p>而对于我的新主页嘛，从风格来看就不一样，要是以后还增加 blog 板块的话，那大概肯定是分享技术内容为主了~ 和这里分开。（不过可能大家并不会很喜欢到处切换网页，所以这个也看情况考虑吧）</p><h3 id="博客样式"><a href="#博客样式" class="headerlink" title="博客样式"></a>博客样式</h3><p>写了新的个人主页后，算是发现了一种自己很喜欢的设计样式？一种太空、科幻、工业的风格<del class="mask">（说实话有点像星际公民的感觉 hhh）</del>，如果我以后有时间的话，或许会单独写一个 Hexo 主题用来给自己以及大家使用~</p><p>如果你逛我的博客的时候发现样式风格和我的<a class="link"   href="https://www.xzadudu179.top/" >个人主页<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>非常相似的话…那说明我做出来了！</p><h2 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h2><p>新个人主页在这里~</p><a class="button  large" href='https://www.xzadudu179.top/' title='太空基地'><i class='fa-regular fa-satellite'></i> 太空基地</a><p>(2025-09-19) 很开心于大家都觉得我的博客好看！感谢 <a class="link"   href="https://github.com/EvanNotFound" >EvanNotFound<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 做的<a class="link"   href="https://github.com/EvanNotFound/hexo-theme-redefine" >主题<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>~</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;这段时间做了一个新的个人主页，也是在花比平时更多的时间学习前端和 Vue 之类的，还接触了一些动画库和别的库，浏览了一些动效很漂亮的网页等等</summary>
+      
+    
+    
+    
+    <category term="计算机" scheme="https://blog.xzadudu179.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="网站" scheme="https://blog.xzadudu179.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="想法" scheme="https://blog.xzadudu179.top/tags/%E6%83%B3%E6%B3%95/"/>
+    
+    <category term="随记" scheme="https://blog.xzadudu179.top/tags/%E9%9A%8F%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>随记：2025年 四月</title>
@@ -126,9 +154,9 @@
     <link href="https://blog.xzadudu179.top/posts/31834/"/>
     <id>https://blog.xzadudu179.top/posts/31834/</id>
     <published>2024-10-31T19:42:44.000Z</published>
-    <updated>2025-04-12T09:55:50.718Z</updated>
+    <updated>2025-09-19T09:29:14.737Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么我快要凌晨四点了，下一天还要去出远门的情况下还要写这篇文章？因为现在真的好激动 owo——</p><p>最近羡慕周围朋友们都有一个个人主页，而我只有一个个人博客（？）再加上自己对前端一直都很好奇，很想学点什么东西，遂在前天学习了 Vue3 然后打算用它搭建一个个人主页！</p><p>于是在我产生做出个人主页想法的四天后，我的一级域名 xzadudu179.top 成功被我替换成了自己的主页啦！</p><p>这是我第一次做响应式页面、第一次做前端项目、第一次实际使用 Vue、第一次运用自己学到的各种前端知识（写 hexo 除外，其实我觉得写 hexo 和手搓前端区别还挺大x）不得不说看到我做好并且发布的那一刻心情真的很激动了 owo，以后可能就不会有太多这样的时刻了（？</p><p>于是让我说说关于我做这个个人主页的经历吧 owo （虽然也就短短几天）</p><h2 id="第零天"><a href="#第零天" class="headerlink" title="第零天"></a>第零天</h2><h3 id="思考要怎么做呢"><a href="#思考要怎么做呢" class="headerlink" title="思考要怎么做呢"></a>思考要怎么做呢</h3><p><del>程序员从 0 开始数数很正常吧</del></p><p>羡慕朋友有自己的个人主页，于是在脑袋里构想了一下要做出什么样的效果，在上面可以记录自己的什么东西之类的~</p><p>但是我还不知道要怎么去写，以及用什么方法写（？）不过至少认为不应该纯手搓 html css js，效率太慢了（）</p><h2 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h2><h3 id="好像想出来了？"><a href="#好像想出来了？" class="headerlink" title="好像想出来了？"></a>好像想出来了？</h3><p>想到了一个可以拿来写这个东西的框架。</p><p>因为学校在教 Vue，而我一直对 Vue 都有点兴趣，而且我其他朋友好像也都是用 Vue 写的个人主页，于是考虑我自己也可以尝试用 Vue3 做出这个项目，正好也是一种真正的（？）实践了 owo。</p><p>可惜我想到这些东西的时候已经很晚了，所以第一天其实没做出什么（？）不过进了 Vue 的官方文档页面。</p><h2 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h2><h3 id="既然想出来了就试试吧"><a href="#既然想出来了就试试吧" class="headerlink" title="既然想出来了就试试吧~"></a>既然想出来了就试试吧~</h3><p>打算正式尝试用 Vue 做这个东西，毕竟我学了学校教的一点 Vue 之后就开始觉得 Javascript 自己本身啰嗦多了（bushi）</p><p>于是我跟着 <a class="link"   href="https://cn.vuejs.org/" >Vue 官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 的教程创建项目、查看 API 语法还有修改（以及参考？） Vue3 模板生成的页面</p><p>花了大概几个小时，通过模仿官方模板的格式以及查询 API 的写法写出了简单的页面和一些样式，但是我还没有想好自己的个人主页具体长什么样（？）</p><p>我还用了一些没怎么试过的 css 技巧，比如半透明元素渐变边框，多层阴影增加层次感和高级感之类的（？）</p>  <div class="note p-4 mb-4 rounded-small blue icon-padding">    <i class="note-icon fa-solid fa-stars"></i><p>感觉越写 css 越觉得 css 这个东西好神奇（？）前端和后端思路果然完全不同 owo</p>  </div><h2 id="第三天"><a href="#第三天" class="headerlink" title="第三天"></a>第三天</h2><blockquote><p><em>说实话，我在写的时候总觉得之前写这个东西的速度好慢，但实际速度这么一看比我想象的快多了（？）从开始写到写完也就花了两天的时间 ovo。</em></p></blockquote><h3 id="写写写！"><a href="#写写写！" class="headerlink" title="写写写！"></a>写写写！</h3><p>这一天打算把自己的个人主页写好！虽然目前的页面 <strong>看起来</strong> 完成度已经很高了，但是还有很多事情没做 ovo。比如主题切换，响应式页面，还有各种细节调整之类的（？）</p><p>一开始用的白色为主色写，加了模糊图片背景什么的，结果写完之后总感觉有些怪怪的，好像还是用更简单的背景更好点（？）以及，我好像确实更喜欢深色一些 hhhh。</p><p>于是修改了颜色，与此同时，个人主页里打算有的内容都差不多做出来了~ （其实也没什么内容，就是个自我介绍之类的啦，以后或许会多点东西，也可能就一直这样子了）</p><p>大致的页面做好后想发挥一些 Vue 的特色（？）而且想让页面看起来更有意思点，做了个背景的手电筒效果，不过刻意调得不怎么明显，作为一种小装饰感觉挺好玩的 owo。</p><h3 id="增加细节-完成度"><a href="#增加细节-完成度" class="headerlink" title="增加细节 &#x2F; 完成度"></a>增加细节 &#x2F; 完成度</h3><p>关于主题切换，本来我还不太想做按钮主题切换，只想做加载的，但是看其他朋友做主题切换按钮好像也不是很难，而且有 Vue 做什么都方便（雾）正好时间充足，就尝试着去做了一个~</p><p>最后的效果很好，但是又是让我的响应式页面设计难度更上一层 xwx。</p><p>响应式页面是我做的最头疼的一项，本来以为自己适配的很好，结果一开移动端设备模拟就爆炸了…</p><p>花了好长时间调调调，加了一大堆的 css 代码（我都想把 app.vue 的 css 单独转移到文件里了，到时候看看吧）最终也是勉强适配上了 chrome 设备模拟提供的所有设备的横屏和竖屏效果，至少不会出现各种奇怪的爆炸情况了（呼）</p><p>这下自己也是会做响应式前端页面的人啦（？）或者说，真正实际制作了一次响应式？</p><h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><a class="button  center large" href='https://www.xzadudu179.top/' title='个人主页'><i class='fa-regular fa-sparkles'></i> 个人主页</a><h2 id="owo"><a href="#owo" class="headerlink" title="owo"></a>owo</h2><p>还想再写点东西的——<br>但是好晚了 xwx。<br>睡觉啦，晚安！</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么我快要凌晨四点了，下一天还要去出远门的情况下还要写这篇文章？因为现在真的好激动 owo——</p><p>最近羡慕周围朋友们都有一个个人主页，而我只有一个个人博客（？）再加上自己对前端一直都很好奇，很想学点什么东西，遂在前天学习了 Vue3 然后打算用它搭建一个个人主页！</p><p>于是在我产生做出个人主页想法的四天后，我的一级域名 xzadudu179.top 成功被我替换成了自己的主页啦！</p><p>这是我第一次做响应式页面、第一次做前端项目、第一次实际使用 Vue、第一次运用自己学到的各种前端知识（写 hexo 除外，其实我觉得写 hexo 和手搓前端区别还挺大x）不得不说看到我做好并且发布的那一刻心情真的很激动了 owo，以后可能就不会有太多这样的时刻了（？</p><p>于是让我说说关于我做这个个人主页的经历吧 owo （虽然也就短短几天）</p><h2 id="第零天"><a href="#第零天" class="headerlink" title="第零天"></a>第零天</h2><h3 id="思考要怎么做呢"><a href="#思考要怎么做呢" class="headerlink" title="思考要怎么做呢"></a>思考要怎么做呢</h3><p><del class="mask">程序员从 0 开始数数很正常吧</del></p><p>羡慕朋友有自己的个人主页，于是在脑袋里构想了一下要做出什么样的效果，在上面可以记录自己的什么东西之类的~</p><p>但是我还不知道要怎么去写，以及用什么方法写（？）不过至少认为不应该纯手搓 html css js，效率太慢了（）</p><h2 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h2><h3 id="好像想出来了？"><a href="#好像想出来了？" class="headerlink" title="好像想出来了？"></a>好像想出来了？</h3><p>想到了一个可以拿来写这个东西的框架。</p><p>因为学校在教 Vue，而我一直对 Vue 都有点兴趣，而且我其他朋友好像也都是用 Vue 写的个人主页，于是考虑我自己也可以尝试用 Vue3 做出这个项目，正好也是一种真正的（？）实践了 owo。</p><p>可惜我想到这些东西的时候已经很晚了，所以第一天其实没做出什么（？）不过进了 Vue 的官方文档页面。</p><h2 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h2><h3 id="既然想出来了就试试吧"><a href="#既然想出来了就试试吧" class="headerlink" title="既然想出来了就试试吧~"></a>既然想出来了就试试吧~</h3><p>打算正式尝试用 Vue 做这个东西，毕竟我学了学校教的一点 Vue 之后就开始觉得 Javascript 自己本身啰嗦多了（bushi）</p><p>于是我跟着 <a class="link"   href="https://cn.vuejs.org/" >Vue 官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 的教程创建项目、查看 API 语法还有修改（以及参考？） Vue3 模板生成的页面</p><p>花了大概几个小时，通过模仿官方模板的格式以及查询 API 的写法写出了简单的页面和一些样式，但是我还没有想好自己的个人主页具体长什么样（？）</p><p>我还用了一些没怎么试过的 css 技巧，比如半透明元素渐变边框，多层阴影增加层次感和高级感之类的（？）</p>  <div class="note p-4 mb-4 rounded-small blue icon-padding">    <i class="note-icon fa-solid fa-stars"></i><p>感觉越写 css 越觉得 css 这个东西好神奇（？）前端和后端思路果然完全不同 owo</p>  </div><h2 id="第三天"><a href="#第三天" class="headerlink" title="第三天"></a>第三天</h2><blockquote><p><em>说实话，我在写的时候总觉得之前写这个东西的速度好慢，但实际速度这么一看比我想象的快多了（？）从开始写到写完也就花了两天的时间 ovo。</em></p></blockquote><h3 id="写写写！"><a href="#写写写！" class="headerlink" title="写写写！"></a>写写写！</h3><p>这一天打算把自己的个人主页写好！虽然目前的页面 <strong>看起来</strong> 完成度已经很高了，但是还有很多事情没做 ovo。比如主题切换，响应式页面，还有各种细节调整之类的（？）</p><p>一开始用的白色为主色写，加了模糊图片背景什么的，结果写完之后总感觉有些怪怪的，好像还是用更简单的背景更好点（？）以及，我好像确实更喜欢深色一些 hhhh。</p><p>于是修改了颜色，与此同时，个人主页里打算有的内容都差不多做出来了~ （其实也没什么内容，就是个自我介绍之类的啦，以后或许会多点东西，也可能就一直这样子了）</p><p>大致的页面做好后想发挥一些 Vue 的特色（？）而且想让页面看起来更有意思点，做了个背景的手电筒效果，不过刻意调得不怎么明显，作为一种小装饰感觉挺好玩的 owo。</p><h3 id="增加细节-完成度"><a href="#增加细节-完成度" class="headerlink" title="增加细节 &#x2F; 完成度"></a>增加细节 &#x2F; 完成度</h3><p>关于主题切换，本来我还不太想做按钮主题切换，只想做加载的，但是看其他朋友做主题切换按钮好像也不是很难，而且有 Vue 做什么都方便（雾）正好时间充足，就尝试着去做了一个~</p><p>最后的效果很好，但是又是让我的响应式页面设计难度更上一层 xwx。</p><p>响应式页面是我做的最头疼的一项，本来以为自己适配的很好，结果一开移动端设备模拟就爆炸了…</p><p>花了好长时间调调调，加了一大堆的 css 代码（我都想把 app.vue 的 css 单独转移到文件里了，到时候看看吧）最终也是勉强适配上了 chrome 设备模拟提供的所有设备的横屏和竖屏效果，至少不会出现各种奇怪的爆炸情况了（呼）</p><p>这下自己也是会做响应式前端页面的人啦（？）或者说，真正实际制作了一次响应式？</p><h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><a class="button  center large" href='https://archive.www.xzadudu179.top/' title='个人主页'><i class='fa-regular fa-sparkles'></i> 个人主页</a><h2 id="owo"><a href="#owo" class="headerlink" title="owo"></a>owo</h2><p>还想再写点东西的——<br>但是好晚了 xwx。<br>睡觉啦，晚安！</p>]]></content>
     
     
       
@@ -141,7 +169,7 @@
     
     <category term="计算机" scheme="https://blog.xzadudu179.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
-    <category term="网站" scheme="https://blog.xzadudu179.top/categories/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="https://blog.xzadudu179.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%AB%99/"/>
     
     
     <category term="作品" scheme="https://blog.xzadudu179.top/tags/%E4%BD%9C%E5%93%81/"/>
