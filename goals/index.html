@@ -30,7 +30,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://image.179.life/images/background-dark-with-header.webp">
 <meta property="article:published_time" content="2024-09-07T09:29:57.000Z">
-<meta property="article:modified_time" content="2025-09-20T15:00:41.766Z">
+<meta property="article:modified_time" content="2025-09-20T19:10:36.242Z">
 <meta property="article:author" content="xzadudu179">
 <meta property="article:tag" content="博客">
 <meta name="twitter:card" content="summary">
@@ -748,7 +748,13 @@
 		<h1>目标</h1>
 		
 
-		
+		<style>
+    .wl-reaction {
+        display: none;
+    }
+</style>
+
+
   <div class="note p-4 mb-4 rounded-small blue icon-padding">
     <i class="note-icon fa-solid fa-sparkles"></i><p>这里是我个人目前的目标~</p>
 
@@ -776,6 +782,47 @@
 	</div>
 
 	<div class="page-template-comments">
+		
+		<div class="comments-container mt-10 w-full ">
+    <div id="comment-anchor" class="w-full h-2.5"></div>
+    <div class="comment-area-title w-full my-1.5 md:my-2.5 text-xl md:text-3xl font-bold">
+        评论
+    </div>
+    
+
+        
+            
+    <div id="waline"></div>
+    <script type="module" data-swup-reload-script>
+      import { init } from '/js/libs/waline.mjs';
+
+      function loadWaline() {
+        init({
+          el: '#waline',
+          serverURL: 'https://comment.xzadudu179.top/',
+          lang: 'zh-CN',
+          dark: 'body[class~="dark-mode"]',
+          reaction: ['https://image.179.life/deon-emoji/deon_expect.png', 'https://image.179.life/deon-emoji/deon_p.png', 'https://image.179.life/deon-emoji/deon_angry.png', 'https://image.179.life/deon-emoji/deon_hug.png'],
+          requiredMeta: ['nick', 'mail'],
+          emoji: ['//unpkg.com/@waline/emojis@1.2.0/bilibili','//image.179.life/deon-emoji','//image.179.life/179-emoji'],
+          recaptchaV3Key: "wasd",
+          
+        });
+      }
+
+      if (typeof swup !== 'undefined') {
+        loadWaline();
+      } else {
+        window.addEventListener('DOMContentLoaded', loadWaline);
+      }
+    </script>
+
+
+
+        
+    
+</div>
+
 		
 	</div>
 </div>
