@@ -53,7 +53,7 @@
 <p>示例：</p>
 <div class="code-container" data-rel="Text"><figure class="iseeu highlight text"><table><tr><td class="code"><pre><span class="line">申请为域名 test.179.life 添加功能</span><br><span class="line">功能类型：DNS 解析</span><br><span class="line">功能介绍：</span><br><span class="line">    类型: CNAME</span><br><span class="line">    来源: 默认</span><br><span class="line">    值: blog.xzadudu179.top</span><br><span class="line">    TTL: 10分钟</span><br></pre></td></tr></table></figure></div>
 
-<h4 id="提交"><a href="#提交" class="headerlink" title="提交"></a>提交</h4><p>写好后将<strong>请求文本</strong>发送到我的 qq(假如有好友) 或者邮箱 <a class="link"   href="mailto:&#x74;&#x65;&#114;&#x72;&#97;&#49;&#x37;&#x39;&#64;&#49;&#x36;&#x33;&#x2e;&#99;&#111;&#x6d;" >terra179@163.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，也可以是本文评论区。随后等待我的回信就好啦~</p>
+<h4 id="提交"><a href="#提交" class="headerlink" title="提交"></a>提交</h4><p>写好后将<strong>请求文本</strong>发送到我的 qq(假如有好友) 或者邮箱 <a class="link"   href="mailto:&#x74;&#101;&#114;&#114;&#x61;&#x31;&#55;&#x39;&#x40;&#x31;&#x36;&#51;&#x2e;&#99;&#x6f;&#109;" >terra179@163.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，也可以是本文评论区。随后等待我的回信就好啦~</p>
 <p>希望这个域名可以帮上别人 owo！</p>
 ]]></content>
       <categories>
@@ -65,73 +65,113 @@
       </tags>
   </entry>
   <entry>
-    <title>独立博客自省问卷 15 题</title>
-    <url>/posts/3998/</url>
-    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>看到自己朋友也开始回答了这个，我忽然就也想试试了。</p>
-<p>虽然感觉我的博客创建以来没多久也没多少文章，但是感觉做做这种东西检查一下自己还是可以的（？）</p>
-<p>来自 <a class="link"   href="https://yayu.net/4626.html" >独立博客自省问卷 15 题<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-<h3 id="你的博客更新频率是多少？"><a href="#你的博客更新频率是多少？" class="headerlink" title="你的博客更新频率是多少？"></a>你的博客更新频率是多少？</h3><p><strong style="color: var(--primary-color)">对于文章更新很少，但是在技术更新方面至少相对更加频繁。</strong></p>
-<p>我感觉我好像并没法经常找到写文章的话题，可能是我对现实生活观察还不太够 xwx</p>
-<p>技术的话在我想升级我的博客时基本就会进行更新 owo，频率倒是很不固定，可能一两天、几周、几个月。</p>
-<h3 id="你的博客上次更新是什么时候？"><a href="#你的博客上次更新是什么时候？" class="headerlink" title="你的博客上次更新是什么时候？"></a>你的博客上次更新是什么时候？</h3><p><strong style="color: var(--primary-color)">博客本身更新在昨天，文章在去年年底。</strong></p>
-<p>这样看好久都没有写文章了…上一次还是年度总结，转眼都过了几个月了…时间过得好快，但是总不知道应该写些什么？</p>
-<p>如果是技术类文章的话感觉并不是很有意思，虽然功能性的确很强啦（我好像也没有太多技术可以分享 hhh）</p>
-<p>生活分享类文章的话，我好像还没有养成这种记录生活的习惯？而且配图有的时候也会懒懒的 xwx。或许我可以试试多观察生活中的细节，可以记录的部分之类的。</p>
-<p>我在想大家会更喜欢看技术类文章，还是生活类的呢…</p>
-<h3 id="你的博客文章是原创的吗？"><a href="#你的博客文章是原创的吗？" class="headerlink" title="你的博客文章是原创的吗？"></a>你的博客文章是原创的吗？</h3><p><strong style="color: var(--primary-color)">完全原创</strong></p>
-<p>我感觉在自己博客里不写原创的内容就没法起到博客该有的作用~ 至少我的博客一定是只展现属于自己的东西的。</p>
-<p>好希望有更多的人找到我的博客呀，虽然有新的人找到我的博客时我一般会好奇他是怎么发现的（）</p>
-<p>问卷里提到了 AI，不过我个人感觉 AI 不能对我的博客起到什么很好的帮助，而且有可能会让我的博客看起来没那么好（？）特别是用在文章上会有一点敷衍的感觉。</p>
-<h3 id="你觉得自己的文章对他人有帮助吗？"><a href="#你觉得自己的文章对他人有帮助吗？" class="headerlink" title="你觉得自己的文章对他人有帮助吗？"></a>你觉得自己的文章对他人有帮助吗？</h3><p><strong style="color: var(--primary-color)">或许有吧</strong></p>
-<p>除非是技术性的文章，否则我在博客里一般都是记录自己的生活&#x2F;心路什么的，或许有些人可以因为我分享的东西而得到帮助呢？不过这我就不知道啦。</p>
-<h3 id="你上次换博客主题-程序是什么时候？"><a href="#你上次换博客主题-程序是什么时候？" class="headerlink" title="你上次换博客主题&#x2F;程序是什么时候？"></a>你上次换博客主题&#x2F;程序是什么时候？</h3><p><strong style="color: var(--primary-color)">没换过</strong></p>
-<p>这么看我回答这个问卷还是有点太早了，或许过两年可以重新用这篇问卷继续自省一下呢？</p>
-<p>我目前还是很喜欢用这个主题的~</p>
-<h3 id="你上一次捣腾博客主题代码是什么时候？"><a href="#你上一次捣腾博客主题代码是什么时候？" class="headerlink" title="你上一次捣腾博客主题代码是什么时候？"></a>你上一次捣腾博客主题代码是什么时候？</h3><p><strong style="color: var(--primary-color)">一两天前</strong></p>
-<p>我还挺想给自己博客主题自定义或者应用一些自己的奇思妙想之类的，不过前两天主要是为了将自己的那些页面适配新版本的主题~</p>
-<p>说实话，对于这种以模板开始的博客进行修改还是挺方便也容易的。</p>
-<h3 id="你会对博客主题进行二次开发？"><a href="#你会对博客主题进行二次开发？" class="headerlink" title="你会对博客主题进行二次开发？"></a>你会对博客主题进行二次开发？</h3><p><strong style="color: var(--primary-color)">或许会</strong></p>
-<p>自己有的时候会觉得博客里某些东西还是不太符合自己的想法，所以会去改改源代码之类的，对于一些我觉得可能不该出现的内容（bug）就顺便反馈一下或者提个 PR。</p>
-<p>我挺喜欢简洁的风格，自己开发也会尽量按照博客的主题和颜色主题来做，应该不会出现什么看着很花里胡哨的内容 ovo。</p>
-<p>至于音乐播放器可能是有点 ”花里胡哨“，但是我毕竟是曲师，所以放播放器在我这应该看着非常合理 hhh，都是自己的曲子（）</p>
-<h3 id="你多久打开自己博客自我陶醉一次？"><a href="#你多久打开自己博客自我陶醉一次？" class="headerlink" title="你多久打开自己博客自我陶醉一次？"></a>你多久打开自己博客自我陶醉一次？</h3><p><strong style="color: var(--primary-color)">看心情</strong></p>
-<p>有的时候无聊了就去看看自己的博客之类的，我也确实会经常 “欣赏” 之类的啦，对我来说博客算是我自己在网络中的投影吧…</p>
-<p>我希望我的博客会越来越好，也希望别人会喜欢我的博客，希望我被更多人看到之类的。</p>
-<h3 id="你近期对自己博客域名什么感受？"><a href="#你近期对自己博客域名什么感受？" class="headerlink" title="你近期对自己博客域名什么感受？"></a>你近期对自己博客域名什么感受？</h3><p><strong style="color: var(--primary-color)">没太多想法</strong></p>
-<p>有的时候我会想能不能缩短一点长度，但是好像也只有 xzadudu179 最能代表我，只是似乎略微有点长…不过还挺好打的（）</p>
-<p>对于换域名什么的，总感觉换了会导致我以前域名分享的东西或者友链什么的都无法访问，所以不如不换啦。</p>
-<h3 id="你每天都会看网站的流量统计吗？"><a href="#你每天都会看网站的流量统计吗？" class="headerlink" title="你每天都会看网站的流量统计吗？"></a>你每天都会看网站的流量统计吗？</h3><p><strong style="color: var(--primary-color)">想起来才会看</strong></p>
-<p>我虽然说感觉自己有点在意关于流量之类的事情，但是确实平时不会想到去看，除非有人跟我提一下之类的？这时候我会突然发现自己有过流量统计，然后过去看看 ovo。</p>
-<h3 id="你通过博客的广告赚到钱了吗？"><a href="#你通过博客的广告赚到钱了吗？" class="headerlink" title="你通过博客的广告赚到钱了吗？"></a>你通过博客的广告赚到钱了吗？</h3><p><strong style="color: var(--primary-color)">没有广告</strong></p>
-<p>虽然我想通过我会的或者做的一些东西赚点钱，但确实是没有在博客里塞显式广告的想法…我不太喜欢影响别人浏览体验的东西，毕竟我那么希望我的博客被人浏览，为什么还要加这种影响体验的东西来让人嫌烦呢？</p>
-<p>嗯…而且这个博客是静态页面，也没什么部署的费用（域名什么的除外吧），那一点点费用我也自己承担得起 owo。</p>
-<p>可能通过博客唯一赚钱的途径是被投喂吧（）</p>
-<h3 id="你去浏览别人的博客-网站主要为什么？"><a href="#你去浏览别人的博客-网站主要为什么？" class="headerlink" title="你去浏览别人的博客&#x2F;网站主要为什么？"></a>你去浏览别人的博客&#x2F;网站主要为什么？</h3><p><strong style="color: var(--primary-color)">看看内容，主题设计什么的</strong></p>
-<p>感觉多看别人的博客也可以对自己的博客进行反省呀什么的，顺便也可以为自己以后文章的内容参考一下。还会看看他们博客有的一些功能，有些感觉有趣的或许会被我抄下来 hhh。</p>
-<p>还会好奇别人的博客流量情况怎么样，以及看看他们分享的生活（视奸 ing）</p>
-<h3 id="看到别人分享了一篇文章，你打开第一反应是什么？"><a href="#看到别人分享了一篇文章，你打开第一反应是什么？" class="headerlink" title="看到别人分享了一篇文章，你打开第一反应是什么？"></a>看到别人分享了一篇文章，你打开第一反应是什么？</h3><p><strong style="color: var(--primary-color)">看看内容</strong></p>
-<p>对我来说看看内容倒是最重要的，在看了内容后就会将注意力转移到网站的设计上，也确实会看看域名之类的（）之后会跑去视奸这个博客的其他页面（如果是个人博客的话）。加载速度方面我也会在意一下。</p>
-<p>顺便有的时候会看到一些个人博客里需要付费才能阅读全文的文章，还禁用了 F12… 结果付费要求只是拿前端页面在自己文章上覆盖了一层，禁用 F12 只要在浏览器插件里禁用 Javascript 就能解决…何必在个人用于分享的博客里弄这些东西呢。</p>
-<h3 id="你觉得博客哪方面更重要？"><a href="#你觉得博客哪方面更重要？" class="headerlink" title="你觉得博客哪方面更重要？"></a>你觉得博客哪方面更重要？</h3><p><strong style="color: var(--primary-color)">内容和主题同等重要</strong></p>
-<p>我觉得博客整体符合主题才会让人有沉浸感，好像真的进入了自己博客所展现的那个世界一样，此时阅读文章也会变得有不那么一样的感觉。</p>
-<p>域名保持比较简短就可以了，服务器的话算是可选的吧。</p>
-<h3 id="近期通过写博客有哪些新收获？"><a href="#近期通过写博客有哪些新收获？" class="headerlink" title="近期通过写博客有哪些新收获？"></a>近期通过写博客有哪些新收获？</h3><p><strong style="color: var(--primary-color)">或许是认识了新朋友</strong></p>
-<p>经常去看看我博客各种页面的评论区下面，有些时候就能找到一些其他人的回复 owo，也不能算是交到了朋友，毕竟我实际上好像也没有怎么跟他们联系，不过大概算认识了一位新人，也在朋友的备选里了吧~</p>
-<p>写作水平提升之类的话我其实也不清楚，因为我写文章的感觉是那种悠闲的，像是在跟别人聊天一样的风格，我感觉这样对自己压力小也更能分享些自己内心更真实的想法。</p>
-<p>知识面拓展，在我捣鼓前端的一些东西的话其实好像还是有的，而且我感觉自己好像对前端越来越有兴趣了 hhh。</p>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>回答这个问卷，或许是我没什么发文章的话题和想法了，也可能是对于自己博客现在的状态依然有些不满足，于是在朋友的影响下也去看了看这个自省问卷，不过回答后让我感觉自己的博客经历还是太少啦，应该等到以后这个博客发展的更成熟再来~</p>
-<p>感觉以后我写的文章可以更偏向于分享生活呀之类的，顺便可以看看把各种各样生活中的小事和经历都说说。</p>
+    <title>浅谈自己对于 AI 工具的看法</title>
+    <url>/posts/7858/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>感觉最近 AI 生成的内容越来越多了…无论是图片、音乐、视频、网页还是文章等等，处处充斥着或多或少的 AI 痕迹，虽然平时见到的大部分都是梗内容创作，但是 AI 这种全能的工具，肯定会有很多人将其用于各种方面。</p>
+<p>先说说我对于 AI 的看法好了：<span style="color: var(--primary-color)">我认为 AI 只是计算机与网络世界中又一个工具，与其他的工具无异，只是功能丰富到可以让各行业内容上手门槛变低，且多样化到可以 “代替” 很多人所从事的职业的一部分。<br></span></p>
+<p>我见到很多人担心有些人用 AI 内容与工具正在挤压创作者的生存空间，并以此批判一些人利用 AI “设计” 出一些看似有趣的东西，甚至告诉那些在行业内的人们：他们即将被 AI 取代了，一切都可以由 AI 所做，其他人的呼吁反抗只是不愿被 AI 抢饭碗的呻吟罢了。</p>
+<p>多数是艺术创作者，例如画师、曲师、平面设计师，他们或将 AI 比作没有灵魂的工具，或告诉他人 AI 所产出东西只有内容，没有过程与意义。但他们的想法大多建立在一种 “AI 会让原本的艺术创作者们失去竞争力，或是在环境的影响下，进行传统的艺术创作的人越来越少，而使用 AI 创作的人会越来越多” 的观点上。</p>
+<p>同为艺术创作者，我当然非常同情他们的担忧，也知道 AI 的到来绝对会将很多技术的门槛大幅度地降低。但是我觉得：艺术创作者无需担心自己会被 AI 取代，也无需担心自己的创作将变得不再有意义，因为<strong>你们创作的艺术都是独一无二的</strong>。</p>
+<h2 id="AI-给了我们什么？"><a href="#AI-给了我们什么？" class="headerlink" title="AI 给了我们什么？"></a>AI 给了我们什么？</h2><p>不可否认的是，AI 绝对是一个足以影响世界的技术，也是一项非常强大的工具。我自己也利用 AI 学习了很多东西，或是生成参考，询问问题……</p>
+<p>AI 让大家对新技术的学习和上手速度提升了很多。甚至有些时候根本不需要自己动手，仅凭 AI 就可以做出自己想要的东西。且在经过几年<strong>人类与 AI 相处</strong>的时间，大多人都会写出详细的提示词，让 AI 帮自己做事情。</p>
+<p>但是，这么做的代价是什么？</p>
+<p>我认为大多人在见到 AI 这种 “给提示词就生成” 的厉害与方便后，就不会再像曾经一样愿意花上很多时间去研究、学习，发掘其中包含的知识与要点——大家都更喜欢看到直接的结果。</p>
+<p>这种想法导致大家更倾向依赖于 AI，甚至依赖久了 AI，还会产生类似 “这些知识都没必要学了，只要有 AI 就够了” 这样的想法。</p>
+<p>既然 A 可以用 AI 来做，那 B 也可以，C 也可以…逐渐地，在各行各业遇到自己不会或不愿学做的事情，就交给 AI，甚至自己完全不知道 AI 写这些是什么意思，但是符合自己的要求，那就是好的…</p>
+<p>很明显，这种 AI 生成一切的风气也蔓延至了设计类，和艺术类领域。很多人不知道设计，于是就交给 AI，生成出看起来很高级的内容。其中一个不太容易被外人察觉的内容就是<strong>前端设计</strong>。</p>
+<h2 id="滥用-AI-的后果"><a href="#滥用-AI-的后果" class="headerlink" title="滥用 AI 的后果"></a>滥用 AI 的后果</h2><p>无限制的使用 AI，依赖于 AI 生成的内容而非将 AI 作为帮助自己学习和提升的工具，不仅会产出更多难以维护的内容，还会让人降低审美，失去个性…</p>
+<p>就拿前端设计来说吧，最近我发现有特别多的网站出现了那种 AI 风格，非常明显的 AI 设计的页面，但是外行人几乎看不出来。而且还有很多小网站（多为个人网站或者是小服务网站）开始用 HTML + CSS + Javascript + PHP 这种古老的网页技术栈。这正是我说的对于<strong>依赖与滥用 AI</strong> 造成的后果。</p>
+<p>外行人并没有了解过前端的技术栈都用什么东西，他们只是告诉 AI：“给我生成一个网页，包含 XXX 功能…”。AI 听到这些后，就开始写 HTML CSS JS，随后把看似美观且现代的网页搬上来。用户看到也很满意，随后又找到 AI 让他想办法把这个网页构建到互联网上…随后一个简洁美观，符合用户需求的网站便诞生…其中，用户并没有了解前端的技术，也并不知道设计这些东西应符合的规范，更不知道 AI 是怎么设计出这些页面的…用户就像是甲方，而 AI 是乙方，这使得这些网站的代码结构混乱，页面设计千篇一律，技术栈还是十几年前的样子…没有太多人愿意维护；且设计出的页面没有任何特色，仅仅是 “看起来不错” 而已。</p>
+<p>而现在 AI 设计的前端页面已经多到让我看两眼就能分辨这个内容是不是 AI 所设计的了。</p>
+<p>这是几张 AI 设计的网页截图：</p>
+<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">1</a></li><li class="tab"><a class="#testunique-2">2</a></li><li class="tab"><a class="#testunique-3">3</a></li><li class="tab"><a class="#testunique-4">4</a></li><li class="tab"><a class="#testunique-5">5</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/1.avif"
+                      alt="AI 设计网页1"
+                ><figcaption>AI 设计网页1</figcaption></figure></p></div><div class="tab-pane" id="testunique-2"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/2.avif"
+                      alt="AI 设计网页2"
+                ><figcaption>AI 设计网页2</figcaption></figure></p></div><div class="tab-pane" id="testunique-3"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/3.avif"
+                      alt="AI 设计网页3"
+                ><figcaption>AI 设计网页3</figcaption></figure></p></div><div class="tab-pane" id="testunique-4"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/4.avif"
+                      alt="AI 设计网页4"
+                ><figcaption>AI 设计网页4</figcaption></figure></p></div><div class="tab-pane" id="testunique-5"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/5.avif"
+                      alt="AI 设计网页5"
+                ><figcaption>AI 设计网页5</figcaption></figure></p></div></div></div>
 
-  <div class="note p-4 mb-4 rounded-small blue icon-padding">
-    <i class="note-icon fa-solid fa-circle-info"></i><p>关于文章不怎么更新的情况，好像也是因为我对于自己的文章字数要求比较多，感觉必须要达到足够的字数才好发出去变成一篇适合放在我博客里的文章，太少字好像就没有太大的意义了。</p>
+<p>此时我们可以提取出它明显的一些特征：</p>
+<ul>
+<li>圆角阴影卡片</li>
+<li>在部分标题中使用 Emoji</li>
+<li>五颜六色的配色</li>
+<li>内容使用边框板块划分</li>
+<li>比较长&#x2F;深色的页脚</li>
+<li>…</li>
+</ul>
+<p>此时再看一些人类制作的网页设计：</p>
+<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">1</a></li><li class="tab"><a class="#testunique-2">2</a></li><li class="tab"><a class="#testunique-3">3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/9.avif"
+                      alt="网页1"
+                ><figcaption>网页1</figcaption></figure></p></div><div class="tab-pane" id="testunique-2"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/10.avif"
+                      alt="网页2"
+                ><figcaption>网页2</figcaption></figure></p></div><div class="tab-pane" id="testunique-3"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/11.avif"
+                      alt="网页3"
+                ><figcaption>网页3</figcaption></figure></p></div></div></div>
 
-  </div>]]></content>
+<p>再来看看我所怀疑的一些页面由 AI 设计的网页的截图：</p>
+<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">1</a></li><li class="tab"><a class="#testunique-2">2</a></li><li class="tab"><a class="#testunique-3">3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/8.avif"
+                      alt="网页1"
+                ><figcaption>网页1</figcaption></figure></p></div><div class="tab-pane" id="testunique-2"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/7.avif"
+                      alt="网页2"
+                ><figcaption>网页2</figcaption></figure></p></div><div class="tab-pane" id="testunique-3"><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/aiposts/6.avif"
+                      alt="网页3"
+                ><figcaption>网页3</figcaption></figure></p></div></div></div>
+
+<p>可以看出 AI 的页面设计千篇一律，甚至很快就能找到规律…</p>
+<p>我理解 AI 的好用与高效，但是我真的不希望 AI 设计的无聊页面充斥互联网。</p>
+<p>从去年到现在的这一年时间，我就发现有不少网站更新了他们的页面设计，但也就是从 “还保留些许个人风格” 变成了纯粹的 AI 生成风格，为什么大家会喜欢这种毫无个性，单纯只是 “看起来还行，好像很高级” 的东西，难道只是为了将自己的网页装饰的 “华丽” 一些，使之看起来不简陋，看起来很正经嘛？</p>
+<p>相比于表面高级的 AI 网页，我反倒更喜欢那些网站更新前朴素的页面，保留个人想法与设计的风格，即便看上去略显简陋，但是总比千篇一律毫无特点的批发型页面好…而且 AI 网页真的是我这段时间以来看法从 <strong>新奇</strong> 到 <strong>无聊</strong>和<strong>厌恶</strong> 的变化最快也最大的东西了。</p>
+<p>当然，也不能怪这些做网站的人们，他们大多或许并没有我这样对独特与完美的追求，他们或许只是希望做出一个看着美观，简洁的页面，而此时 AI 帮他们做到了…</p>
+<h2 id="应该拿-AI-做点什么？"><a href="#应该拿-AI-做点什么？" class="headerlink" title="应该拿 AI 做点什么？"></a>应该拿 AI 做点什么？</h2><p>在我的念想里，AI 只能是一种帮助学习，又或是实现自己<strong>具体</strong>的艺术设计的工具，AI 不能是乙方，尤其是在设计与艺术相关的内容上，AI 不能帮你做一切事情。</p>
+<p>依赖 AI 终究还是人类的懒惰造成的，如果真的想学习一个东西，应把 AI 当作学习的工具与老师；如果真的只是想实现一个目的，希望还是能找到一个真正的人去做。AI 仍然不能处理所有事情，我不希望见到随便一个人就让 99% 代码由 AI 完成，且用十多年前的技术栈来写出一个网页，随后花点钱租一个服务器搭建，全程由 AI 辅助，随后用 AI 写个文案发视频说自己花了多久敲了多少行代码做出了多好多有个性的网站，快来访问…不用任何的前端框架，不做任何的前后端分离，不知道静态动态页面，没有任何安全措施…</p>
+<p>设计与艺术方面，就如同 AI 出现前就有的那些譬如配色生成工具、界面排版工具一样，这些东西乍一看是很诱人的，但是它们没有什么作用，无法助你设计出更好的页面，也没法带给你更多的创作灵感。</p>
+<p>AI 的产生加剧了这些问题，各种网站、APP 的页面将会变得更加平庸，恐怕许多人的审美都会受其影响。而设计者依赖于它们只会让自己的思维受到限制，不愿尝试更多更加有趣与创新的设计。</p>
+<p>我知道我的想法并不能影响什么，以后这样的 AI 网站仍然会越来越多，但自己不会因为 AI 的易用而放弃展现自己想法与灵感，也希望其他艺术创作者不会因此而感到不安，设计的意义是自己带来的，注入自己心血的艺术都是独一无二的，也是 AI 所做不到的，无论绘画、音乐、前端、游戏，每一项艺术都是独属于自己的，不可被取代的。</p>
+]]></content>
       <categories>
-        <category>关于博客</category>
+        <category>随笔</category>
       </categories>
       <tags>
-        <tag>分享</tag>
-        <tag>博客</tag>
+        <tag>观点</tag>
       </tags>
   </entry>
   <entry>
@@ -213,6 +253,76 @@
       </tags>
   </entry>
   <entry>
+    <title>独立博客自省问卷 15 题</title>
+    <url>/posts/3998/</url>
+    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>看到自己朋友也开始回答了这个，我忽然就也想试试了。</p>
+<p>虽然感觉我的博客创建以来没多久也没多少文章，但是感觉做做这种东西检查一下自己还是可以的（？）</p>
+<p>来自 <a class="link"   href="https://yayu.net/4626.html" >独立博客自省问卷 15 题<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="你的博客更新频率是多少？"><a href="#你的博客更新频率是多少？" class="headerlink" title="你的博客更新频率是多少？"></a>你的博客更新频率是多少？</h3><p><strong style="color: var(--primary-color)">对于文章更新很少，但是在技术更新方面至少相对更加频繁。</strong></p>
+<p>我感觉我好像并没法经常找到写文章的话题，可能是我对现实生活观察还不太够 xwx</p>
+<p>技术的话在我想升级我的博客时基本就会进行更新 owo，频率倒是很不固定，可能一两天、几周、几个月。</p>
+<h3 id="你的博客上次更新是什么时候？"><a href="#你的博客上次更新是什么时候？" class="headerlink" title="你的博客上次更新是什么时候？"></a>你的博客上次更新是什么时候？</h3><p><strong style="color: var(--primary-color)">博客本身更新在昨天，文章在去年年底。</strong></p>
+<p>这样看好久都没有写文章了…上一次还是年度总结，转眼都过了几个月了…时间过得好快，但是总不知道应该写些什么？</p>
+<p>如果是技术类文章的话感觉并不是很有意思，虽然功能性的确很强啦（我好像也没有太多技术可以分享 hhh）</p>
+<p>生活分享类文章的话，我好像还没有养成这种记录生活的习惯？而且配图有的时候也会懒懒的 xwx。或许我可以试试多观察生活中的细节，可以记录的部分之类的。</p>
+<p>我在想大家会更喜欢看技术类文章，还是生活类的呢…</p>
+<h3 id="你的博客文章是原创的吗？"><a href="#你的博客文章是原创的吗？" class="headerlink" title="你的博客文章是原创的吗？"></a>你的博客文章是原创的吗？</h3><p><strong style="color: var(--primary-color)">完全原创</strong></p>
+<p>我感觉在自己博客里不写原创的内容就没法起到博客该有的作用~ 至少我的博客一定是只展现属于自己的东西的。</p>
+<p>好希望有更多的人找到我的博客呀，虽然有新的人找到我的博客时我一般会好奇他是怎么发现的（）</p>
+<p>问卷里提到了 AI，不过我个人感觉 AI 不能对我的博客起到什么很好的帮助，而且有可能会让我的博客看起来没那么好（？）特别是用在文章上会有一点敷衍的感觉。</p>
+<h3 id="你觉得自己的文章对他人有帮助吗？"><a href="#你觉得自己的文章对他人有帮助吗？" class="headerlink" title="你觉得自己的文章对他人有帮助吗？"></a>你觉得自己的文章对他人有帮助吗？</h3><p><strong style="color: var(--primary-color)">或许有吧</strong></p>
+<p>除非是技术性的文章，否则我在博客里一般都是记录自己的生活&#x2F;心路什么的，或许有些人可以因为我分享的东西而得到帮助呢？不过这我就不知道啦。</p>
+<h3 id="你上次换博客主题-程序是什么时候？"><a href="#你上次换博客主题-程序是什么时候？" class="headerlink" title="你上次换博客主题&#x2F;程序是什么时候？"></a>你上次换博客主题&#x2F;程序是什么时候？</h3><p><strong style="color: var(--primary-color)">没换过</strong></p>
+<p>这么看我回答这个问卷还是有点太早了，或许过两年可以重新用这篇问卷继续自省一下呢？</p>
+<p>我目前还是很喜欢用这个主题的~</p>
+<h3 id="你上一次捣腾博客主题代码是什么时候？"><a href="#你上一次捣腾博客主题代码是什么时候？" class="headerlink" title="你上一次捣腾博客主题代码是什么时候？"></a>你上一次捣腾博客主题代码是什么时候？</h3><p><strong style="color: var(--primary-color)">一两天前</strong></p>
+<p>我还挺想给自己博客主题自定义或者应用一些自己的奇思妙想之类的，不过前两天主要是为了将自己的那些页面适配新版本的主题~</p>
+<p>说实话，对于这种以模板开始的博客进行修改还是挺方便也容易的。</p>
+<h3 id="你会对博客主题进行二次开发？"><a href="#你会对博客主题进行二次开发？" class="headerlink" title="你会对博客主题进行二次开发？"></a>你会对博客主题进行二次开发？</h3><p><strong style="color: var(--primary-color)">或许会</strong></p>
+<p>自己有的时候会觉得博客里某些东西还是不太符合自己的想法，所以会去改改源代码之类的，对于一些我觉得可能不该出现的内容（bug）就顺便反馈一下或者提个 PR。</p>
+<p>我挺喜欢简洁的风格，自己开发也会尽量按照博客的主题和颜色主题来做，应该不会出现什么看着很花里胡哨的内容 ovo。</p>
+<p>至于音乐播放器可能是有点 ”花里胡哨“，但是我毕竟是曲师，所以放播放器在我这应该看着非常合理 hhh，都是自己的曲子（）</p>
+<h3 id="你多久打开自己博客自我陶醉一次？"><a href="#你多久打开自己博客自我陶醉一次？" class="headerlink" title="你多久打开自己博客自我陶醉一次？"></a>你多久打开自己博客自我陶醉一次？</h3><p><strong style="color: var(--primary-color)">看心情</strong></p>
+<p>有的时候无聊了就去看看自己的博客之类的，我也确实会经常 “欣赏” 之类的啦，对我来说博客算是我自己在网络中的投影吧…</p>
+<p>我希望我的博客会越来越好，也希望别人会喜欢我的博客，希望我被更多人看到之类的。</p>
+<h3 id="你近期对自己博客域名什么感受？"><a href="#你近期对自己博客域名什么感受？" class="headerlink" title="你近期对自己博客域名什么感受？"></a>你近期对自己博客域名什么感受？</h3><p><strong style="color: var(--primary-color)">没太多想法</strong></p>
+<p>有的时候我会想能不能缩短一点长度，但是好像也只有 xzadudu179 最能代表我，只是似乎略微有点长…不过还挺好打的（）</p>
+<p>对于换域名什么的，总感觉换了会导致我以前域名分享的东西或者友链什么的都无法访问，所以不如不换啦。</p>
+<h3 id="你每天都会看网站的流量统计吗？"><a href="#你每天都会看网站的流量统计吗？" class="headerlink" title="你每天都会看网站的流量统计吗？"></a>你每天都会看网站的流量统计吗？</h3><p><strong style="color: var(--primary-color)">想起来才会看</strong></p>
+<p>我虽然说感觉自己有点在意关于流量之类的事情，但是确实平时不会想到去看，除非有人跟我提一下之类的？这时候我会突然发现自己有过流量统计，然后过去看看 ovo。</p>
+<h3 id="你通过博客的广告赚到钱了吗？"><a href="#你通过博客的广告赚到钱了吗？" class="headerlink" title="你通过博客的广告赚到钱了吗？"></a>你通过博客的广告赚到钱了吗？</h3><p><strong style="color: var(--primary-color)">没有广告</strong></p>
+<p>虽然我想通过我会的或者做的一些东西赚点钱，但确实是没有在博客里塞显式广告的想法…我不太喜欢影响别人浏览体验的东西，毕竟我那么希望我的博客被人浏览，为什么还要加这种影响体验的东西来让人嫌烦呢？</p>
+<p>嗯…而且这个博客是静态页面，也没什么部署的费用（域名什么的除外吧），那一点点费用我也自己承担得起 owo。</p>
+<p>可能通过博客唯一赚钱的途径是被投喂吧（）</p>
+<h3 id="你去浏览别人的博客-网站主要为什么？"><a href="#你去浏览别人的博客-网站主要为什么？" class="headerlink" title="你去浏览别人的博客&#x2F;网站主要为什么？"></a>你去浏览别人的博客&#x2F;网站主要为什么？</h3><p><strong style="color: var(--primary-color)">看看内容，主题设计什么的</strong></p>
+<p>感觉多看别人的博客也可以对自己的博客进行反省呀什么的，顺便也可以为自己以后文章的内容参考一下。还会看看他们博客有的一些功能，有些感觉有趣的或许会被我抄下来 hhh。</p>
+<p>还会好奇别人的博客流量情况怎么样，以及看看他们分享的生活（视奸 ing）</p>
+<h3 id="看到别人分享了一篇文章，你打开第一反应是什么？"><a href="#看到别人分享了一篇文章，你打开第一反应是什么？" class="headerlink" title="看到别人分享了一篇文章，你打开第一反应是什么？"></a>看到别人分享了一篇文章，你打开第一反应是什么？</h3><p><strong style="color: var(--primary-color)">看看内容</strong></p>
+<p>对我来说看看内容倒是最重要的，在看了内容后就会将注意力转移到网站的设计上，也确实会看看域名之类的（）之后会跑去视奸这个博客的其他页面（如果是个人博客的话）。加载速度方面我也会在意一下。</p>
+<p>顺便有的时候会看到一些个人博客里需要付费才能阅读全文的文章，还禁用了 F12… 结果付费要求只是拿前端页面在自己文章上覆盖了一层，禁用 F12 只要在浏览器插件里禁用 Javascript 就能解决…何必在个人用于分享的博客里弄这些东西呢。</p>
+<h3 id="你觉得博客哪方面更重要？"><a href="#你觉得博客哪方面更重要？" class="headerlink" title="你觉得博客哪方面更重要？"></a>你觉得博客哪方面更重要？</h3><p><strong style="color: var(--primary-color)">内容和主题同等重要</strong></p>
+<p>我觉得博客整体符合主题才会让人有沉浸感，好像真的进入了自己博客所展现的那个世界一样，此时阅读文章也会变得有不那么一样的感觉。</p>
+<p>域名保持比较简短就可以了，服务器的话算是可选的吧。</p>
+<h3 id="近期通过写博客有哪些新收获？"><a href="#近期通过写博客有哪些新收获？" class="headerlink" title="近期通过写博客有哪些新收获？"></a>近期通过写博客有哪些新收获？</h3><p><strong style="color: var(--primary-color)">或许是认识了新朋友</strong></p>
+<p>经常去看看我博客各种页面的评论区下面，有些时候就能找到一些其他人的回复 owo，也不能算是交到了朋友，毕竟我实际上好像也没有怎么跟他们联系，不过大概算认识了一位新人，也在朋友的备选里了吧~</p>
+<p>写作水平提升之类的话我其实也不清楚，因为我写文章的感觉是那种悠闲的，像是在跟别人聊天一样的风格，我感觉这样对自己压力小也更能分享些自己内心更真实的想法。</p>
+<p>知识面拓展，在我捣鼓前端的一些东西的话其实好像还是有的，而且我感觉自己好像对前端越来越有兴趣了 hhh。</p>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>回答这个问卷，或许是我没什么发文章的话题和想法了，也可能是对于自己博客现在的状态依然有些不满足，于是在朋友的影响下也去看了看这个自省问卷，不过回答后让我感觉自己的博客经历还是太少啦，应该等到以后这个博客发展的更成熟再来~</p>
+<p>感觉以后我写的文章可以更偏向于分享生活呀之类的，顺便可以看看把各种各样生活中的小事和经历都说说。</p>
+
+  <div class="note p-4 mb-4 rounded-small blue icon-padding">
+    <i class="note-icon fa-solid fa-circle-info"></i><p>关于文章不怎么更新的情况，好像也是因为我对于自己的文章字数要求比较多，感觉必须要达到足够的字数才好发出去变成一篇适合放在我博客里的文章，太少字好像就没有太大的意义了。</p>
+
+  </div>]]></content>
+      <categories>
+        <category>关于博客</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>新个人主页 &amp; 博客/个人网站的未来</title>
     <url>/posts/63157/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这段时间做了一个新的个人主页，也是在花比平时更多的时间学习前端和 Vue 之类的，还接触了一些动画库和别的库，浏览了一些动效很漂亮的网页等等…除了对前端技术的更多探索，还看了很多别人的博客…</p>
@@ -247,6 +357,223 @@
       <tags>
         <tag>想法</tag>
         <tag>随记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>从零开始：使用 Hexo 搭建个人博客</title>
+    <url>/posts/18015/</url>
+    <content><![CDATA[
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>注意：本教程仅适用于 Windows 系统</p>
+
+  </div>
+
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>可能不少人都想搭建一个个人博客，但是经常可能不知道用什么框架&#x2F;方法，或者遇到一些踩坑 &#x2F; 对于一些步骤不知道怎么做的情况。我就打算做一个整合的教程，用于方便大家从零开始搭建个人博客~（Hexo）</p>
+<p>因为我自己使用了 Hexo 搭建个人博客，所以把搭建的教程分享一下吧~</p>
+<p>本教程参考<a class="link"   href="https://blog.csdn.net/yaorongke/article/details/119089190" >这里<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
+<h3 id="什么是-Hexo？"><a href="#什么是-Hexo？" class="headerlink" title="什么是 Hexo？"></a>什么是 Hexo？</h3><p>以下使用 <a class="link"   href="https://hexo.io/" >Hexo 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>的介绍：<br>Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p>
+<h3 id="为什么使用-Hexo-？"><a href="#为什么使用-Hexo-？" class="headerlink" title="为什么使用 Hexo ？"></a>为什么使用 Hexo ？</h3><p>使用 Hexo 的博客配置简单，自带主题丰富，而且甚至可以不需要服务器或者个人域名就能够让大家访问。对于个人来讲简单方便，也比较省钱（？）<br>如果你想的话也可以随意修改 Hexo 源代码或自定义自己的主题。</p>
+<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><p>使用 Hexo 搭建个人博客首先需要一个 Github 账号，以及 Node.js 环境。</p>
+<h4 id="注册-Github-账号"><a href="#注册-Github-账号" class="headerlink" title="注册 Github 账号"></a>注册 Github 账号</h4><p>如果你没有自己的 Github 账号的话，可以访问 <a class="link"   href="https://github.com/" >Github 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>并注册一个账号。</p>
+
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>Github 官网在国内有软墙，部分情况可能需要 VPN 才能登上。</p>
+
+  </div>
+<h4 id="下载安装-Node-js"><a href="#下载安装-Node-js" class="headerlink" title="下载安装 Node.js"></a>下载安装 Node.js</h4><p>你可以在终端使用如下指令来查看是否安装了 Node.js 以及版本：</p>
+<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure></div>
+
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>Node.js 版本需要至少高于 10.13, 推荐使用 Node.js 12.0 以上版本</p>
+
+  </div>
+<p><strong>以下是不同方法安装 Node.js 的教程：</strong></p>
+<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">包管理器</a></li><li class="tab"><a class="#testunique-2">安装程序</a></li><li class="tab"><a class="#testunique-3">二进制文件</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p>按 <code>win</code> + <code>r</code> 键打开运行窗口，输入 <code>powershell</code> 打开 Powershell 终端，并将如下代码复制，粘贴进 Powershell 输入框。<br>也可以一行一行的输入而非复制。<br><strong>注意：以 <code>#</code> 开头的行是注释行，不需要输入。</strong></p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># layouts.download.codeBox.installsFnm</span></span><br><span class="line">winget install Schniz.fnm</span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.fnmEnvSetup</span></span><br><span class="line">fnm env <span class="literal">--use-on-cd</span> | <span class="built_in">Out-String</span> | <span class="built_in">Invoke-Expression</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.downloadAndInstallNodejs</span></span><br><span class="line"><span class="comment">#                             ↓ 大版本号，2024年9月10日最新版本为 v22.8.0</span></span><br><span class="line">fnm use <span class="literal">--install-if-missing</span> <span class="number">22</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNodejsVersion</span></span><br><span class="line">node <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNpmVersion</span></span><br><span class="line">npm <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-x64.msi' title='Node.js 安装程序'><i class='fa-regular fa-hexagon-check'></i> Node.js 安装程序</a></p>
+<ol>
+<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-installer" >访问官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
+<li>双击打开刚刚下载的安装程序，此时你应该看到如下窗口：<figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/nodejs-install1.webp"
+                      alt="Node.js 安装窗口"
+                ><figcaption>Node.js 安装窗口</figcaption></figure></li>
+<li>点击 <code>Next</code> 按钮继续，接下来会让你接受安装协议，勾选 <code>I accept the terms in the License Agreement</code> 并且点击 <code>Next</code> 继续。</li>
+<li>安装程序让你选择程序安装路径，可以随便找一个路径安装。</li>
+<li>接下来一路按 <code>Next</code> 安装就行。</li>
+</ol></div><div class="tab-pane" id="testunique-3"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-win-x64.zip' title='Node.js 二进制文件'><i class='fa-regular fa-hexagon-check'></i> Node.js 二进制文件</a></p>
+<ol>
+<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-binaries" >访问官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
+<li>将下载到的 .zip 文件解压到一个合适的路径。</li>
+<li>按 <code>win</code> + <code>r</code> 键，输入 <code>sysdm.cpl</code> 打开系统属性设置，选择 <code>高级</code> &gt; <code>环境变量</code>。</li>
+<li>在 <code>系统变量</code> 栏的 <code>Path</code> 环境变量下点击 <code>编辑</code>，在列表下添加一个新项，值为你的<strong>Node.js 二进制文件路径</strong>。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/nodejs-install2.webp"
+                      alt="编辑环境变量 Path"
+                ><figcaption>编辑环境变量 Path</figcaption></figure></li>
+</ol>
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>如果你的 <code>Path</code> 变量编辑设置不长这样，而是一个输入框的话，在 <code>变量值</code> 的最后输入一个<strong>英文分号</strong>，然后复制你的<strong>Node.js 二进制文件路径</strong>。</p>
+
+  </div></div></div></div>
+<h5 id="完成安装"><a href="#完成安装" class="headerlink" title="完成安装"></a>完成安装</h5><p>在终端里使用如下代码查看安装情况：</p>
+<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure></div>
+<p>如果运行没有错误并且输出了 Node.js 和 npm 的版本，说明 Node.js 已经安装成功啦。</p>
+
+  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
+    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>注意：在刚安装好程序后需要新开一个终端窗口才可以正常执行命令，在安装 Node.js 之前的终端窗口执行命令会提示错误。</p>
+
+  </div>
+
+<details class="yellow" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>输入 npm -v 出现了无法加载文件 [url]，因为在此系统上禁止运行脚本的解决方法 </summary>
+              <div class='content'>
+              <ol><li>使用管理员身份运行 PowerShell</li><li>在 PowerShell 终端输入以下命令：</li></ol><div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Set-ExecutionPolicy</span> <span class="literal">-ExecutionPolicy</span> RemoteSigned</span><br></pre></td></tr></table></figure></div><ol><li>确定。</li><li>再次输入 <code>npm -v</code>，此时应该输出 npm 的版本。<br><strong>如果还是不可以的话，可以去网上搜一搜解决方法。</strong></li></ol>
+              </div>
+            </details>
+
+<h4 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h4><p>在 <a class="link"   href="https://git-scm.com/" >Git 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>可以安装到最新版的 Git.</p>
+<a class="button  regular" href='https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/Git-2.46.2-64-bit.exe' title='64x Git 安装包'><i class='fa-regular fa-hexagon-check'></i> 64x Git 安装包</a>
+<p>点击上方按钮下载当前（2024年10月4日）最新版本的 Git.</p>
+<p>Git 的安装方式类似 Node.js，如果不清楚可以去网上搜教程。我就先不写啦（溜走）</p>
+<hr>
+<h3 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h3><p>在终端输入以下命令安装 Hexo。</p>
+<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure></div>
+
+<p>在文件资源管理器选择一个合适的路径后，右键选择 <code>在终端中打开</code> 或者点击路径框，输入 cmd 打开终端窗口，输入以下指令创建一个新项目 <code>new_project</code> 并且初始化:</p>
+<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">hexo init new_project</span><br><span class="line"><span class="built_in">cd</span> new_project</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure></div>
+<p>注：<code>npm install</code> 用于安装 hexo 所需的基本模块。</p>
+<h3 id="本地启动-Hexo-服务"><a href="#本地启动-Hexo-服务" class="headerlink" title="本地启动 Hexo 服务"></a>本地启动 Hexo 服务</h3><p>在 Hexo 项目文件夹使用以下命令启动 Hexo 服务</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 生成网页页面</span></span><br><span class="line">hexo g</span><br><span class="line"><span class="comment"># 启动本地服务器</span></span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
+
+<p>此时访问 <a class="link"   href="https://localhost:4000/" >https://localhost:4000<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 应该能够看到如下画面：<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/hexo-hello.webp"
+                      alt="Hexo 初始页面"
+                ><figcaption>Hexo 初始页面</figcaption></figure></p>
+<p>那么恭喜你已经成功搭建好了 Hexo 个人服务端并且可以在本地访问了！</p>
+<h2 id="配置-发布"><a href="#配置-发布" class="headerlink" title="配置 &amp; 发布"></a>配置 &amp; 发布</h2><h3 id="配置-Hexo"><a href="#配置-Hexo" class="headerlink" title="配置 Hexo"></a>配置 Hexo</h3><p>对于 Hexo 的配置。可以查看 <a class="link"   href="https://hexo.io/zh-cn/docs/setup" >Hexo 官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 的 <code>配置</code> 页面。</p>
+<h3 id="创建文章"><a href="#创建文章" class="headerlink" title="创建文章"></a>创建文章</h3><p>输入以下命令来创建一个 Hexo 文章：</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># hexo new 页面模板 页面标题</span></span><br><span class="line"><span class="comment"># post 意思是发布的文章</span></span><br><span class="line">hexo new post 文章标题</span><br></pre></td></tr></table></figure></div>
+<p>此时会在 Hexo 项目文件夹下的 <code>source/_pages</code> 目录生成一个名为 <code>测试文章.md</code> 的文件，且里面有如下内容：</p>
+<div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章标题</span><br><span class="line">date: 2024-09-10 21:49:35</span><br><span class="line"><span class="section">tags:</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure></div>
+<p>你可以在第二个 <code>---</code> 外写上文章的主要内容，格式为 <a class="link"   href="https://markdown.com.cn/cheat-sheet.html" >markdown<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
+<p>在两个 <code>---</code> 中间的内容是文章的 <code>Front-matter</code>，可以访问<a class="link"   href="https://hexo.io/zh-cn/docs/front-matter" >官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>以及你的主题文档来进行设置。</p>
+<p>此时访问 <a class="link"   href="https://localhost:4000/" >https://localhost:4000<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> ，应该能够看到你的文章已经显示出来了。</p>
+<h3 id="切换主题"><a href="#切换主题" class="headerlink" title="切换主题"></a>切换主题</h3><p>访问 <a class="link"   href="https://hexo.io/themes/" >Hexo Themes<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 来选择想要的主题，并且在主题网页里进行安装。</p>
+<p>当选择好主题后，进入你 Hexo 项目文件夹的 <code>_config.yml</code> 调整配置</p>
+<div class="code-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">theme</span> <span class="comment"># 你选择的主题名称</span></span><br></pre></td></tr></table></figure></div>
+<p>将 <code>theme</code> 的值修改为你选择的主题的名称。</p>
+<h3 id="将个人博客发布至-Github-Pages"><a href="#将个人博客发布至-Github-Pages" class="headerlink" title="将个人博客发布至 Github Pages"></a>将个人博客发布至 Github Pages</h3><h4 id="添加你的-github-io-仓库"><a href="#添加你的-github-io-仓库" class="headerlink" title="添加你的 github.io 仓库"></a>添加你的 github.io 仓库</h4><p>登录你的 Github 账号，在个人资料页面的 <code>Respositories</code> 里点击 <code>New</code> 按钮<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio1.webp"
+                      alt="新建一个仓库"
+                ><figcaption>新建一个仓库</figcaption></figure><br>填写 <code>Repository name</code> 项为 <code>你的用户名.github.io</code><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio2.webp"
+                      alt="填写 Repository name 项"
+                ><figcaption>填写 Repository name 项</figcaption></figure></p>
+
+  <div class="note-large warning">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-circle-exclamation"></i><p>注意</p>
+
+    </div>
+    <div class="notel-content">
+      <p>仓库需要是 public 才可被访问 github pages，除非你是 pro 用户。</p>
+
+    </div>
+  </div>
+
+<p>此时你应该可以看到如下画面：<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio4.webp"
+                      alt="空仓库界面"
+                ><figcaption>空仓库界面</figcaption></figure><br>选择红框框起来的 <code>HTTPS</code>，在箭头指向的位置点击复制按钮，可以将你的 github.io 项目的地址复制到剪切板。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio3.webp"
+                      alt="复制仓库地址"
+                ><figcaption>复制仓库地址</figcaption></figure></p>
+<h4 id="发布博客至你的-github-io-仓库"><a href="#发布博客至你的-github-io-仓库" class="headerlink" title="发布博客至你的 github.io 仓库"></a>发布博客至你的 github.io 仓库</h4><p>在命令行安装 <code>hexo-deployer-git</code>:</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line">npm install hexo<span class="literal">-deployer-git</span> <span class="literal">--save</span></span><br></pre></td></tr></table></figure></div>
+<p>如果需要让 Hexo 使用你的 github 项目，需要获取个人 token：</p>
+<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>获取个人 token 方法 </summary>
+              <div class='content'>
+              <p>点击右上角的头像，选择 <code>Settings</code>。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio5.webp"
+                      alt="设置"
+                ><figcaption>设置</figcaption></figure><br>在设置下方找到 <code>Developer settings</code>。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio6.webp"
+                      alt="找到 Developer settings"
+                ><figcaption>找到 Developer settings</figcaption></figure><br>根据图内框选处选择生成新的 token。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio7.webp"
+                      alt="找到 Developer settings"
+                ><figcaption>找到 Developer settings</figcaption></figure><br>设置 token 的名字、期限和适用范围。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio8.webp"
+                      alt="找到 Developer settings"
+                ><figcaption>找到 Developer settings</figcaption></figure><br>点击复制按钮复制 token 的值 （注意： token 只会显示一次）<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio9.webp"
+                      alt="复制 token 内容"
+                ><figcaption>复制 token 内容</figcaption></figure></p>  <div class="note p-4 mb-4 rounded-small warning icon-padding">    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>我用的是旧版 token 生成方法，如果你了解新版 token 的生成，也可以去使用新版。</p>  </div>
+              </div>
+            </details>
+
+<p>在 Hexo 项目文件夹下的 <code>_config.yml</code> 配置项里替换或增加如下内容：</p>
+<div class="code-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">你的</span> <span class="string">github.io</span> <span class="string">项目地址</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br><span class="line">  <span class="attr">token:</span> <span class="string">你的</span> <span class="string">github</span> <span class="string">token</span></span><br></pre></td></tr></table></figure></div>
+
+<p>此时执行以下代码将 Hexo 内容发布</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 清除 public 文件夹缓存</span></span><br><span class="line">hexo clean</span><br><span class="line"><span class="comment"># 生成 hexo 文件</span></span><br><span class="line">hexo g</span><br><span class="line"><span class="comment"># 推送内容至 github.io</span></span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
+
+<p>等待 0 ~ 10 分钟 Github pages 加载，访问 https:&#x2F;&#x2F;你的用户名.github.io&#x2F;，若出现你的网页内容，说明部署成功。<br>如果等待了 10 分钟还是无法访问，可以看看下面的内容：</p>
+<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>Github Pages 出现 404 </summary>
+              <div class='content'>
+              <p>假如你等待了 10 分钟后再访问你的页面依然提示 404 的话，可能是以下原因导致的：</p><p class='h5' id="仓库不为-public"><a href="#仓库不为-public" class="headerlink" title="仓库不为 public"></a>仓库不为 public</h5><p>可以检查一下你的仓库可见性是否为 Public，也就是中间上方显示的仓库名称右边小框里的内容。</p><h5 id="Github-pages-分支不为-main"><a href="#Github-pages-分支不为-main" class="headerlink" title="Github pages 分支不为 main"></a>Github pages 分支不为 main</h5><p>前往你 github.io 仓库里的 <code>Settings</code> &gt; <code>Pages</code> 设置查看 <code>Build and deployment</code> 栏位中的 <code>Branch</code> 是否为 <code>main</code>，如果是 <code>None</code>，就调整为 <code>main</code>。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio10.webp"
+                      alt="调整分支设置"
+                ><figcaption>调整分支设置</figcaption></figure><br>之后再次等待一段时间看看可不可以访问。<br>如果还是不行的话，可以看看上方图片写的站点文件夹是否为 <code>/</code> 或是你在 Hexo 项目文件夹下的 <code>_config</code> 设置的 <code>root</code> 项值。</p><p>还是不行的话，只好建议把详细内容放到网上搜索尝试解决了 xwx。（或者也可以发到评论区里）</p>
+              </div>
+            </details>
+
+<h3 id="绑定个人域名"><a href="#绑定个人域名" class="headerlink" title="绑定个人域名"></a>绑定个人域名</h3><p>如果你想把你部署在 Github Pages 的 Hexo 个人博客放到自己的域名下，可以看看如下内容：</p>
+<p>前往你 github.io 仓库里的 <code>Settings</code> &gt; <code>Pages</code> 设置查看 <code>Custom domain</code> 栏位，填写自定义域名为你的域名并且勾选 <code>Enforce HTTPS</code> 用来强制使用 HTTPS 协议。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading_179.webp"
+                     data-src="https://image.179.life/images/post_images/hexoblog/githubio11.webp"
+                      alt="修改自定义域名"
+                ><figcaption>修改自定义域名</figcaption></figure></p>
+<p>在你的 Hexo 项目文件夹下的 <code>source</code> 文件夹下创建一个名为 <code>CNAME</code> 的文件（注意，完整文件名就是 <code>CNAME</code>），然后在第一行写下你的域名，例如：</p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">blog.xzadudu179.top</span><br></pre></td></tr></table></figure></div>
+<p>注意 <code>CNAME</code> 里只能写一个域名哦。<br>之后执行以下代码将新增的内容发布：</p>
+<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
+<p>等待 0 ~ 10 分钟后访问你填写的域名地址，如果成功访问并且出现你的网页内容，说明部署成功。</p>
+<p>如果出现了 404 的问题，可以看看上一栏 Github Pages 出现 404 问题的折叠块。</p>
+<h2 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h2><p>现在你应该搭建好了一个个人博客了！可以添加新文章&#x2F;新功能啦~</p>
+<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#x74;&#101;&#114;&#114;&#97;&#x31;&#x37;&#x39;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#x6f;&#x6d;" >terra179@163.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> &#x2F; <a class="link"   href="mailto:&#109;&#101;&#64;&#120;&#122;&#x61;&#100;&#117;&#100;&#117;&#x31;&#55;&#57;&#x2e;&#x74;&#111;&#x70;" >me@xzadudu179.top<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 哦。</p>
+]]></content>
+      <categories>
+        <category>计算机</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -560,220 +887,105 @@
       </tags>
   </entry>
   <entry>
-    <title>从零开始：使用 Hexo 搭建个人博客</title>
-    <url>/posts/18015/</url>
-    <content><![CDATA[
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>注意：本教程仅适用于 Windows 系统</p>
-
-  </div>
-
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>可能不少人都想搭建一个个人博客，但是经常可能不知道用什么框架&#x2F;方法，或者遇到一些踩坑 &#x2F; 对于一些步骤不知道怎么做的情况。我就打算做一个整合的教程，用于方便大家从零开始搭建个人博客~（Hexo）</p>
-<p>因为我自己使用了 Hexo 搭建个人博客，所以把搭建的教程分享一下吧~</p>
-<p>本教程参考<a class="link"   href="https://blog.csdn.net/yaorongke/article/details/119089190" >这里<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
-<h3 id="什么是-Hexo？"><a href="#什么是-Hexo？" class="headerlink" title="什么是 Hexo？"></a>什么是 Hexo？</h3><p>以下使用 <a class="link"   href="https://hexo.io/" >Hexo 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>的介绍：<br>Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p>
-<h3 id="为什么使用-Hexo-？"><a href="#为什么使用-Hexo-？" class="headerlink" title="为什么使用 Hexo ？"></a>为什么使用 Hexo ？</h3><p>使用 Hexo 的博客配置简单，自带主题丰富，而且甚至可以不需要服务器或者个人域名就能够让大家访问。对于个人来讲简单方便，也比较省钱（？）<br>如果你想的话也可以随意修改 Hexo 源代码或自定义自己的主题。</p>
-<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><p>使用 Hexo 搭建个人博客首先需要一个 Github 账号，以及 Node.js 环境。</p>
-<h4 id="注册-Github-账号"><a href="#注册-Github-账号" class="headerlink" title="注册 Github 账号"></a>注册 Github 账号</h4><p>如果你没有自己的 Github 账号的话，可以访问 <a class="link"   href="https://github.com/" >Github 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>并注册一个账号。</p>
-
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>Github 官网在国内有软墙，部分情况可能需要 VPN 才能登上。</p>
-
-  </div>
-<h4 id="下载安装-Node-js"><a href="#下载安装-Node-js" class="headerlink" title="下载安装 Node.js"></a>下载安装 Node.js</h4><p>你可以在终端使用如下指令来查看是否安装了 Node.js 以及版本：</p>
-<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure></div>
-
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>Node.js 版本需要至少高于 10.13, 推荐使用 Node.js 12.0 以上版本</p>
-
-  </div>
-<p><strong>以下是不同方法安装 Node.js 的教程：</strong></p>
-<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">包管理器</a></li><li class="tab"><a class="#testunique-2">安装程序</a></li><li class="tab"><a class="#testunique-3">二进制文件</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p>按 <code>win</code> + <code>r</code> 键打开运行窗口，输入 <code>powershell</code> 打开 Powershell 终端，并将如下代码复制，粘贴进 Powershell 输入框。<br>也可以一行一行的输入而非复制。<br><strong>注意：以 <code>#</code> 开头的行是注释行，不需要输入。</strong></p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># layouts.download.codeBox.installsFnm</span></span><br><span class="line">winget install Schniz.fnm</span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.fnmEnvSetup</span></span><br><span class="line">fnm env <span class="literal">--use-on-cd</span> | <span class="built_in">Out-String</span> | <span class="built_in">Invoke-Expression</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.downloadAndInstallNodejs</span></span><br><span class="line"><span class="comment">#                             ↓ 大版本号，2024年9月10日最新版本为 v22.8.0</span></span><br><span class="line">fnm use <span class="literal">--install-if-missing</span> <span class="number">22</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNodejsVersion</span></span><br><span class="line">node <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># layouts.download.codeBox.verifiesRightNpmVersion</span></span><br><span class="line">npm <span class="literal">-v</span> <span class="comment"># layouts.download.codeBox.shouldPrint</span></span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="testunique-2"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-x64.msi' title='Node.js 安装程序'><i class='fa-regular fa-hexagon-check'></i> Node.js 安装程序</a></p>
+    <title>个人制作的 QQ 机器人 XME-Bot</title>
+    <url>/posts/29749/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="为什么想做-XME-Bot"><a href="#为什么想做-XME-Bot" class="headerlink" title="为什么想做 XME-Bot"></a>为什么想做 XME-Bot</h3><p>我其实一直有做 QQ 机器人的想法（？）从去年（2023）就尝试过去做一个 QQ 机器人了，当时用的是 <a class="link"   href="https://koishi.chat/zh-CN/" >Koishi<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> + Blocks 可视化代码块做的 QQ 机器人，也叫 XME-Bot（感觉我想做的的这个 XME 机器人一直没做出来）。</p>
+<p>那时候写了很多好玩的功能，但在某次我打算继续写的时候，忽然发现自己数据库里的所有数据都消失了，而且代码也没了…</p>
+<p>其实我到现在还不知道为什么会这样，而且 Koishi 好像也废掉了？很多页面打不开，重新安装什么的也没有用。</p>
+<p>虽然很离奇，但是也让我做 QQ 机器人或者说做好 XME 机器人的意愿又多了一番？可惜我一直在网上找不到什么 QQ 机器人实现方法，那段时间常用的 go-cqhttp 框架也废掉了…</p>
+<h3 id="一些没能成功的尝试"><a href="#一些没能成功的尝试" class="headerlink" title="一些没能成功的尝试"></a>一些没能成功的尝试</h3><p>在今年前半年，我还去尝试了新出现的 QQ 官方机器人接口~ 可惜功能实在太局限了，虽然确实也写出了一些功能… 但是一个连 QQ 号都获取不了，定时发消息什么的都做不到的机器人怎么能实现我想做的事情呢？特别是过了几个月还出现了 IP 白名单配置，机器人运行设备的 IP 必须要在 IP 白名单里才可以运行… 还有 URL 白名单，用来发图片…种种限制让我也放弃了 QQ 官方的机器人实现。</p>
+<p>不过我这段时间接触了一下 <a class="link"   href="https://lagrangedev.github.io/Lagrange.Doc/Lagrange.OneBot/" >Lagrange OneBot<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，发现好像写 qq 机器人也不一定要找一个完全集成的框架，其实可以仅仅找一个 OneBot 协议实现，再找 QQ 协议实现就好了。</p>
+<p>但是到哪里找实现 OneBot 协议又比较简单的框架呢？</p>
+<p>我还想过自己实现…但是写了一半后发现自己好像不是特别理解这种网络相关的程序运作，也被劝退了…</p>
+<h3 id="为什么执着于-QQ-机器人"><a href="#为什么执着于-QQ-机器人" class="headerlink" title="为什么执着于 QQ 机器人"></a>为什么执着于 QQ 机器人</h3><p>其实我有想过去做别的平台的机器人，那些平台不仅功能完善，可能还有更好的社区之类的，开发起来比 QQ 机器人方便很多。</p>
+<p>可是作为自己想方便群友和自己的想法来看，如果一个机器人要跑到其他平台去调用，明显有些太麻烦了…</p>
+<p>想来想去，想要满足我的需求，想要让它足够方便，仍然是需要在 QQ 上实现机器人。于是我执着于尝试 QQ 机器人的实现…</p>
+<h3 id="Nonebot1"><a href="#Nonebot1" class="headerlink" title="Nonebot1"></a><a class="link"   href="https://v1.nonebot.dev/" >Nonebot1<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h3><p>最近我发现了一个叫 <a class="link"   href="https://v1.nonebot.dev/" >Nonebot1<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 框架，正好是我想要的：<strong>专用于 QQ 机器人，适配 OneBot API</strong>。虽然已经很长时间没更新了，但对我这种新人来说大概会更容易一些（？）反正大不了重写嘛（被打）</p>
+<p>然后我用 <a class="link"   href="https://v1.nonebot.dev/" >Nonebot1<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 配合 <a class="link"   href="https://lagrangedev.github.io/Lagrange.Doc/Lagrange.OneBot/" >Lagrange OneBot<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 实现了我想要的！</p>
+<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><h3 id="XME-Bot"><a href="#XME-Bot" class="headerlink" title="XME-Bot"></a>XME-Bot</h3><p>XME-Bot 是我自己给自己做的一个多功能机器人，主要用于服务群友（工具类）或者娱乐类什么的，想让大家通过机器人节省时间 &#x2F; 消遣时间~ 或许也会更喜欢待在我的群里？</p>
+<p>XME-Bot 是完全开源的，我希望大家可以帮忙 &#x2F; 玩一玩我的机器人（？）虽然自己的技术力很菜就是了。</p>
+<p>由于我的 XME-Bot 在刚测试的前两天拉到外部群测试遭到了一些让机器人<strong>恶意发送违规消息</strong>的行为导致它被永久封禁，这段时间我对这种情况表现格外的小心（？）</p>
+<h4 id="关于-Bot-的设计"><a href="#关于-Bot-的设计" class="headerlink" title="关于 Bot 的设计"></a>关于 Bot 的设计</h4><p>我希望 XME-Bot 设计：</p>
 <ol>
-<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-installer" >访问官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
-<li>双击打开刚刚下载的安装程序，此时你应该看到如下窗口：<figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/nodejs-install1.webp"
-                      alt="Node.js 安装窗口"
-                ><figcaption>Node.js 安装窗口</figcaption></figure></li>
-<li>点击 <code>Next</code> 按钮继续，接下来会让你接受安装协议，勾选 <code>I accept the terms in the License Agreement</code> 并且点击 <code>Next</code> 继续。</li>
-<li>安装程序让你选择程序安装路径，可以随便找一个路径安装。</li>
-<li>接下来一路按 <code>Next</code> 安装就行。</li>
-</ol></div><div class="tab-pane" id="testunique-3"><p><a class="button  regular" href='https://nodejs.org/dist/v22.9.0/node-v22.9.0-win-x64.zip' title='Node.js 二进制文件'><i class='fa-regular fa-hexagon-check'></i> Node.js 二进制文件</a></p>
-<ol>
-<li>点击上方按钮或<a class="link"   href="https://nodejs.org/zh-cn/download/prebuilt-binaries" >访问官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）</li>
-<li>将下载到的 .zip 文件解压到一个合适的路径。</li>
-<li>按 <code>win</code> + <code>r</code> 键，输入 <code>sysdm.cpl</code> 打开系统属性设置，选择 <code>高级</code> &gt; <code>环境变量</code>。</li>
-<li>在 <code>系统变量</code> 栏的 <code>Path</code> 环境变量下点击 <code>编辑</code>，在列表下添加一个新项，值为你的<strong>Node.js 二进制文件路径</strong>。<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/nodejs-install2.webp"
-                      alt="编辑环境变量 Path"
-                ><figcaption>编辑环境变量 Path</figcaption></figure></li>
+<li>使用方便快捷</li>
+<li>减少任何可能的重复工作或记忆&#x2F;计算</li>
+<li>依赖性小，方便移植</li>
 </ol>
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>如果你的 <code>Path</code> 变量编辑设置不长这样，而是一个输入框的话，在 <code>变量值</code> 的最后输入一个<strong>英文分号</strong>，然后复制你的<strong>Node.js 二进制文件路径</strong>。</p>
 
-  </div></div></div></div>
-<h5 id="完成安装"><a href="#完成安装" class="headerlink" title="完成安装"></a>完成安装</h5><p>在终端里使用如下代码查看安装情况：</p>
-<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure></div>
-<p>如果运行没有错误并且输出了 Node.js 和 npm 的版本，说明 Node.js 已经安装成功啦。</p>
-
-  <div class="note p-4 mb-4 rounded-small yellow icon-padding">
-    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>注意：在刚安装好程序后需要新开一个终端窗口才可以正常执行命令，在安装 Node.js 之前的终端窗口执行命令会提示错误。</p>
+  <div class="note p-4 mb-4 rounded-small orange icon-padding">
+    <i class="note-icon fa-solid fa-circle-question"></i><p>我其实不指望我能一上来就写好…只希望大家别骂 呜呜</p>
 
   </div>
 
-<details class="yellow" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>输入 npm -v 出现了无法加载文件 [url]，因为在此系统上禁止运行脚本的解决方法 </summary>
-              <div class='content'>
-              <ol><li>使用管理员身份运行 PowerShell</li><li>在 PowerShell 终端输入以下命令：</li></ol><div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Set-ExecutionPolicy</span> <span class="literal">-ExecutionPolicy</span> RemoteSigned</span><br></pre></td></tr></table></figure></div><ol><li>确定。</li><li>再次输入 <code>npm -v</code>，此时应该输出 npm 的版本。<br><strong>如果还是不可以的话，可以去网上搜一搜解决方法。</strong></li></ol>
-              </div>
-            </details>
-
-<h4 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h4><p>在 <a class="link"   href="https://git-scm.com/" >Git 官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>可以安装到最新版的 Git.</p>
-<a class="button  regular" href='https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/Git-2.46.2-64-bit.exe' title='64x Git 安装包'><i class='fa-regular fa-hexagon-check'></i> 64x Git 安装包</a>
-<p>点击上方按钮下载当前（2024年10月4日）最新版本的 Git.</p>
-<p>Git 的安装方式类似 Node.js，如果不清楚可以去网上搜教程。我就先不写啦（溜走）</p>
-<hr>
-<h3 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h3><p>在终端输入以下命令安装 Hexo。</p>
-<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure></div>
-
-<p>在文件资源管理器选择一个合适的路径后，右键选择 <code>在终端中打开</code> 或者点击路径框，输入 cmd 打开终端窗口，输入以下指令创建一个新项目 <code>new_project</code> 并且初始化:</p>
-<div class="code-container" data-rel="Cmd"><figure class="iseeu highlight cmd"><table><tr><td class="code"><pre><span class="line">hexo init new_project</span><br><span class="line"><span class="built_in">cd</span> new_project</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure></div>
-<p>注：<code>npm install</code> 用于安装 hexo 所需的基本模块。</p>
-<h3 id="本地启动-Hexo-服务"><a href="#本地启动-Hexo-服务" class="headerlink" title="本地启动 Hexo 服务"></a>本地启动 Hexo 服务</h3><p>在 Hexo 项目文件夹使用以下命令启动 Hexo 服务</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 生成网页页面</span></span><br><span class="line">hexo g</span><br><span class="line"><span class="comment"># 启动本地服务器</span></span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
-
-<p>此时访问 <a class="link"   href="https://localhost:4000/" >https://localhost:4000<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 应该能够看到如下画面：<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/hexo-hello.webp"
-                      alt="Hexo 初始页面"
-                ><figcaption>Hexo 初始页面</figcaption></figure></p>
-<p>那么恭喜你已经成功搭建好了 Hexo 个人服务端并且可以在本地访问了！</p>
-<h2 id="配置-发布"><a href="#配置-发布" class="headerlink" title="配置 &amp; 发布"></a>配置 &amp; 发布</h2><h3 id="配置-Hexo"><a href="#配置-Hexo" class="headerlink" title="配置 Hexo"></a>配置 Hexo</h3><p>对于 Hexo 的配置。可以查看 <a class="link"   href="https://hexo.io/zh-cn/docs/setup" >Hexo 官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 的 <code>配置</code> 页面。</p>
-<h3 id="创建文章"><a href="#创建文章" class="headerlink" title="创建文章"></a>创建文章</h3><p>输入以下命令来创建一个 Hexo 文章：</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># hexo new 页面模板 页面标题</span></span><br><span class="line"><span class="comment"># post 意思是发布的文章</span></span><br><span class="line">hexo new post 文章标题</span><br></pre></td></tr></table></figure></div>
-<p>此时会在 Hexo 项目文件夹下的 <code>source/_pages</code> 目录生成一个名为 <code>测试文章.md</code> 的文件，且里面有如下内容：</p>
-<div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章标题</span><br><span class="line">date: 2024-09-10 21:49:35</span><br><span class="line"><span class="section">tags:</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure></div>
-<p>你可以在第二个 <code>---</code> 外写上文章的主要内容，格式为 <a class="link"   href="https://markdown.com.cn/cheat-sheet.html" >markdown<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
-<p>在两个 <code>---</code> 中间的内容是文章的 <code>Front-matter</code>，可以访问<a class="link"   href="https://hexo.io/zh-cn/docs/front-matter" >官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>以及你的主题文档来进行设置。</p>
-<p>此时访问 <a class="link"   href="https://localhost:4000/" >https://localhost:4000<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> ，应该能够看到你的文章已经显示出来了。</p>
-<h3 id="切换主题"><a href="#切换主题" class="headerlink" title="切换主题"></a>切换主题</h3><p>访问 <a class="link"   href="https://hexo.io/themes/" >Hexo Themes<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 来选择想要的主题，并且在主题网页里进行安装。</p>
-<p>当选择好主题后，进入你 Hexo 项目文件夹的 <code>_config.yml</code> 调整配置</p>
-<div class="code-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">theme</span> <span class="comment"># 你选择的主题名称</span></span><br></pre></td></tr></table></figure></div>
-<p>将 <code>theme</code> 的值修改为你选择的主题的名称。</p>
-<h3 id="将个人博客发布至-Github-Pages"><a href="#将个人博客发布至-Github-Pages" class="headerlink" title="将个人博客发布至 Github Pages"></a>将个人博客发布至 Github Pages</h3><h4 id="添加你的-github-io-仓库"><a href="#添加你的-github-io-仓库" class="headerlink" title="添加你的 github.io 仓库"></a>添加你的 github.io 仓库</h4><p>登录你的 Github 账号，在个人资料页面的 <code>Respositories</code> 里点击 <code>New</code> 按钮<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio1.webp"
-                      alt="新建一个仓库"
-                ><figcaption>新建一个仓库</figcaption></figure><br>填写 <code>Repository name</code> 项为 <code>你的用户名.github.io</code><br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio2.webp"
-                      alt="填写 Repository name 项"
-                ><figcaption>填写 Repository name 项</figcaption></figure></p>
-
-  <div class="note-large warning">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <i class="notel-icon fa-solid fa-circle-exclamation"></i><p>注意</p>
-
-    </div>
-    <div class="notel-content">
-      <p>仓库需要是 public 才可被访问 github pages，除非你是 pro 用户。</p>
-
-    </div>
-  </div>
-
-<p>此时你应该可以看到如下画面：<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio4.webp"
-                      alt="空仓库界面"
-                ><figcaption>空仓库界面</figcaption></figure><br>选择红框框起来的 <code>HTTPS</code>，在箭头指向的位置点击复制按钮，可以将你的 github.io 项目的地址复制到剪切板。<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio3.webp"
-                      alt="复制仓库地址"
-                ><figcaption>复制仓库地址</figcaption></figure></p>
-<h4 id="发布博客至你的-github-io-仓库"><a href="#发布博客至你的-github-io-仓库" class="headerlink" title="发布博客至你的 github.io 仓库"></a>发布博客至你的 github.io 仓库</h4><p>在命令行安装 <code>hexo-deployer-git</code>:</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line">npm install hexo<span class="literal">-deployer-git</span> <span class="literal">--save</span></span><br></pre></td></tr></table></figure></div>
-<p>如果需要让 Hexo 使用你的 github 项目，需要获取个人 token：</p>
-<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>获取个人 token 方法 </summary>
-              <div class='content'>
-              <p>点击右上角的头像，选择 <code>Settings</code>。<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio5.webp"
-                      alt="设置"
-                ><figcaption>设置</figcaption></figure><br>在设置下方找到 <code>Developer settings</code>。<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio6.webp"
-                      alt="找到 Developer settings"
-                ><figcaption>找到 Developer settings</figcaption></figure><br>根据图内框选处选择生成新的 token。<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio7.webp"
-                      alt="找到 Developer settings"
-                ><figcaption>找到 Developer settings</figcaption></figure><br>设置 token 的名字、期限和适用范围。<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio8.webp"
-                      alt="找到 Developer settings"
-                ><figcaption>找到 Developer settings</figcaption></figure><br>点击复制按钮复制 token 的值 （注意： token 只会显示一次）<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio9.webp"
-                      alt="复制 token 内容"
-                ><figcaption>复制 token 内容</figcaption></figure></p>  <div class="note p-4 mb-4 rounded-small warning icon-padding">    <i class="note-icon fa-solid fa-circle-exclamation"></i><p>我用的是旧版 token 生成方法，如果你了解新版 token 的生成，也可以去使用新版。</p>  </div>
-              </div>
-            </details>
-
-<p>在 Hexo 项目文件夹下的 <code>_config.yml</code> 配置项里替换或增加如下内容：</p>
-<div class="code-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">你的</span> <span class="string">github.io</span> <span class="string">项目地址</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br><span class="line">  <span class="attr">token:</span> <span class="string">你的</span> <span class="string">github</span> <span class="string">token</span></span><br></pre></td></tr></table></figure></div>
-
-<p>此时执行以下代码将 Hexo 内容发布</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 清除 public 文件夹缓存</span></span><br><span class="line">hexo clean</span><br><span class="line"><span class="comment"># 生成 hexo 文件</span></span><br><span class="line">hexo g</span><br><span class="line"><span class="comment"># 推送内容至 github.io</span></span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
-
-<p>等待 0 ~ 10 分钟 Github pages 加载，访问 https:&#x2F;&#x2F;你的用户名.github.io&#x2F;，若出现你的网页内容，说明部署成功。<br>如果等待了 10 分钟还是无法访问，可以看看下面的内容：</p>
-<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>Github Pages 出现 404 </summary>
-              <div class='content'>
-              <p>假如你等待了 10 分钟后再访问你的页面依然提示 404 的话，可能是以下原因导致的：</p><p class='h5' id="仓库不为-public"><a href="#仓库不为-public" class="headerlink" title="仓库不为 public"></a>仓库不为 public</h5><p>可以检查一下你的仓库可见性是否为 Public，也就是中间上方显示的仓库名称右边小框里的内容。</p><h5 id="Github-pages-分支不为-main"><a href="#Github-pages-分支不为-main" class="headerlink" title="Github pages 分支不为 main"></a>Github pages 分支不为 main</h5><p>前往你 github.io 仓库里的 <code>Settings</code> &gt; <code>Pages</code> 设置查看 <code>Build and deployment</code> 栏位中的 <code>Branch</code> 是否为 <code>main</code>，如果是 <code>None</code>，就调整为 <code>main</code>。<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio10.webp"
-                      alt="调整分支设置"
-                ><figcaption>调整分支设置</figcaption></figure><br>之后再次等待一段时间看看可不可以访问。<br>如果还是不行的话，可以看看上方图片写的站点文件夹是否为 <code>/</code> 或是你在 Hexo 项目文件夹下的 <code>_config</code> 设置的 <code>root</code> 项值。</p><p>还是不行的话，只好建议把详细内容放到网上搜索尝试解决了 xwx。（或者也可以发到评论区里）</p>
-              </div>
-            </details>
-
-<h3 id="绑定个人域名"><a href="#绑定个人域名" class="headerlink" title="绑定个人域名"></a>绑定个人域名</h3><p>如果你想把你部署在 Github Pages 的 Hexo 个人博客放到自己的域名下，可以看看如下内容：</p>
-<p>前往你 github.io 仓库里的 <code>Settings</code> &gt; <code>Pages</code> 设置查看 <code>Custom domain</code> 栏位，填写自定义域名为你的域名并且勾选 <code>Enforce HTTPS</code> 用来强制使用 HTTPS 协议。<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/hexoblog/githubio11.webp"
-                      alt="修改自定义域名"
-                ><figcaption>修改自定义域名</figcaption></figure></p>
-<p>在你的 Hexo 项目文件夹下的 <code>source</code> 文件夹下创建一个名为 <code>CNAME</code> 的文件（注意，完整文件名就是 <code>CNAME</code>），然后在第一行写下你的域名，例如：</p>
-<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">blog.xzadudu179.top</span><br></pre></td></tr></table></figure></div>
-<p>注意 <code>CNAME</code> 里只能写一个域名哦。<br>之后执行以下代码将新增的内容发布：</p>
-<div class="code-container" data-rel="Powershell"><figure class="iseeu highlight powershell"><table><tr><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
-<p>等待 0 ~ 10 分钟后访问你填写的域名地址，如果成功访问并且出现你的网页内容，说明部署成功。</p>
-<p>如果出现了 404 的问题，可以看看上一栏 Github Pages 出现 404 问题的折叠块。</p>
-<h2 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h2><p>现在你应该搭建好了一个个人博客了！可以添加新文章&#x2F;新功能啦~</p>
-<p>如果遇到任何问题，请在评论区发评论或者发邮箱到 <a class="link"   href="mailto:&#116;&#x65;&#114;&#x72;&#97;&#x31;&#55;&#x39;&#64;&#x31;&#x36;&#51;&#x2e;&#99;&#111;&#x6d;" >terra179@163.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> &#x2F; <a class="link"   href="mailto:&#109;&#101;&#64;&#x78;&#x7a;&#x61;&#x64;&#117;&#x64;&#x75;&#x31;&#x37;&#57;&#46;&#116;&#111;&#x70;" >me@xzadudu179.top<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 哦。</p>
+<h4 id="关于-Bot-的功能"><a href="#关于-Bot-的功能" class="headerlink" title="关于 Bot 的功能"></a>关于 Bot 的功能</h4><p>毕竟 XME-Bot 是一个多功能机器人，肯定是群友想做什么 &#x2F; 我想做什么就加什么啦~</p>
+<p>不过也不是什么功能都要整出来，肯定还是得做筛选的，不然可能感觉太乱了 xwx。</p>
+<p>现在想的功能大多数也是群友想出来的，说实话，我还是不太确定到底要不要公开让别人随意拉 BOT 到其他群聊…不过哪怕要做，我也得做一下违禁词 &#x2F; 图片处理什么的（钱包 呜呜）</p>
+<h3 id="XME-Bot-文档"><a href="#XME-Bot-文档" class="headerlink" title="XME-Bot 文档"></a>XME-Bot 文档</h3><p>我给 XME-Bot 单独写了一个文档在 <a class="link"   href="https://docs.xme.xzadudu179.top/" >https://docs.xme.xzadudu179.top<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 里面，大概方便合作开发也方便群友看帮助什么的~</p>
+<p>顺便，这是我第一次写这种技术文档（？）用了一个可能不是很火的 <a class="link"   href="https://github.com/docsifyjs" >Docsify<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 框架（里面一大堆 CSS 被我自己改了一下 hhh）</p>
+<h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><h3 id="XME-Bot-的未来"><a href="#XME-Bot-的未来" class="headerlink" title="XME-Bot 的未来"></a>XME-Bot 的未来</h3><p>我希望未来 XME-Bot 可以变成一个大家都喜欢用的工具+娱乐类机器人，也能找到有意愿的人和我一起合作开发 XME-Bot，顺便接入很多功能，让它变成群里不可或缺的便携性工具 &#x2F; 朋友。</p>
+<p>或许以后会让 XME-Bot 和其他的服务联动，亦或是变成连我自己都需要的工具？到时候再说吧…</p>
+<p>我能想到我以后<strong>一定</strong>会重写 XME-Bot，因为我知道我现在的技术力并不好，也没有参与过任何实际项目的制作，大概也是让我攒攒经验吧…</p>
+<h3 id="为什么我要做-XME-Bot？"><a href="#为什么我要做-XME-Bot？" class="headerlink" title="为什么我要做 XME-Bot？"></a>为什么我要做 XME-Bot？</h3><p>我把 XME-Bot 作为一个自己参与并且规划的项目，无论它到底有没有用，对我来说都是在计算机的道路上继续尝试…</p>
+<p>我的群友在以前有 Bot 玩的时候玩得很开心，进群里的第一件事也都是找 Bot 签到，以前的 Bot 没了对我来说还是很可惜，我一直想找一个新的方法做出一个功能完善，方便移植的 Bot，让我继续和群友享受和 Bot 玩的快乐？</p>
+<p>希望 XME-Bot 的未来能越来越好。</p>
 ]]></content>
       <categories>
         <category>计算机</category>
-        <category>教程</category>
+        <category>服务</category>
       </categories>
       <tags>
-        <tag>博客</tag>
-        <tag>教程</tag>
+        <tag>想法</tag>
+        <tag>作品</tag>
+        <tag>记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我也有个人主页啦！</title>
+    <url>/posts/31834/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么我快要凌晨四点了，下一天还要去出远门的情况下还要写这篇文章？因为现在真的好激动 owo——</p>
+<p>最近羡慕周围朋友们都有一个个人主页，而我只有一个个人博客（？）再加上自己对前端一直都很好奇，很想学点什么东西，遂在前天学习了 Vue3 然后打算用它搭建一个个人主页！</p>
+<p>于是在我产生做出个人主页想法的四天后，我的一级域名 xzadudu179.top 成功被我替换成了自己的主页啦！</p>
+<p>这是我第一次做响应式页面、第一次做前端项目、第一次实际使用 Vue、第一次运用自己学到的各种前端知识（写 hexo 除外，其实我觉得写 hexo 和手搓前端区别还挺大x）不得不说看到我做好并且发布的那一刻心情真的很激动了 owo，以后可能就不会有太多这样的时刻了（？</p>
+<p>于是让我说说关于我做这个个人主页的经历吧 owo （虽然也就短短几天）</p>
+<h2 id="第零天"><a href="#第零天" class="headerlink" title="第零天"></a>第零天</h2><h3 id="思考要怎么做呢"><a href="#思考要怎么做呢" class="headerlink" title="思考要怎么做呢"></a>思考要怎么做呢</h3><p><del class="mask">程序员从 0 开始数数很正常吧</del></p>
+<p>羡慕朋友有自己的个人主页，于是在脑袋里构想了一下要做出什么样的效果，在上面可以记录自己的什么东西之类的~</p>
+<p>但是我还不知道要怎么去写，以及用什么方法写（？）不过至少认为不应该纯手搓 html css js，效率太慢了（）</p>
+<h2 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h2><h3 id="好像想出来了？"><a href="#好像想出来了？" class="headerlink" title="好像想出来了？"></a>好像想出来了？</h3><p>想到了一个可以拿来写这个东西的框架。</p>
+<p>因为学校在教 Vue，而我一直对 Vue 都有点兴趣，而且我其他朋友好像也都是用 Vue 写的个人主页，于是考虑我自己也可以尝试用 Vue3 做出这个项目，正好也是一种真正的（？）实践了 owo。</p>
+<p>可惜我想到这些东西的时候已经很晚了，所以第一天其实没做出什么（？）不过进了 Vue 的官方文档页面。</p>
+<h2 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h2><h3 id="既然想出来了就试试吧"><a href="#既然想出来了就试试吧" class="headerlink" title="既然想出来了就试试吧~"></a>既然想出来了就试试吧~</h3><p>打算正式尝试用 Vue 做这个东西，毕竟我学了学校教的一点 Vue 之后就开始觉得 Javascript 自己本身啰嗦多了（bushi）</p>
+<p>于是我跟着 <a class="link"   href="https://cn.vuejs.org/" >Vue 官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 的教程创建项目、查看 API 语法还有修改（以及参考？） Vue3 模板生成的页面</p>
+<p>花了大概几个小时，通过模仿官方模板的格式以及查询 API 的写法写出了简单的页面和一些样式，但是我还没有想好自己的个人主页具体长什么样（？）</p>
+<p>我还用了一些没怎么试过的 css 技巧，比如半透明元素渐变边框，多层阴影增加层次感和高级感之类的（？）</p>
+
+  <div class="note p-4 mb-4 rounded-small blue icon-padding">
+    <i class="note-icon fa-solid fa-stars"></i><p>感觉越写 css 越觉得 css 这个东西好神奇（？）前端和后端思路果然完全不同 owo</p>
+
+  </div>
+
+<h2 id="第三天"><a href="#第三天" class="headerlink" title="第三天"></a>第三天</h2><blockquote>
+<p><em>说实话，我在写的时候总觉得之前写这个东西的速度好慢，但实际速度这么一看比我想象的快多了（？）从开始写到写完也就花了两天的时间 ovo。</em></p>
+</blockquote>
+<h3 id="写写写！"><a href="#写写写！" class="headerlink" title="写写写！"></a>写写写！</h3><p>这一天打算把自己的个人主页写好！虽然目前的页面 <strong>看起来</strong> 完成度已经很高了，但是还有很多事情没做 ovo。比如主题切换，响应式页面，还有各种细节调整之类的（？）</p>
+<p>一开始用的白色为主色写，加了模糊图片背景什么的，结果写完之后总感觉有些怪怪的，好像还是用更简单的背景更好点（？）以及，我好像确实更喜欢深色一些 hhhh。</p>
+<p>于是修改了颜色，与此同时，个人主页里打算有的内容都差不多做出来了~ （其实也没什么内容，就是个自我介绍之类的啦，以后或许会多点东西，也可能就一直这样子了）</p>
+<p>大致的页面做好后想发挥一些 Vue 的特色（？）而且想让页面看起来更有意思点，做了个背景的手电筒效果，不过刻意调得不怎么明显，作为一种小装饰感觉挺好玩的 owo。</p>
+<h3 id="增加细节-完成度"><a href="#增加细节-完成度" class="headerlink" title="增加细节 &#x2F; 完成度"></a>增加细节 &#x2F; 完成度</h3><p>关于主题切换，本来我还不太想做按钮主题切换，只想做加载的，但是看其他朋友做主题切换按钮好像也不是很难，而且有 Vue 做什么都方便（雾）正好时间充足，就尝试着去做了一个~</p>
+<p>最后的效果很好，但是又是让我的响应式页面设计难度更上一层 xwx。</p>
+<p>响应式页面是我做的最头疼的一项，本来以为自己适配的很好，结果一开移动端设备模拟就爆炸了…</p>
+<p>花了好长时间调调调，加了一大堆的 css 代码（我都想把 app.vue 的 css 单独转移到文件里了，到时候看看吧）最终也是勉强适配上了 chrome 设备模拟提供的所有设备的横屏和竖屏效果，至少不会出现各种奇怪的爆炸情况了（呼）</p>
+<p>这下自己也是会做响应式前端页面的人啦（？）或者说，真正实际制作了一次响应式？</p>
+<h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><a class="button  center large" href='https://archive.www.xzadudu179.top/' title='个人主页'><i class='fa-regular fa-sparkles'></i> 个人主页</a>
+
+<h2 id="owo"><a href="#owo" class="headerlink" title="owo"></a>owo</h2><p>还想再写点东西的——<br>但是好晚了 xwx。<br>睡觉啦，晚安！</p>
+]]></content>
+      <categories>
+        <category>计算机</category>
+        <category>网站</category>
+      </categories>
+      <tags>
+        <tag>作品</tag>
+        <tag>记录</tag>
       </tags>
   </entry>
   <entry>
@@ -842,218 +1054,6 @@
       </categories>
       <tags>
         <tag>总结</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我也有个人主页啦！</title>
-    <url>/posts/31834/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为什么我快要凌晨四点了，下一天还要去出远门的情况下还要写这篇文章？因为现在真的好激动 owo——</p>
-<p>最近羡慕周围朋友们都有一个个人主页，而我只有一个个人博客（？）再加上自己对前端一直都很好奇，很想学点什么东西，遂在前天学习了 Vue3 然后打算用它搭建一个个人主页！</p>
-<p>于是在我产生做出个人主页想法的四天后，我的一级域名 xzadudu179.top 成功被我替换成了自己的主页啦！</p>
-<p>这是我第一次做响应式页面、第一次做前端项目、第一次实际使用 Vue、第一次运用自己学到的各种前端知识（写 hexo 除外，其实我觉得写 hexo 和手搓前端区别还挺大x）不得不说看到我做好并且发布的那一刻心情真的很激动了 owo，以后可能就不会有太多这样的时刻了（？</p>
-<p>于是让我说说关于我做这个个人主页的经历吧 owo （虽然也就短短几天）</p>
-<h2 id="第零天"><a href="#第零天" class="headerlink" title="第零天"></a>第零天</h2><h3 id="思考要怎么做呢"><a href="#思考要怎么做呢" class="headerlink" title="思考要怎么做呢"></a>思考要怎么做呢</h3><p><del class="mask">程序员从 0 开始数数很正常吧</del></p>
-<p>羡慕朋友有自己的个人主页，于是在脑袋里构想了一下要做出什么样的效果，在上面可以记录自己的什么东西之类的~</p>
-<p>但是我还不知道要怎么去写，以及用什么方法写（？）不过至少认为不应该纯手搓 html css js，效率太慢了（）</p>
-<h2 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h2><h3 id="好像想出来了？"><a href="#好像想出来了？" class="headerlink" title="好像想出来了？"></a>好像想出来了？</h3><p>想到了一个可以拿来写这个东西的框架。</p>
-<p>因为学校在教 Vue，而我一直对 Vue 都有点兴趣，而且我其他朋友好像也都是用 Vue 写的个人主页，于是考虑我自己也可以尝试用 Vue3 做出这个项目，正好也是一种真正的（？）实践了 owo。</p>
-<p>可惜我想到这些东西的时候已经很晚了，所以第一天其实没做出什么（？）不过进了 Vue 的官方文档页面。</p>
-<h2 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h2><h3 id="既然想出来了就试试吧"><a href="#既然想出来了就试试吧" class="headerlink" title="既然想出来了就试试吧~"></a>既然想出来了就试试吧~</h3><p>打算正式尝试用 Vue 做这个东西，毕竟我学了学校教的一点 Vue 之后就开始觉得 Javascript 自己本身啰嗦多了（bushi）</p>
-<p>于是我跟着 <a class="link"   href="https://cn.vuejs.org/" >Vue 官方文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 的教程创建项目、查看 API 语法还有修改（以及参考？） Vue3 模板生成的页面</p>
-<p>花了大概几个小时，通过模仿官方模板的格式以及查询 API 的写法写出了简单的页面和一些样式，但是我还没有想好自己的个人主页具体长什么样（？）</p>
-<p>我还用了一些没怎么试过的 css 技巧，比如半透明元素渐变边框，多层阴影增加层次感和高级感之类的（？）</p>
-
-  <div class="note p-4 mb-4 rounded-small blue icon-padding">
-    <i class="note-icon fa-solid fa-stars"></i><p>感觉越写 css 越觉得 css 这个东西好神奇（？）前端和后端思路果然完全不同 owo</p>
-
-  </div>
-
-<h2 id="第三天"><a href="#第三天" class="headerlink" title="第三天"></a>第三天</h2><blockquote>
-<p><em>说实话，我在写的时候总觉得之前写这个东西的速度好慢，但实际速度这么一看比我想象的快多了（？）从开始写到写完也就花了两天的时间 ovo。</em></p>
-</blockquote>
-<h3 id="写写写！"><a href="#写写写！" class="headerlink" title="写写写！"></a>写写写！</h3><p>这一天打算把自己的个人主页写好！虽然目前的页面 <strong>看起来</strong> 完成度已经很高了，但是还有很多事情没做 ovo。比如主题切换，响应式页面，还有各种细节调整之类的（？）</p>
-<p>一开始用的白色为主色写，加了模糊图片背景什么的，结果写完之后总感觉有些怪怪的，好像还是用更简单的背景更好点（？）以及，我好像确实更喜欢深色一些 hhhh。</p>
-<p>于是修改了颜色，与此同时，个人主页里打算有的内容都差不多做出来了~ （其实也没什么内容，就是个自我介绍之类的啦，以后或许会多点东西，也可能就一直这样子了）</p>
-<p>大致的页面做好后想发挥一些 Vue 的特色（？）而且想让页面看起来更有意思点，做了个背景的手电筒效果，不过刻意调得不怎么明显，作为一种小装饰感觉挺好玩的 owo。</p>
-<h3 id="增加细节-完成度"><a href="#增加细节-完成度" class="headerlink" title="增加细节 &#x2F; 完成度"></a>增加细节 &#x2F; 完成度</h3><p>关于主题切换，本来我还不太想做按钮主题切换，只想做加载的，但是看其他朋友做主题切换按钮好像也不是很难，而且有 Vue 做什么都方便（雾）正好时间充足，就尝试着去做了一个~</p>
-<p>最后的效果很好，但是又是让我的响应式页面设计难度更上一层 xwx。</p>
-<p>响应式页面是我做的最头疼的一项，本来以为自己适配的很好，结果一开移动端设备模拟就爆炸了…</p>
-<p>花了好长时间调调调，加了一大堆的 css 代码（我都想把 app.vue 的 css 单独转移到文件里了，到时候看看吧）最终也是勉强适配上了 chrome 设备模拟提供的所有设备的横屏和竖屏效果，至少不会出现各种奇怪的爆炸情况了（呼）</p>
-<p>这下自己也是会做响应式前端页面的人啦（？）或者说，真正实际制作了一次响应式？</p>
-<h2 id="看看效果！"><a href="#看看效果！" class="headerlink" title="看看效果！"></a>看看效果！</h2><a class="button  center large" href='https://archive.www.xzadudu179.top/' title='个人主页'><i class='fa-regular fa-sparkles'></i> 个人主页</a>
-
-<h2 id="owo"><a href="#owo" class="headerlink" title="owo"></a>owo</h2><p>还想再写点东西的——<br>但是好晚了 xwx。<br>睡觉啦，晚安！</p>
-]]></content>
-      <categories>
-        <category>计算机</category>
-        <category>网站</category>
-      </categories>
-      <tags>
-        <tag>作品</tag>
-        <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个人制作的 QQ 机器人 XME-Bot</title>
-    <url>/posts/29749/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="为什么想做-XME-Bot"><a href="#为什么想做-XME-Bot" class="headerlink" title="为什么想做 XME-Bot"></a>为什么想做 XME-Bot</h3><p>我其实一直有做 QQ 机器人的想法（？）从去年（2023）就尝试过去做一个 QQ 机器人了，当时用的是 <a class="link"   href="https://koishi.chat/zh-CN/" >Koishi<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> + Blocks 可视化代码块做的 QQ 机器人，也叫 XME-Bot（感觉我想做的的这个 XME 机器人一直没做出来）。</p>
-<p>那时候写了很多好玩的功能，但在某次我打算继续写的时候，忽然发现自己数据库里的所有数据都消失了，而且代码也没了…</p>
-<p>其实我到现在还不知道为什么会这样，而且 Koishi 好像也废掉了？很多页面打不开，重新安装什么的也没有用。</p>
-<p>虽然很离奇，但是也让我做 QQ 机器人或者说做好 XME 机器人的意愿又多了一番？可惜我一直在网上找不到什么 QQ 机器人实现方法，那段时间常用的 go-cqhttp 框架也废掉了…</p>
-<h3 id="一些没能成功的尝试"><a href="#一些没能成功的尝试" class="headerlink" title="一些没能成功的尝试"></a>一些没能成功的尝试</h3><p>在今年前半年，我还去尝试了新出现的 QQ 官方机器人接口~ 可惜功能实在太局限了，虽然确实也写出了一些功能… 但是一个连 QQ 号都获取不了，定时发消息什么的都做不到的机器人怎么能实现我想做的事情呢？特别是过了几个月还出现了 IP 白名单配置，机器人运行设备的 IP 必须要在 IP 白名单里才可以运行… 还有 URL 白名单，用来发图片…种种限制让我也放弃了 QQ 官方的机器人实现。</p>
-<p>不过我这段时间接触了一下 <a class="link"   href="https://lagrangedev.github.io/Lagrange.Doc/Lagrange.OneBot/" >Lagrange OneBot<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，发现好像写 qq 机器人也不一定要找一个完全集成的框架，其实可以仅仅找一个 OneBot 协议实现，再找 QQ 协议实现就好了。</p>
-<p>但是到哪里找实现 OneBot 协议又比较简单的框架呢？</p>
-<p>我还想过自己实现…但是写了一半后发现自己好像不是特别理解这种网络相关的程序运作，也被劝退了…</p>
-<h3 id="为什么执着于-QQ-机器人"><a href="#为什么执着于-QQ-机器人" class="headerlink" title="为什么执着于 QQ 机器人"></a>为什么执着于 QQ 机器人</h3><p>其实我有想过去做别的平台的机器人，那些平台不仅功能完善，可能还有更好的社区之类的，开发起来比 QQ 机器人方便很多。</p>
-<p>可是作为自己想方便群友和自己的想法来看，如果一个机器人要跑到其他平台去调用，明显有些太麻烦了…</p>
-<p>想来想去，想要满足我的需求，想要让它足够方便，仍然是需要在 QQ 上实现机器人。于是我执着于尝试 QQ 机器人的实现…</p>
-<h3 id="Nonebot1"><a href="#Nonebot1" class="headerlink" title="Nonebot1"></a><a class="link"   href="https://v1.nonebot.dev/" >Nonebot1<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h3><p>最近我发现了一个叫 <a class="link"   href="https://v1.nonebot.dev/" >Nonebot1<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 框架，正好是我想要的：<strong>专用于 QQ 机器人，适配 OneBot API</strong>。虽然已经很长时间没更新了，但对我这种新人来说大概会更容易一些（？）反正大不了重写嘛（被打）</p>
-<p>然后我用 <a class="link"   href="https://v1.nonebot.dev/" >Nonebot1<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 配合 <a class="link"   href="https://lagrangedev.github.io/Lagrange.Doc/Lagrange.OneBot/" >Lagrange OneBot<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 实现了我想要的！</p>
-<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><h3 id="XME-Bot"><a href="#XME-Bot" class="headerlink" title="XME-Bot"></a>XME-Bot</h3><p>XME-Bot 是我自己给自己做的一个多功能机器人，主要用于服务群友（工具类）或者娱乐类什么的，想让大家通过机器人节省时间 &#x2F; 消遣时间~ 或许也会更喜欢待在我的群里？</p>
-<p>XME-Bot 是完全开源的，我希望大家可以帮忙 &#x2F; 玩一玩我的机器人（？）虽然自己的技术力很菜就是了。</p>
-<p>由于我的 XME-Bot 在刚测试的前两天拉到外部群测试遭到了一些让机器人<strong>恶意发送违规消息</strong>的行为导致它被永久封禁，这段时间我对这种情况表现格外的小心（？）</p>
-<h4 id="关于-Bot-的设计"><a href="#关于-Bot-的设计" class="headerlink" title="关于 Bot 的设计"></a>关于 Bot 的设计</h4><p>我希望 XME-Bot 设计：</p>
-<ol>
-<li>使用方便快捷</li>
-<li>减少任何可能的重复工作或记忆&#x2F;计算</li>
-<li>依赖性小，方便移植</li>
-</ol>
-
-  <div class="note p-4 mb-4 rounded-small orange icon-padding">
-    <i class="note-icon fa-solid fa-circle-question"></i><p>我其实不指望我能一上来就写好…只希望大家别骂 呜呜</p>
-
-  </div>
-
-<h4 id="关于-Bot-的功能"><a href="#关于-Bot-的功能" class="headerlink" title="关于 Bot 的功能"></a>关于 Bot 的功能</h4><p>毕竟 XME-Bot 是一个多功能机器人，肯定是群友想做什么 &#x2F; 我想做什么就加什么啦~</p>
-<p>不过也不是什么功能都要整出来，肯定还是得做筛选的，不然可能感觉太乱了 xwx。</p>
-<p>现在想的功能大多数也是群友想出来的，说实话，我还是不太确定到底要不要公开让别人随意拉 BOT 到其他群聊…不过哪怕要做，我也得做一下违禁词 &#x2F; 图片处理什么的（钱包 呜呜）</p>
-<h3 id="XME-Bot-文档"><a href="#XME-Bot-文档" class="headerlink" title="XME-Bot 文档"></a>XME-Bot 文档</h3><p>我给 XME-Bot 单独写了一个文档在 <a class="link"   href="https://docs.xme.xzadudu179.top/" >https://docs.xme.xzadudu179.top<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 里面，大概方便合作开发也方便群友看帮助什么的~</p>
-<p>顺便，这是我第一次写这种技术文档（？）用了一个可能不是很火的 <a class="link"   href="https://github.com/docsifyjs" >Docsify<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 框架（里面一大堆 CSS 被我自己改了一下 hhh）</p>
-<h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><h3 id="XME-Bot-的未来"><a href="#XME-Bot-的未来" class="headerlink" title="XME-Bot 的未来"></a>XME-Bot 的未来</h3><p>我希望未来 XME-Bot 可以变成一个大家都喜欢用的工具+娱乐类机器人，也能找到有意愿的人和我一起合作开发 XME-Bot，顺便接入很多功能，让它变成群里不可或缺的便携性工具 &#x2F; 朋友。</p>
-<p>或许以后会让 XME-Bot 和其他的服务联动，亦或是变成连我自己都需要的工具？到时候再说吧…</p>
-<p>我能想到我以后<strong>一定</strong>会重写 XME-Bot，因为我知道我现在的技术力并不好，也没有参与过任何实际项目的制作，大概也是让我攒攒经验吧…</p>
-<h3 id="为什么我要做-XME-Bot？"><a href="#为什么我要做-XME-Bot？" class="headerlink" title="为什么我要做 XME-Bot？"></a>为什么我要做 XME-Bot？</h3><p>我把 XME-Bot 作为一个自己参与并且规划的项目，无论它到底有没有用，对我来说都是在计算机的道路上继续尝试…</p>
-<p>我的群友在以前有 Bot 玩的时候玩得很开心，进群里的第一件事也都是找 Bot 签到，以前的 Bot 没了对我来说还是很可惜，我一直想找一个新的方法做出一个功能完善，方便移植的 Bot，让我继续和群友享受和 Bot 玩的快乐？</p>
-<p>希望 XME-Bot 的未来能越来越好。</p>
-]]></content>
-      <categories>
-        <category>计算机</category>
-        <category>服务</category>
-      </categories>
-      <tags>
-        <tag>想法</tag>
-        <tag>作品</tag>
-        <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>浅谈自己对于 AI 工具的看法</title>
-    <url>/posts/7858/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>感觉最近 AI 生成的内容越来越多了…无论是图片、音乐、视频、网页还是文章等等，处处充斥着或多或少的 AI 痕迹，虽然平时见到的大部分都是梗内容创作，但是 AI 这种全能的工具，肯定会有很多人将其用于各种方面。</p>
-<p>先说说我对于 AI 的看法好了：<span style="color: var(--primary-color)">我认为 AI 只是计算机与网络世界中又一个工具，与其他的工具无异，只是功能丰富到可以让各行业内容上手门槛变低，且多样化到可以 “代替” 很多人所从事的职业的一部分。<br></span></p>
-<p>我见到很多人担心有些人用 AI 内容与工具正在挤压创作者的生存空间，并以此批判一些人利用 AI “设计” 出一些看似有趣的东西，甚至告诉那些在行业内的人们：他们即将被 AI 取代了，一切都可以由 AI 所做，其他人的呼吁反抗只是不愿被 AI 抢饭碗的呻吟罢了。</p>
-<p>多数是艺术创作者，例如画师、曲师、平面设计师，他们或将 AI 比作没有灵魂的工具，或告诉他人 AI 所产出东西只有内容，没有过程与意义。但他们的想法大多建立在一种 “AI 会让原本的艺术创作者们失去竞争力，或是在环境的影响下，进行传统的艺术创作的人越来越少，而使用 AI 创作的人会越来越多” 的观点上。</p>
-<p>同为艺术创作者，我当然非常同情他们的担忧，也知道 AI 的到来绝对会将很多技术的门槛大幅度地降低。但是我觉得：艺术创作者无需担心自己会被 AI 取代，也无需担心自己的创作将变得不再有意义，因为<strong>你们创作的艺术都是独一无二的</strong>。</p>
-<h2 id="AI-给了我们什么？"><a href="#AI-给了我们什么？" class="headerlink" title="AI 给了我们什么？"></a>AI 给了我们什么？</h2><p>不可否认的是，AI 绝对是一个足以影响世界的技术，也是一项非常强大的工具。我自己也利用 AI 学习了很多东西，或是生成参考，询问问题……</p>
-<p>AI 让大家对新技术的学习和上手速度提升了很多。甚至有些时候根本不需要自己动手，仅凭 AI 就可以做出自己想要的东西。且在经过几年<strong>人类与 AI 相处</strong>的时间，大多人都会写出详细的提示词，让 AI 帮自己做事情。</p>
-<p>但是，这么做的代价是什么？</p>
-<p>我认为大多人在见到 AI 这种 “给提示词就生成” 的厉害与方便后，就不会再像曾经一样愿意花上很多时间去研究、学习，发掘其中包含的知识与要点——大家都更喜欢看到直接的结果。</p>
-<p>这种想法导致大家更倾向依赖于 AI，甚至依赖久了 AI，还会产生类似 “这些知识都没必要学了，只要有 AI 就够了” 这样的想法。</p>
-<p>既然 A 可以用 AI 来做，那 B 也可以，C 也可以…逐渐地，在各行各业遇到自己不会或不愿学做的事情，就交给 AI，甚至自己完全不知道 AI 写这些是什么意思，但是符合自己的要求，那就是好的…</p>
-<p>很明显，这种 AI 生成一切的风气也蔓延至了设计类，和艺术类领域。很多人不知道设计，于是就交给 AI，生成出看起来很高级的内容。其中一个不太容易被外人察觉的内容就是<strong>前端设计</strong>。</p>
-<h2 id="滥用-AI-的后果"><a href="#滥用-AI-的后果" class="headerlink" title="滥用 AI 的后果"></a>滥用 AI 的后果</h2><p>无限制的使用 AI，依赖于 AI 生成的内容而非将 AI 作为帮助自己学习和提升的工具，不仅会产出更多难以维护的内容，还会让人降低审美，失去个性…</p>
-<p>就拿前端设计来说吧，最近我发现有特别多的网站出现了那种 AI 风格，非常明显的 AI 设计的页面，但是外行人几乎看不出来。而且还有很多小网站（多为个人网站或者是小服务网站）开始用 HTML + CSS + Javascript + PHP 这种古老的网页技术栈。这正是我说的对于<strong>依赖与滥用 AI</strong> 造成的后果。</p>
-<p>外行人并没有了解过前端的技术栈都用什么东西，他们只是告诉 AI：“给我生成一个网页，包含 XXX 功能…”。AI 听到这些后，就开始写 HTML CSS JS，随后把看似美观且现代的网页搬上来。用户看到也很满意，随后又找到 AI 让他想办法把这个网页构建到互联网上…随后一个简洁美观，符合用户需求的网站便诞生…其中，用户并没有了解前端的技术，也并不知道设计这些东西应符合的规范，更不知道 AI 是怎么设计出这些页面的…用户就像是甲方，而 AI 是乙方，这使得这些网站的代码结构混乱，页面设计千篇一律，技术栈还是十几年前的样子…没有太多人愿意维护；且设计出的页面没有任何特色，仅仅是 “看起来不错” 而已。</p>
-<p>而现在 AI 设计的前端页面已经多到让我看两眼就能分辨这个内容是不是 AI 所设计的了。</p>
-<p>这是几张 AI 设计的网页截图：</p>
-<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">1</a></li><li class="tab"><a class="#testunique-2">2</a></li><li class="tab"><a class="#testunique-3">3</a></li><li class="tab"><a class="#testunique-4">4</a></li><li class="tab"><a class="#testunique-5">5</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/1.avif"
-                      alt="AI 设计网页1"
-                ><figcaption>AI 设计网页1</figcaption></figure></p></div><div class="tab-pane" id="testunique-2"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/2.avif"
-                      alt="AI 设计网页2"
-                ><figcaption>AI 设计网页2</figcaption></figure></p></div><div class="tab-pane" id="testunique-3"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/3.avif"
-                      alt="AI 设计网页3"
-                ><figcaption>AI 设计网页3</figcaption></figure></p></div><div class="tab-pane" id="testunique-4"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/4.avif"
-                      alt="AI 设计网页4"
-                ><figcaption>AI 设计网页4</figcaption></figure></p></div><div class="tab-pane" id="testunique-5"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/5.avif"
-                      alt="AI 设计网页5"
-                ><figcaption>AI 设计网页5</figcaption></figure></p></div></div></div>
-
-<p>此时我们可以提取出它明显的一些特征：</p>
-<ul>
-<li>圆角阴影卡片</li>
-<li>在部分标题中使用 Emoji</li>
-<li>五颜六色的配色</li>
-<li>内容使用边框板块划分</li>
-<li>比较长&#x2F;深色的页脚</li>
-<li>…</li>
-</ul>
-<p>此时再看一些人类制作的网页设计：</p>
-<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">1</a></li><li class="tab"><a class="#testunique-2">2</a></li><li class="tab"><a class="#testunique-3">3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/9.avif"
-                      alt="网页1"
-                ><figcaption>网页1</figcaption></figure></p></div><div class="tab-pane" id="testunique-2"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/10.avif"
-                      alt="网页2"
-                ><figcaption>网页2</figcaption></figure></p></div><div class="tab-pane" id="testunique-3"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/11.avif"
-                      alt="网页3"
-                ><figcaption>网页3</figcaption></figure></p></div></div></div>
-
-<p>再来看看我所怀疑的一些页面由 AI 设计的网页的截图：</p>
-<div class="tabs" id="tab-testunique"><ul class="nav-tabs"><li class="tab active"><a class="#testunique-1">1</a></li><li class="tab"><a class="#testunique-2">2</a></li><li class="tab"><a class="#testunique-3">3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="testunique-1"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/8.avif"
-                      alt="网页1"
-                ><figcaption>网页1</figcaption></figure></p></div><div class="tab-pane" id="testunique-2"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/7.avif"
-                      alt="网页2"
-                ><figcaption>网页2</figcaption></figure></p></div><div class="tab-pane" id="testunique-3"><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading_179.webp"
-                     data-src="https://image.179.life/images/post_images/aiposts/6.avif"
-                      alt="网页3"
-                ><figcaption>网页3</figcaption></figure></p></div></div></div>
-
-<p>可以看出 AI 的页面设计千篇一律，甚至很快就能找到规律…</p>
-<p>我理解 AI 的好用与高效，但是我真的不希望 AI 设计的无聊页面充斥互联网。</p>
-<p>从去年到现在的这一年时间，我就发现有不少网站更新了他们的页面设计，但也就是从 “还保留些许个人风格” 变成了纯粹的 AI 生成风格，为什么大家会喜欢这种毫无个性，单纯只是 “看起来还行，好像很高级” 的东西，难道只是为了将自己的网页装饰的 “华丽” 一些，使之看起来不简陋，看起来很正经嘛？</p>
-<p>相比于表面高级的 AI 网页，我反倒更喜欢那些网站更新前朴素的页面，保留个人想法与设计的风格，即便看上去略显简陋，但是总比千篇一律毫无特点的批发型页面好…而且 AI 网页真的是我这段时间以来看法从 <strong>新奇</strong> 到 <strong>无聊</strong>和<strong>厌恶</strong> 的变化最快也最大的东西了。</p>
-<p>当然，也不能怪这些做网站的人们，他们大多或许并没有我这样对独特与完美的追求，他们或许只是希望做出一个看着美观，简洁的页面，而此时 AI 帮他们做到了…</p>
-<h2 id="应该拿-AI-做点什么？"><a href="#应该拿-AI-做点什么？" class="headerlink" title="应该拿 AI 做点什么？"></a>应该拿 AI 做点什么？</h2><p>在我的念想里，AI 只能是一种帮助学习，又或是实现自己<strong>具体</strong>的艺术设计的工具，AI 不能是乙方，尤其是在设计与艺术相关的内容上，AI 不能帮你做一切事情。</p>
-<p>依赖 AI 终究还是人类的懒惰造成的，如果真的想学习一个东西，应把 AI 当作学习的工具与老师；如果真的只是想实现一个目的，希望还是能找到一个真正的人去做。AI 仍然不能处理所有事情，我不希望见到随便一个人就让 99% 代码由 AI 完成，且用十多年前的技术栈来写出一个网页，随后花点钱租一个服务器搭建，全程由 AI 辅助，随后用 AI 写个文案发视频说自己花了多久敲了多少行代码做出了多好多有个性的网站，快来访问…不用任何的前端框架，不做任何的前后端分离，不知道静态动态页面，没有任何安全措施…</p>
-<p>设计与艺术方面，就如同 AI 出现前就有的那些譬如配色生成工具、界面排版工具一样，这些东西乍一看是很诱人的，但是它们没有什么作用，无法助你设计出更好的页面，也没法带给你更多的创作灵感。</p>
-<p>AI 的产生加剧了这些问题，各种网站、APP 的页面将会变得更加平庸，恐怕许多人的审美都会受其影响。而设计者依赖于它们只会让自己的思维受到限制，不愿尝试更多更加有趣与创新的设计。</p>
-<p>我知道我的想法并不能影响什么，以后这样的 AI 网站仍然会越来越多，但自己不会因为 AI 的易用而放弃展现自己想法与灵感，也希望其他艺术创作者不会因此而感到不安，设计的意义是自己带来的，注入自己心血的艺术都是独一无二的，也是 AI 所做不到的，无论绘画、音乐、前端、游戏，每一项艺术都是独属于自己的，不可被取代的。</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>观点</tag>
       </tags>
   </entry>
 </search>
