@@ -887,7 +887,7 @@
       </tags>
   </entry>
   <entry>
-    <title>个人制作的 QQ 机器人 XME-Bot</title>
+    <title>个人制作的 QQ 机器人 XME-Bot（漠月）</title>
     <url>/posts/29749/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="为什么想做-XME-Bot"><a href="#为什么想做-XME-Bot" class="headerlink" title="为什么想做 XME-Bot"></a>为什么想做 XME-Bot</h3><p>我其实一直有做 QQ 机器人的想法（？）从去年（2023）就尝试过去做一个 QQ 机器人了，当时用的是 <a class="link"   href="https://koishi.chat/zh-CN/" >Koishi<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> + Blocks 可视化代码块做的 QQ 机器人，也叫 XME-Bot（感觉我想做的的这个 XME 机器人一直没做出来）。</p>
 <p>那时候写了很多好玩的功能，但在某次我打算继续写的时候，忽然发现自己数据库里的所有数据都消失了，而且代码也没了…</p>
